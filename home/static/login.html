@@ -1,0 +1,89 @@
+<!-- CSS only -->
+
+<style>
+    body {
+        background-color: var(--bs-primary) !important;
+        justify-content: center;
+        align-items: center;
+    }
+
+    /* .signupContainer { height: 25=% !important;} */
+
+    .loginContainer,
+    .signupContainer {
+        width: 30%;
+        height: 30%;
+        border-radius: 10px;
+        border: none;
+        box-shadow: 0 0 2px 2px #fff;
+        background-color: white;
+    }
+
+    .i {
+        width: 60% !important;
+    }
+
+     button {
+        width: 40%;
+    }
+
+
+    span {
+        text-decoration: underline;
+        color: grey;
+        cursor: pointer;
+    }
+</style>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+
+
+<body class="d-flex" id="app">
+    <div class="loginContainer  d-flex flex-column justify-content-around align-items-center">
+        <h1>LOGIN</h1>
+        <input class="i form-control" v-model="username" type="text" placeholder="Username" >
+        <input class="i form-control" v-model="password" type="password" placeholder="Password">
+        <div class="i d-flex justify-content-around">
+            <button class="btn btn-outline-primary" @click="login" > Register </button>
+            <button class="btn btn-outline-success" @click="login" >  Login </button>
+        </div>
+    </div>
+
+     <!-- <div class="signupContainer  d-flex flex-column justify-content-around align-items-center">
+        <h1>SIGN UP</h1>
+        <input class="i form-control" type="text" placeholder="Username">
+        <input class="i form-control" type="text" placeholder="Password">
+        <div class="i d-flex justify-content-around">
+            <button class="btn btn-outline-primary" @click="showlogin"> Login </button>
+            <button class="btn btn-outline-success" @click="login"> Register </button>
+    </div> -->
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
+        crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"> </script>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script>
+
+        const { createApp } = Vue
+        createApp({
+            methods: {
+                login() {
+                    $.ajax({ 
+                        url :  "/login" ,
+                        method : "post" , 
+                        contentType : "application/json",
+                        withCredentials: true ,
+                        data : JSON.stringify({ username : this.username , password : this.password }) , 
+                        success : (data) => { 
+                             if (data.status) {  window.location = data.redirect }
+                             else  { alert(data.err) ; }
+                             
+                        }
+                     })
+                } 
+            }
+        }).mount('#app')
+    </script>
+</body>

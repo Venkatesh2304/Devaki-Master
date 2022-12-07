@@ -1,0 +1,27 @@
+<script>
+ function add() {
+	var billto, name;
+    var billfrom = document.getElementById('from').value ;
+    if (document.getElementById('to').value == '' ) {
+	 billto=billfrom
+	} 
+	else {
+	  billto =document.getElementById('to').value ;
+	 }
+	 document.getElementById('p').value = document.getElementById('p').value  +billfrom+'-'+billto+'**' ;
+	  document.getElementById('copy').innerText= document.getElementById('copy').innerText+billfrom+'-'+billto+'\n' ;
+ }
+</script>
+<form method='POST' action='/print' >
+ <select name='types'>
+  <option>Second Copy</option>
+  <option>Both copy</option>
+ </select>
+  <input type='text' id='from' name='from'>
+  <input type='text' id='to' name='to'>
+  <input type='text' id='p' name='p' hidden> 
+  <button type='button' onclick='add();'> Add</button>
+  <button type='submit'> Generate</button>
+ 
+</form>
+<p id='copy'></p>

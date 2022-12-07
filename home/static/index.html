@@ -1,0 +1,322 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SaaS</title>
+    <style>
+        .i {
+            border-radius: 0.5em;
+            margin-left: 0.5em;
+            min-width: 100px;
+            margin-right: 0.5em;
+            margin-top: 5px;
+            margin-bottom: 5px;
+        }
+
+        select {
+            width: 130px !important;
+        }
+
+        .i:hover {
+            transform: scale(1.05);
+        }
+
+        input[type="date"] {
+            min-width: 140px !important;
+        }
+
+        [v-cloak] {
+            display: none;
+        }
+    </style>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+</head>
+
+<body v-cloak id="app">
+    <nav class="mb-4 navbar navbar-expand-lg navbar-dark bg-dark ">
+        <button class="navbar-toggler" data-toggle="collapse" data-target="#navmenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-around" id="navmenu">
+            <ul class="navbar-nav nav-fill">
+                <li class="nav-item mt-0 mb-0 h3"><a class="nav-link" href="#"> Eway </a></li>
+                <li class="nav-item mt-0 mb-0 h3"><a class="nav-link" href="#"> Outstanding </a></li>
+                <li class="nav-item mt-0 mb-0 h3"><a class="nav-link" href="#"> Credit Lock </a></li>
+                <li class="nav-item mt-0 mb-0 h3"><a class="nav-link" href="/update"> Configuration </a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section class="" id="Eway">
+        <div class="container-fluid">
+            <div class="row justify-content-around">
+                <input v-model="fromDate" class="i col form-control" type="date" id="fromDate" @change="getBeats">
+                </input>
+                <input v-model="toDate" class="i col form-control" type="date" id="toDate" @change="getBeats"> </input>
+
+                <select v-model="vehicle" class="col form-select i" id="vehicle">
+                    <option v-for="(vehicleNo,vehicle) in vehicles" :value="vehicleNo">{{vehicle}}</option>
+                </select>
+
+                <select v-model="beat" @change="isBeat = true" class="col form-select i" id="beat">
+                    <option v-for="(beatId,beat) in beats" :value="beat">{{beat}}</option>
+                </select>
+                <input v-model="distance" class="i col form-control" type="number" default="3" />
+
+                <input v-model="billFrom" @change="isBeat = false" class="i col form-control" type="text" id="billFrom"
+                    placeholder="billFrom" />
+                <input v-model="billTo" @change="isBeat = false" class="i col form-control" type="text" id="billTo"
+                    placeholder="billTo"> </input>
+                <button class="i col btn btn-outline-primary" @click="addBill">Add</button>
+                <button class="i col btn btn-outline-danger" @click="addAll">All</button>
+                <select class="col form-select i" id="vehicle" v-model="eType">
+                    <option value="both">Both</option>
+                    <option value="eway">Eway</option>
+                    <option value="einvoice">Einvoice</option>
+                </select>
+                <button class="i col btn btn-outline-success" @click="generate">Generate</button>
+            </div>
+        </div>
+
+        <table id="ewayTable" class="mt-5 text-center table container">
+            <thead class="table-success">
+                <tr>
+                    <th scope="col">Bill Number</th>
+                    <th scope="col"> Vehicle</th>
+                    <th scope="col"> Distance</th>
+                    <th scope="col">Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr v-for="(data,billNo) in data">
+                    <td scope="row">{{billNo}}</td>
+                    <td scope="row">{{data["vehicle"]}}</td>
+                    <td scope="row">{{data["distance"]}}</td>
+                    <td scope="row"> <button class="btn btn-outline-danger" @click="deleteEway(billNo)">Delete</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+
+    </section>
+
+    <section class="d-none d-flex justify-content-center" id="Outstanding">
+         <div class="  d-flex flex-row"> 
+            <input class ="i form-select" type="date" v-model="outstandingDate"/> 
+            <input class ="i form-select" type="number" v-model="maximumDays" placeholder="Maximum Days"/> 
+            <button class="i btn btn-outline-success" @click="generateOutstanding" > Generate </button>
+         </div>
+    </section>
+
+    <section class="d-none d-flex justify-content-center" id="CreditLock">
+           <button  @click="generateCreditLock" class="btn btn-success btn-lg"> CreditLock </button>
+    </section>
+
+    <button type="button" id="ewayLoginToggle" data-toggle="modal" data-target="#ewayLogin" hidden> </button>
+    
+    <!-- Eway Login model  -->
+    <div class="modal fade" id="ewayLogin" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">{{type}} Login</h5>
+                    <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"
+                        id="ewayLoginClose" />
+                </div>
+                <div class="modal-body">
+                    <div class="d-flex flex-column justify-content-center align-items-center">
+                        <img id="captcha" class="m-1.5" />
+                        <input type="text" class="m-3   i form-control" style="width: 50% !important;" v-model="captcha"
+                            placeholder="Captcha" />
+                        <button class="btn btn-outline-success" @click="ewayLogin">Submit</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+   
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
+        crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" />
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+   
+    <script>
+        var x;
+        dateFormatChange = (date) => date.toLocaleDateString().split("/").reverse().join("-")
+        var token = document.cookie.split("token=");
+
+        //axios.defaults.baseURL = 'http://127.0.0.1:5000';
+        //axios.defaults.headers.common['Authorization'] = "Bearer " + token[1].split(";")[0];
+        axios.interceptors.response.use(function (response) {
+            return response;
+        }, (error) => {
+            switch (error.response.status) {
+                case 510: //ikea login credentials expired 
+                    alert("Ikea login Credentials Wrong")
+                    break
+            }
+            return Promise.reject(error);
+        });
+        function download(data, filename) {
+            var downloadUrl = URL.createObjectURL(data)
+            var a = document.createElement("a");
+            a.href = downloadUrl;
+            a.download = filename
+            document.body.appendChild(a);
+            a.click();
+            a.remove();
+        }
+        function downloadCSV(csvStr, filename) {
+            var hiddenElement = document.createElement('a');
+            hiddenElement.href = 'data:text/csv;charset=utf-8,' + encodeURI(csvStr);
+            hiddenElement.target = '_blank';
+            hiddenElement.download = filename;
+            hiddenElement.click();
+        }
+
+
+
+        const { createApp } = Vue
+        createApp({
+            mounted() {
+                date = new Date()
+                this.outstandingDate = dateFormatChange(date)
+                this.maximumDays = 20 ; 
+
+                this.toDate = dateFormatChange(date)
+                date.setDate(date.getDate() - 1)
+                this.fromDate = dateFormatChange(date)
+                this.getBeats()
+                this.eType = "both"
+                this.loginType = ""
+                axios.get("/getvehicle").then((res) => this.vehicles = res.data)
+
+            },
+            methods: {
+                deleteEway(billNo) {
+                    delete this.data[billNo]
+                },
+                addBill() {
+                    var temp = this.isBeat ? this.beat : (this.billFrom + "-" + this.billTo);
+                    this.data[temp] = { "vehicle": this.vehicle, "distance": this.distance }
+                },
+                getBeats() {
+                    axios.post("/getbeats", { fromDate: this.fromDate, toDate: this.toDate },
+                        { contentType: "application/json" })
+                        .then((res) => this.beats = res.data)
+                },
+                addAll() {
+                    Object.keys(this.beats).forEach((beat) => {
+                        if (!this.data.hasOwnProperty(beat)) {
+                            isBeat = true;
+                            this.data[beat] = { "vehicle": this.vehicle, "distance": this.distance }
+                        }
+                    })
+                },
+                async generate() {
+                    switch (this.eType) {
+                        case "both":
+                            this.generateEach("einvoice")
+                            this.generateEach("eway")
+                            break
+                        case "eway":
+                            this.generateEach("eway")
+                            break
+                        case "einvoice":
+                            this.generateEach("einvoice")
+                            break
+
+                    }
+                },
+                generateEach(type) {
+                    axios.post("/eGenerate", JSON.stringify({
+                        types: type, data: this.data, beats: this.beats, fromDate: this.fromDate,
+                        toDate: this.toDate, vehicles: this.vehicles
+                    }), {
+                        credentials: 'include',
+                        headers: { 'Content-Type': 'application/json' }
+                    }).then(res => {
+                        downloadCSV(res.data.download, type + ".csv")
+                    }).catch(err => {
+                        switch (err.response.status) {
+                            case 520: //eway or einvoice login failed  . 
+                                this.loginType = type;
+                                this.ewayLoginOpen(type)
+                                break
+                            case 521:  //no data found 
+                                alert(type + " :  No data Found ...")
+                                break
+                        }
+                    })
+                },
+                ewayLoginOpen(type) {
+                    $.ajax({
+                        url: "/ewayLogin", xhrFields: { responseType: 'blob', withCredentials: true },
+                        contentType: "application/json", data: { types: this.loginType },
+                        success: (data) => {
+                            var url = window.URL || window.webkitURL;
+                            $("#captcha").attr("src", url.createObjectURL(data))
+                        }
+                    })
+                    $("#ewayLoginToggle").click()
+                },
+                ewayLogin() {
+                    $.ajax({
+                        url: "/ewayLogin", method: "POST", xhrFields: { withCredentials: true },
+                        contentType: "application/json",
+                        data: JSON.stringify({ types: this.loginType, "captcha": this.captcha }),
+                        success: (data) => {
+                            $("#ewayLoginClose").click()
+                            if (!data.status) { alert(data.err) }
+                            else { this.generate() }
+                        }
+                    })
+                },
+                generateOutstanding() { 
+                    axios.post("/outstanding" , { 
+                        date : this.outstandingDate , days : this.maximumDays 
+                    } , { contentType : "application/json" , responseType: "blob"}).then((res) =>{ 
+                         download(res.data,"Outstanding_" + this.outstandingDate + ".xlsx")
+                    })
+                }, 
+                generateCreditLock() { 
+                    alert("The process is going , after finish u will recieve alert box")
+                    axios.get("/creditlock").then( async (res) => { 
+                           x = res ; 
+                           var data   =  res.data ;   
+                           alert( "Total Modified Shops :: " + data["count"].toString() )   
+                    })
+                }
+            },
+            data() {
+                return {
+                    data: {},
+                    isBeat: true,
+                    beats: {},
+                    vehicles: {}
+                }
+            }
+        }).mount('#app')
+
+        $(".navbar-nav a").click((e) => { //handles multipage navbar 
+            $("section").addClass("d-none")
+            $("#" + e.target.innerText.replace(" ", "")).removeClass("d-none")
+        })
+
+    </script>
+</body>
+
+</html>

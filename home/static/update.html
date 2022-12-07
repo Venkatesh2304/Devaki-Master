@@ -1,0 +1,115 @@
+<html>
+<style>
+    .userRow {
+        justify-content: space-around;
+        margin-top: 50px !important;
+        align-items: center;
+    }
+
+    .userContainer {
+        max-width: 300px !important;
+        align-items: center;
+        /* border: 2px solid rgb(0,0,250) ; */
+        border-radius: 10px;
+        background-color: var(--bs-yellow);
+        height: fit-content;
+        /* opacity: 0.8; */
+    }
+
+    .userContainer>* {
+        margin-top: 6px;
+        margin-bottom: 6px;
+    }
+</style>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+
+
+<body id="app">
+    <form method="post" action="/postUpdate" enctype="multipart/form-data">
+        <div class="container">
+            <div class="userRow row">
+                <div v-for="user in userid" class="userContainer col d-flex flex-column ">
+                    <h2>{{user.name.toUpperCase()}}</h2>
+                    <input v-for="placeholder , field in user.fields" type="text" class="form-control" :placeholder="[[placeholder]]"
+                        :name="[[user.name + '_' + field]]" v-model="userentry[user.name][field]" />
+                    <button type="button" class="btn btn-primary" @click="() => verify(user.name,user.fields)">Verify</button>
+                </div>
+            </div>
+
+
+            <div class="userRow row">
+                <div v-for="upload in uploads" class="userContainer col d-flex flex-column ">
+                    <h2> {{upload.toUpperCase()}} </h2>
+                    <input :name="[[upload]]"type="file" class="form-control" />
+                    <!-- <a type="button" class="btn btn-primary">Download</button> -->
+                    <a :href="'/preDownload/'  + upload"  download > Download </a>
+                </div>
+            </div>
+            <div class="userRow row">
+                <button type="submit" style="max-width:20%!important ; height: 6vh ;" class="btn btn-success"> Submit
+                    Data </button>
+            </div>
+    </form>
+
+
+    </div>
+
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"> </script>
+    <script>
+        const { createApp } = Vue;
+        
+        var p ;
+        createApp({
+            mounted() { 
+                 $.ajax({ url : "/preload", method : "get" , 
+                   success : (data) =>  { 
+                     this.userentry = data
+                   }
+                })
+            } , 
+            methods: {
+                async verify(type,fields) {
+                    var data = {}
+                    await Object.keys(this.userentry).forEach( (e) => { 
+                        if ( e in fields ) data[e] = this.userentry[e] ; 
+                    })
+                    $.ajax({
+                        url: "/verify",
+                        method: "POST",
+                        headers: { 'Content-Type': 'application/json', },
+                        data : JSON.stringify({ type : data }) ,
+                        success: (data) => {
+                            if (data.status) {
+                                alert("Succes")
+                            } else {
+                                alert("Error : " + data.err)
+                            }
+                        }
+                    })
+                }
+            },
+            data() {
+                return {
+                    userentry : {"ikea" : {} , "eway" : {} , "einvoice" : {}}  , 
+                    userid: 
+                    [
+                        {
+                            "name": "ikea", "fields": {
+                                "username": "username",
+                                "pwd": "password", "dbName": "dbName", "home": "website" , "bill_prefix" : "bill_prefix"
+                            }
+                        },
+                        { "name": "eway", "fields": { "username": "username", "pwd": "password" } },
+                        { "name": "einvoice", "fields": { "username": "username", "pwd": "password" } }
+                    ],
+                    uploads: ["vehicle", "beats"]
+                }
+            }
+        }).mount("#app")
+    </script>
+</body>
+
+</html>

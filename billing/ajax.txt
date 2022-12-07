@@ -1,0 +1,17 @@
+{    
+    "getcrlock" : '/rsunify/app/billing/partyinfo.do?partyId=_parId_&partyCode=_partyCode_&parCodeRef=_parCodeRef_&parHllCode=_parHllCode_&plgFlag=true&salChnlCode=&isMigration=true&blhSourceOfOrder=0' ,
+    "setcrlock" : '/rsunify/app/billing/updatepartyinfo.do?partyCodeRef=_parCodeRef_&creditBills=_newlimit_&creditLimit=_creditLimit_&creditDays=0&panNumber=&servicingPlgValue=_showPLG_&plgPartyCredit=true&parHllCode=_parCodeHll_' ,
+    "getshikhar" : {"uniqueId":0,"importDate":"_importDate_","sourceOfOrder":"'R','N','B'"} , 
+    "getdelivery" : { 
+        "beatName": "","beatNameList": [],"blhFromDt": "","blhSourceOfOrder": 0,"blhToDt": "","locNameList": [],"localityId": "",
+        "optimusSelect": 0, "salesmanNameList": [],"shakthiBusiness": "N","vehId": 0
+    } ,
+    "getmarketorder" : {
+       "qtmBeatList":[],"qtmSalesList":[],"qtmPartyList":[],"orderDate":"_orderDate_","importDate":"_importDate_","futureData":False,"uniqueId":0,
+       "qtmPONumberList":[],"qtmShikharList":[],"sourceOfOrder":"'R','N','B'","paymentType":"ALL","isRaPartialBilled":0
+    } , 
+    "billpdf" : "/rsunify/app/commonPdfRptContrl/pdfRptGeneration?strJsonParams=%7B%22billFrom%22%3A%22_billfrom_%22%2C%22billTo%22%3A%22_billto_%22%2C%22reportType%22%3A%22pdf%22%2C%22blhVatFlag%22%3A2%2C%22shade%22%3A1%2C%22pack%22%3A%22910%22%2C%22damages%22%3Anull%2C%22halfPage%22%3A0%2C%22bp_division%22%3A%22%22%2C%22salesMan%22%3A%22%22%2C%22party%22%3A%22%22%2C%22market%22%3A%22%22%2C%22planset%22%3A%22%22%2C%22fromDate%22%3A%22%22%2C%22toDate%22%3A%22%22%2C%22veh_Name%22%3A%22%22%2C%22printId%22%3A0%2C%22printerName%22%3A%22TVS+MSP+250+Star%22%2C%22Lable_position%22%3A2%2C%22billType%22%3A2%2C%22printOption%22%3A%220%22%2C%22RptClassName%22%3A%22BILL_PRINT_REPORT%22%2C%22reptName%22%3A%22billPrint%22%2C%22RptId%22%3A%22910%22%2C%22freeProduct%22%3A%22Default%22%2C%22shikharQrCode%22%3Anull%2C%22rptTypOpt%22%3A%22pdf%22%2C%22gstTypeVal%22%3A%221%22%2C%22billPrint_isPrint%22%3A0%2C%22units_only%22%3A%22Y%22%7D",
+    "billtxt" : "/rsunify/app/commonPdfRptContrl/pdfRptGeneration?strJsonParams=%7B%22billFrom%22%3A%22_billfrom_%22%2C%22billTo%22%3A%22_billto_%22%2C%22reportType%22%3A%22txt%22%2C%22blhVatFlag%22%3A2%2C%22shade%22%3A1%2C%22pack%22%3A%22910%22%2C%22damages%22%3Anull%2C%22halfPage%22%3A0%2C%22bp_division%22%3A%22%22%2C%22salesMan%22%3A%22%22%2C%22party%22%3A%22%22%2C%22market%22%3A%22%22%2C%22planset%22%3A%22%22%2C%22fromDate%22%3A%22%22%2C%22toDate%22%3A%22%22%2C%22veh_Name%22%3A%22%22%2C%22printId%22%3A1%2C%22printerName%22%3A%22TVS+MSP+250+Star%22%2C%22Lable_position%22%3A2%2C%22billType%22%3A2%2C%22printOption%22%3A%220%22%2C%22RptClassName%22%3A%22BILL_PRINT_REPORT%22%2C%22reptName%22%3A%22billPrint%22%2C%22RptId%22%3A%22910%22%2C%22freeProduct%22%3A%22Default%22%2C%22shikharQrCode%22%3Anull%2C%22rptTypOpt%22%3A%22txt%22%2C%22gstTypeVal%22%3A%221%22%2C%22billPrint_isPrint%22%3A1%2C%22units_only%22%3A%22Y%22%7D"
+}
+
+

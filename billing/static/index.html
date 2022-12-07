@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>
+	var times;
+	var loc = window.location.href;
+	loc = loc.replace('billindex', '');
+	console.log(loc);
+	//var location = 'http://127.0.0.1:5000/';
+
+	
+	function quits() {
+		clearInterval(times);
+	}
+	function query() {
+		window.open(loc + 'billquery', '_blank');
+	}
+	function manual() {
+		window.open(loc + 'billprint', '_blank');
+	}
+    function config() {
+        window.open(loc + 'config', '_blank');
+    }
+</script>
+
+<style>
+    table {
+        border : 2px solid ;
+    }
+    td {
+        border: 2px solid ;
+    }
+    .tables {
+        display: flex;
+        justify-content: space-around;
+        align-items: flex-start;
+        margin-top: 50px;
+		min-height:200px ;
+    }  
+    td , .creditlock{
+        border: none;
+        outline: none;
+        font-family: system-ui;
+        text-transform: uppercase;
+    }
+	.procesname {
+       font-size : 18px; 
+	}
+    .indicator {
+        height: 15px;
+        width: 15px;
+        opacity: 75%;
+        border-radius: 50%;
+        display: inline-block;
+    }
+    .unactive {
+        background: rgb(200,200,200);
+    }
+    .green {
+        background: green;
+    }
+    .blink {
+        animation: blinker 1s linear infinite;
+        background: green ;
+    }
+    .red {
+        background: red;
+    }
+    @keyframes blinker {
+        50% {
+            opacity: 0;
+        }
+    }
+    .status {
+        min-width: 250px;
+    }
+    .stats {
+        min-width: 400px;
+    }
+    .creditlock {
+        min-width: 400px;
+        margin-left: 350px;
+        width: fit-content;
+    }
+    caption,.caption {
+        font-size: 20px;
+        text-transform: uppercase;
+        font-family: system-ui;
+        color: brown;
+		width : max-content;
+		margin:auto ;
+    }
+    .creditlock td {
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+	
+</style>
+
+<script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+
+<body>
+	<div id="app">
+		<marquee id='marquee'> {{marquee}} </marquee>
+		<input type='text' v-model="count_bills" id='count' placeholder='Maximum alloted line'>
+		<input type='text' id='sleep' placeholder='Sleep time in minutes' v-model="repeat_time">
+		<button v-on:click="start_loop"> Start </button>
+		<button v-on:click="stop_loop"> Quit </button>
+		<button onclick='manual();'>Manual Printing</button>
+		<button onclick='query();'> Bill Status </button>
+		<button onclick='config();'> Configuration </button>
+		<div class="tables">
+			<table class="status">
+				<caption>Process</caption>
+				<tbody>
+					<tr v-for="[name,process] in Object.entries(status)" class="process">
+						<td :class="[process['class'],'indicator']"></td>
+						<td class="processname"> {{name}} </td>
+						<td class="processtime"> {{  process["time"]!=-1 ? (process["time"].toFixed(2)  + " SEC" ) : "" }} </td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table class="stats">
+				<caption>Report</caption>
+				<tbody>
+					<tr v-for="[key,value] in Object.entries(stats)" class="process">
+						<td> {{key}} </td>
+						<td> {{value}} </td>
+					</tr>
+				</tbody>
+			</table>
+
+		</div>
+	   
+		<div class="creditlock">
+			<table>
+				<caption> CREDIT LOCKING</caption>
+				<tr class="process">
+					 <td></td>
+					 <td></td>
+					 <td>Bills</td>
+					 <td>Outstanding</td>
+					 <td>Value</td>
+					<td>Salesman</td>
+				</tr>
+				<tr v-for="[shop,data] in Object.entries(creditlock)" class="process">
+					<td> <input v-model="data['status']" type="checkbox" /> </td>
+					<td>{{shop}}</td>
+					<td>{{data["billsutilised"]}}</td>
+					<td>{{data["creditlimit"]}}</td>
+					<td>{{data["billvalue"]}}</td>
+					<td>{{data["salesman"]}}</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+</body>
+<script>
+
+	var vm = new Vue({
+		el: '#app',
+		data: {
+			status: {},
+			marquee: "Start the process",
+			is_started: false,
+			count_bills: 10,
+			repeat_time : 15 ,
+			current_loop: "",
+			is_process_running:true ,
+			creditlock: {} ,
+			stats: {},
+			timer: 0,
+			frequency_status: 3000  // stsus update in ms.
+		},
+		methods: {
+			start: function () {
+                var date = new Date();
+				this.is_started = true;
+				var self = this ;
+                $.ajax({
+					url: '\start\\' + this.count_bills,
+                    contentType: "application/json",
+					data: JSON.stringify(this.creditlock),
+					method: "POST",
+					success: (data)  => {
+						self.stats = data["stats"];
+						self.creditlock = data["creditlock"];
+						self.stopgetstatus();
+					}
+				});
+                this.startgetstatus();
+                this.marquee = 'Last Updated : ' + date.toLocaleTimeString();
+            } ,
+			start_loop: function () {
+				if (!this.is_started) {
+					this.start();
+					this.current_loop = setInterval(this.start, parseFloat(this.repeat_time) * 1000 * 60)
+				}
+			},
+			stop_loop: function () {
+				clearInterval(this.current_loop);
+				this.marquee = "Start the Process"
+				this.is_started = false
+            },
+			updateStatus : function ( ) { 
+						this.status = $.ajax({
+							url: "/status",
+							method: "POST",
+							async: false
+						});
+						this.status = this.status["responseJSON"]
+			}, 
+			startgetstatus: function () {
+				if (this.timer === 0) {
+					this.timer = setInterval(() =>  this.updateStatus() , this.frequency_status);
+				}
+			} ,
+			stopgetstatus: function () {
+			     	this.updateStatus()
+					clearInterval(this.timer);
+					this.timer = 0;
+				}
+		}
+	});
+
+</script>
+
+
+

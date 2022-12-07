@@ -1,0 +1,35 @@
+{
+    "eway_download" : {
+        'jsonData': '[]',
+        'jsonObjforheaders': '[{},{}]',
+        'jsonObjfileInfi': '[{"title":"E Way Bill,E Way Bill","reportfilename":"E_Way_Bill","viewpage":"Utility/eWayBillGeneration","viewname":"E_Way_Bill_Generation_SP"}]',
+        'orderBy': '[Vehicle No],[Trans Date],[Doc.No]',
+        'jsonObjWhereClause': '{":val1":"_fromDate_",":val2":"_toDate_",":val3":0,":val4":"", ":val5":"_fromBill_" , ":val6":"_toBill_" , ":val7":"_beats_" ,":val8":"SecBills"}',
+    } ,
+    "einvoice_download" : {
+        'jsonData': '[]',
+        'jsonObjforheaders': '[{},{}]',
+        'jsonObjfileInfi': '[{"title":"E Invoice,E Invoice","reportfilename":"E_Invoice","viewpage":"Utility/eWayBillGeneration","viewname":"E_Invoice_Generation_SP"}]',
+        'orderBy': '[Vehicle No],[Trans Date],[Doc.No]',
+        'jsonObjWhereClause': '{":val1":"_fromDate_",":val2":"_toDate_",":val3":1,":val4":"", ":val5":"_fromBill_" , ":val6":"_toBill_" , ":val7":"_beats_" ,":val8":"SecBills"}',
+    } , 
+    "outstanding_download" : { 
+        'jsonData': '[]' , 
+        'jsonObjforheaders' : '[]' ,
+        'jsonObjfileInfi': '[{"title":"Outstanding Report-Salesman Wise ,Outstanding Report,Outstanding Summary","reportfilename":"Outstanding Report","viewpage":"report/outstanding","viewname":"OUT_STANDING_REPORT","querycount":"2"}]' ,
+        'jsonObjWhereClause' : '{":val1":"Beat Wise",":val2":"Party Level",":val3":"",":val4":"_beats_",":val5":"",":val6":"",":val7":"",":val8":"2018-04-01",":val9":"_date_",":val10":"2018-04-01",":val11":"_date_",":val12":"None",":val13":"Equals",":val14":"0.00",":val15":"Active",":val16":"Excel",":val17":""}',
+        'orderBy': '[Salesman],[Party Name], CONVERT(DATETIME,[Bill Date],103)'
+    } ,
+    "partymaster_download" : { 
+         'jsonData': "[]",
+         'jsonObjforheaders': "[{}]",
+         'jsonObjfileInfi': '[{"title":"Party Master Report,Party Master Report,Channel Details,Class Details,Category Details,Type Details","reportfilename":"Party Master Report","viewpage":"report/partyMaster","viewname":"PARTY_Master_Report_SP","querycount":5}]',
+         'jsonObjWhereClause': '{":val1":"",":val2":"",":val3":"",":val4":"",":val5":"",":val6":"",":val7":"",":val8":"",":val9":"Active",":val10":"Yes",":val11":"Party Code",":val12":"All",":val13":"INDIA"}'
+    }, 
+    "creditlock_download" : {
+        'jsonData': "[]" ,
+        'jsonObjforheaders': "[{}]" , 
+        'jsonObjfileInfi': '[{"title":"Credit Locking,Credit Locking","reportfilename":"Credit Locking","viewpage":"Credit_Limit_Setting_Upload/credit_limit_setting_upload","viewname":"Credit_Limit_Submit_Upload_SP","querycount":1}]',
+        'jsonObjWhereClause': '{":beatList":""}'
+    }
+}

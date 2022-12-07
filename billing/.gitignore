@@ -1,0 +1,7 @@
+__pycache__
+*.xlsx
+*.pdf
+bill.txt
+*.log
+*.json
+

@@ -1,0 +1,1 @@
+{'ikea_user': 'VEN', 'ikea_pass': 'Ven2006@', 'dbName': '41A392', 'headless': 0, 'base': 'https://leveredge102.hulcd.com', 'name': 'TKS', 'lines': '25', 'secadd': 'ARIYA', 'secname': 'DEVAKI'}
