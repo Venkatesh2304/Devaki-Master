@@ -13,6 +13,8 @@ import webbrowser
 from flask_cors import CORS
 from collections import defaultdict
 
+from flask_jwt_extended import get_jwt_identity
+
 
 app = Flask(__name__)
 CORS(app)
