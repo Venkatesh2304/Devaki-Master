@@ -88,21 +88,14 @@ einv_bill_format = {
     "Version": "1.1",
     "TranDtls": {
                "TaxSch": "GST",
-               "SupTyp": "B2B",
+               "SupTyp": "B2B"
     },
     "DocDtls": {
         "Typ": "INV",
                "No": ('Document Number',),
                "Dt": ('Document Date (DD/MM/YYYY)', lambda x: x.strftime('%d/%m/%Y'))
     },
-    "SellerDtls": {
-        "Gstin": "33AAPFD1365C1ZR",
-        "LglNm": "DEVAKI ENTERPRISES",
-        "Addr1": "F/4 , INDUSTRISAL ESTATE , ARIYAMANGALAM",
-        "Loc": "TRICHY",
-               "Pin": 620010,
-               "Stcd": "33"
-    },
+    "SellerDtls": json.loads("einv_seller.json"),
     "BuyerDtls": {
         "Gstin": ('Buyer GSTIN',),
         "LglNm": ('Buyer Legal Name',),
