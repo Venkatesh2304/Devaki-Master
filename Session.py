@@ -11,7 +11,7 @@ import inspect
 from pymongo import MongoClient
 from pprint import pformat as _pformat 
 
-get_jwt_identity = lambda : "a"
+#get_jwt_identity = lambda : "a"
 
 
 logging.debug("MongoDB Connecting ...")
