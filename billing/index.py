@@ -22,16 +22,19 @@ CORS(app)
 curr_ikea = None 
 
 @app.route('/start/<count>',methods = ["POST"])
+@jwt_required()
 def start(count) :  
     global curr_ikea 
     curr_ikea = ikea( lines= int(count), credit_release= request.json)
     return curr_ikea.start()
     
 @app.route('/status',methods = ["POST"])
+@jwt_required()
 def status() :
     return curr_ikea.Status()
 
 @app.route('/print',methods=['POST'])
+@jwt_required()
 def prints() :
     bills=[]
     Ikea = ikea()
@@ -50,10 +53,12 @@ def prints() :
     return redirect('/billprint')
 
 @app.route('/billprint')
+@jwt_required()
 def billprint() :
     return app.send_static_file('billprint.html')
 
 @app.route('/billindex')
+@jwt_required()
 def index() :
     return app.send_static_file('index.html')
 
