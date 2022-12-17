@@ -14,12 +14,18 @@ from flask_cors import CORS
 from collections import defaultdict
 
 from flask_jwt_extended import get_jwt_identity
-
+from flask_jwt_extended import jwt_required
 
 app = Flask(__name__)
 CORS(app)
 
 curr_ikea = None 
+
+app.config['JWT_SECRET_KEY'] = 'abcdef'
+app.config['JWT_ACCESS_TOKEN_EXPIRES'] = timedelta(days=720)
+app.config['JWT_TOKEN_LOCATION'] = ['cookies']
+app.config["JWT_COOKIE_CSRF_PROTECT"] = False
+
 
 @app.route('/start/<count>',methods = ["POST"])
 @jwt_required()
