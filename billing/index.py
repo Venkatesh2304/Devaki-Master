@@ -74,6 +74,6 @@ def index() :
 
 
 
-webbrowser.open('http://127.0.0.1:5000/billindex')
+webbrowser.open('http://localhost:5000/billindex')
 app.config['JSON_SORT_KEYS'] = False
-app.run(threaded=True , port = 5000)
+app.run(threaded=False , port = 5000)

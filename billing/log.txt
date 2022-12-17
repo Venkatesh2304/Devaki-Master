@@ -1,473 +1,373 @@
 Load Process Started
 Load Process Completed
-Load Process Started
-Load Process Completed
-Collection import process started 10:7:4
-Collection imported for party D-P19618 (MALAR MINI SUPER MARKET-D) with Bill No.TKS44154 is successful.
-Collection import process completed 10:7:5
-Order import process started 10:7:6
-Party's Credit Bills Exhausted, OVEYA DEPTEMENT STORE-D-D-D-D
-Party's Credit Bills Exhausted, KANNAN STORES  Maligai& General Merchant-D
-Starting bill for SRI ASTALAXMI STORE (SVS)-D-D-P at 10:7:11
-Following Locked Category Payout Adjustments were done in this bill TKS45588 for SRI ASTALAXMI STORE (SVS)-D-D-P
-44267871, OUTLET_PAY, 48.0
-Created bill  TKS45588 for SRI ASTALAXMI STORE (SVS)-D-D-P at 10:7:15
-Starting bill for SRI MURUGAN STORE-D-D-D-D-P at 10:7:18
-Created bill  TKS45589 for SRI MURUGAN STORE-D-D-D-D-P at 10:7:20
-Starting bill for Sheebastroes-D at 10:7:22
-Created bill  TKS45590 for Sheebastroes-D at 10:7:22
-Starting bill for JJ STORE-D at 10:7:23
-Created bill  TKS45591 for JJ STORE-D at 10:7:23
-Starting bill for JAMALUDEEN MALiGAI-D at 10:7:24
-Created bill  TKS45592 for JAMALUDEEN MALiGAI-D at 10:7:25
-Starting bill for AkILA MALIGAI (N) D-D at 10:7:25
-Created bill  TKS45593 for AkILA MALIGAI (N) D-D at 10:7:26
-Starting bill for MALAR MINI SUPER MARKET-D at 10:7:27
-Created bill  TKS45594 for MALAR MINI SUPER MARKET-D at 10:7:27
-Starting bill for BALAJI STORE-D at 10:7:30
-Created bill  TKS45595 for BALAJI STORE-D at 10:7:32
+Order import process started 10:51:14
+Starting bill for SAGAR GENERAL STORE-D-D at 10:51:15
+Created bill  GSU51866 for SAGAR GENERAL STORE-D-D at 10:51:17
+Starting bill for ANANDA SUPER MARKET-D-D-Nuts at 10:51:19
+Created bill  GSU51867 for ANANDA SUPER MARKET-D-D-Nuts at 10:51:19
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 10:7:33
+Order import process ended 10:51:20
 Load Process Started
 Load Process Completed
-Collection import process started 10:13:16
-Collection imported for party D-P16382 (A. R. STROE-D) with Bill No.TKS41469 is successful.
-Collection imported for party D-P18346 (SRI SAI MALIGAI-D) with Bill No.TKS44227 is successful.
-Collection imported for party D-P341 (AMANULLA BEEDA STALL-D) with Bill No.TKS44228 is successful.
-Collection import process completed 10:13:17
-Order import process started 10:13:18
-Party's Credit Bills Exhausted, OVEYA DEPTEMENT STORE-D-D-D-D
+Load Process Started
+Load Process Completed
+Order import process started 10:51:54
+Starting bill for SRI JEYA LAKSHMI STORE-D-U2NC at 10:51:55
+Created bill  GSU51868 for SRI JEYA LAKSHMI STORE-D-U2NC at 10:51:55
+Starting bill for Mangai Departmental Store-D at 10:52:1
+Created bill  GSU51869 for Mangai Departmental Store-D at 10:52:4
+Starting bill for Aara Market-P at 10:52:5
+Created bill  GSU51870 for Aara Market-P at 10:52:5
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 10:13:18
+Order import process ended 10:52:6
 Load Process Started
 Load Process Completed
-Collection import process started 10:22:0
-Collection imported for party D-P446 (Mahaganapathi Store-D) with Bill No.TKS43439 is successful.
-Collection imported for party D-P9968 (SRI SUKRA STORE-D) with Bill No.TKS44229 is successful.
-Collection import process completed 10:22:1
-Order import process started 10:22:2
-Party's Credit Bills Exhausted, OVEYA DEPTEMENT STORE-D-D-D-D
+Load Process Started
+Load Process Completed
+Order import process started 0:54:43
+Starting bill for C.M-TRADERS-D-F at 0:54:44
+Created bill  GSU51871 for C.M-TRADERS-D-F at 0:54:45
+Starting bill for C.M-TRADERS-D at 0:54:45
+Created bill  GSU51872 for C.M-TRADERS-D at 0:54:46
+Starting bill for Bisme Store-D at 0:54:46
+Created bill  GSU51873 for Bisme Store-D at 0:54:46
+Starting bill for indian beeda stall-P at 0:54:47
+Created bill  GSU51874 for indian beeda stall-P at 0:54:48
+Starting bill for Anna Kamachi  malligai-P at 0:54:49
+Created bill  GSU51875 for Anna Kamachi  malligai-P at 0:54:49
+Starting bill for Rajeshkanna maligai-D-P at 0:54:50
+Created bill  GSU51876 for Rajeshkanna maligai-D-P at 0:54:50
+Starting bill for Astalakshmi store-D-P at 0:54:51
+CreditNote Adjustments 1.0 were done for PartyAstalakshmi store-D-P
+Created bill  GSU51877 for Astalakshmi store-D-P at 0:54:52
+Starting bill for A.K.G Malligai-D at 0:54:53
+Created bill  GSU51878 for A.K.G Malligai-D at 0:54:54
+Starting bill for Bisme Store-D at 0:54:55
+Created bill  GSU51879 for Bisme Store-D at 0:54:56
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 10:22:3
+Order import process ended 0:54:56
 Load Process Started
 Load Process Completed
 Load Process Started
 Load Process Completed
-Order import process started 10:31:0
-Starting bill for MANJU ENTERPRISES-D at 10:31:1
-Created bill  TKS45600 for MANJU ENTERPRISES-D at 10:31:2
+Order import process started 0:59:44
+Starting bill for Mangai Departmental Store-D at 0:59:47
+Created bill  GSU51880 for Mangai Departmental Store-D at 0:59:49
+Starting bill for Mangai Departmental Store-D at 0:59:53
+Created bill  GSU51881 for Mangai Departmental Store-D at 0:59:54
+Starting bill for BAHAVATHI STORE-THILI-D 1-D-D-U2NC at 0:59:56
+CreditNote Adjustments 528.37 were done for PartyBAHAVATHI STORE-THILI-D 1-D-D-U2NC
+Created bill  GSU51882 for BAHAVATHI STORE-THILI-D 1-D-D-U2NC at 0:59:57
+Starting bill for SIVARAM STORE-D  SVS 1-D-D-U2NC at 0:59:58
+CreditNote Adjustments 185.83 were done for PartySIVARAM STORE-D  SVS 1-D-D-U2NC
+Created bill  GSU51883 for SIVARAM STORE-D  SVS 1-D-D-U2NC at 0:59:58
+Starting bill for Annapoorna Oil Store-D at 0:59:59
+Created bill  GSU51884 for Annapoorna Oil Store-D at 1:0:0
+Starting bill for Saravana Pazhamudir Cholai-D at 1:0:3
+Created bill  GSU51885 for Saravana Pazhamudir Cholai-D at 1:0:6
+Party's Credit Period in days exhausted, PRAKASH STORES-SAALAI ROAD-F-D-D-D
+Basepack Code: 13015 - 12 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Starting bill for FELIX STORE-D-D-D at 1:0:7
+Created bill  GSU51886 for FELIX STORE-D-D-D at 1:0:7
+Starting bill for SHREYA MARKETING -D-D-Nuts at 1:0:8
+CreditNote Adjustments 482.44995 were done for PartySHREYA MARKETING -D-D-Nuts
+Created bill  GSU51887 for SHREYA MARKETING -D-D-Nuts at 1:0:8
+Starting bill for AARTHY GENERAL &MEDICAL(WHOLESALE)-D-Nuts at 1:0:9
+CreditNote Adjustments 2928.19 were done for PartyAARTHY GENERAL &MEDICAL(WHOLESALE)-D-Nuts
+Created bill  GSU51888 for AARTHY GENERAL &MEDICAL(WHOLESALE)-D-Nuts at 1:0:9
+Starting bill for Sri Amman Stores-D-D-D-Nuts at 1:0:9
+Created bill  GSU51889 for Sri Amman Stores-D-D-D-Nuts at 1:0:10
+Starting bill for SRI JAYALAKSMI MEDICAL-D-D-D-Nuts at 1:0:10
+Following Locked Category Payout Adjustments were done in this bill GSU51890 for SRI JAYALAKSMI MEDICAL-D-D-D-Nuts
+44268325, OUTLET_PAY, 188.11000061035156
+Created bill  GSU51890 for SRI JAYALAKSMI MEDICAL-D-D-D-Nuts at 1:0:11
+Starting bill for kaviya store-D-P at 1:0:12
+Created bill  GSU51891 for kaviya store-D-P at 1:0:12
+Starting bill for SAROJA IDILY MAVU MALIGAI KADAI-P at 1:0:13
+Created bill  GSU51892 for SAROJA IDILY MAVU MALIGAI KADAI-P at 1:0:13
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 10:31:3
+Order import process ended 1:0:14
 Load Process Started
 Load Process Completed
-Collection import process started 10:32:3
-Collection imported for party N-P1481 (MANI MALLLIGAI-D-Nuts) with Bill No.TKS41472 is successful.
-Collection imported for party D-P17514 (Mahalakshmi Trades-D) with Bill No.TKS42778 is successful.
-Collection imported for party N-P1601 (ANBUROSE MALIGAI-D-D-Nuts) with Bill No.TKS44230 is successful.
-Collection imported for party F-P61 (GANESHA STORE-D-D-F) with Bill No.TKS44236 is successful.
-Collection import process completed 10:32:5
-Order import process started 10:32:6
-Party's Credit Bills Exhausted, OVEYA DEPTEMENT STORE-D-D-D-D
-Starting bill for Mahaganapathi Store-D at 10:32:10
-Created bill  TKS45601 for Mahaganapathi Store-D at 10:32:12
-Starting bill for AMANULLA BEEDA STALL-D at 10:32:13
-Created bill  TKS45602 for AMANULLA BEEDA STALL-D at 10:32:13
-Starting bill for SRI SUKRA STORE-D at 10:32:14
-Created bill  TKS45603 for SRI SUKRA STORE-D at 10:32:15
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Collection import process started 1:44:22
+Collection imported for party D-P20643 (R S Maligai-D) with Bill No.GSU50026 is successful.
+Collection imported for party D-P20416 (A-1 MALIGAI - ALWARTHOPE-D-D) with Bill No.GSU50042 is successful.
+Collection imported for party D-P946 (ALLAVDAINS STORES-D) with Bill No.GSU50064 is successful.
+Collection imported for party D-P20441 (DHEN MALIGAI-D-D-D) with Bill No.GSU50690 is successful.
+Collection imported for party D-P19476 (PYAREI BANU-D) with Bill No.GSU50693 is successful.
+Collection imported for party D-P3966 (AMEER STORE-D) with Bill No.GSU50694 is successful.
+Collection imported for party D-P20406 (THIRUMURUGAN  MALIGAI-D-D-D-D) with Bill No.GSU50701 is successful.
+Collection imported for party D-P20411 (SARAVANA STORES MALIGAI- ANNA NAGAR-D-D) with Bill No.GSU50709 is successful.
+Collection imported for party D-P20266 (ARUNASTORES-(BAA)-D-D) with Bill No.GSU51032 is successful.
+Collection imported for party P-P21863 (JERON MEDICALS  WORAIYUR-P) with Bill No.GSU51035 is successful.
+Collection imported for party P-P22512 (Aara Market-P) with Bill No.GSU51225 is successful.
+Collection imported for party D-P20391 (AB STORE-D-D-D) with Bill No.GSU51240 is successful.
+Collection imported for party P-P10042 (Anna Kamachi  malligai-P) with Bill No.GSU51243 is successful.
+Collection imported for party P-P1076 (Rajeshkanna maligai-D-P) with Bill No.GSU51244 is successful.
+Collection imported for party D-P20266 (ARUNASTORES-(BAA)-D-D) with Bill No.GSU51259 is successful.
+Collection imported for party P-P1101 (Astalakshmi store-D-P) with Bill No.GSU51262 is successful.
+Collection imported for party P14202 (A.K.G Malligai-D) with Bill No.GSU51263 is successful.
+Collection imported for party P14206 (Bisme Store-D) with Bill No.GSU51264 is successful.
+Collection imported for party P-P1041 (kaviya store-D-P) with Bill No.GSU51280 is successful.
+Collection imported for party P-P22642 (SAROJA IDILY MAVU MALIGAI KADAI-P) with Bill No.GSU51281 is successful.
+Collection imported for party D-P20306 (Al Madina Departmental Store-D) with Bill No.GSU51290 is successful.
+Collection imported for party D-P20331 (BISMI STOREi -D-D) with Bill No.GSU51291 is successful.
+Collection imported for party P-P551 (VINAYAGA TEA STAL) with Bill No.GSU51294 is successful.
+Collection imported for party P-P16629 (om sakthi parameshwari maligai-P) with Bill No.GSU51298 is successful.
+Collection imported for party D-P20376 (JANAKI STORE - AN-D-D) with Bill No.GSU51311 is successful.
+Collection imported for party D-P20381 (NELLAI STORE-D-D) with Bill No.GSU51312 is successful.
+Collection imported for party P-P22652 (Surya Tea Stall-P) with Bill No.GSU51336 is successful.
+Collection import process completed 1:44:31
+Load Process Started
+Load Process Completed
+Order import process started 1:44:32
+No HSN Number Tagged for the sku7|SSDU90C|20SMN00008U-P32120221217
+No HSN Number Tagged for the sku7|DCOD001|20SMN00008U-P32120221217
+No HSN Number Tagged for the sku7|DCOB001|20SMN00008U-P32120221217
+No HSN Number Tagged for the sku7|TRQA909|20SMN00008U-P32120221217
+Did not create bill for RAVINDRA STORE-D SVS 1-D-D-U2NC at 1:44:34
+No HSN Number Tagged for the sku7|PSSV20J|20SMN00010D-P2162920221217
+No HSN Number Tagged for the sku7|PSSV20J|20SMN00010D-P2162920221217
+No HSN Number Tagged for the sku7|VIDO00B|20SMN00010D-P2162920221217
+No HSN Number Tagged for the sku7|VIDO00B|20SMN00010D-P2162920221217
+No HSN Number Tagged for the sku7|VICX205|20SMN00010D-P2162920221217
+No HSN Number Tagged for the sku7|VICX205|20SMN00010D-P2162920221217
+No HSN Number Tagged for the sku7|COMU804|20SMN00010D-P2162920221217
+No HSN Number Tagged for the sku7|RQAR010|20SMN00010D-P2162920221217
+No HSN Number Tagged for the sku7|RQAR010|20SMN00010D-P2162920221217
+No HSN Number Tagged for the sku7|RQAP009|20SMN00010D-P2162920221217
+No HSN Number Tagged for the sku7|RQAO410|20SMN00010D-P2162920221217
+No HSN Number Tagged for the sku7|RQAO509|20SMN00010D-P2162920221217
+No HSN Number Tagged for the sku7|SUFY707|20SMN00010D-P2162920221217
+No HSN Number Tagged for the sku7|SUFY707|20SMN00010D-P2162920221217
+No HSN Number Tagged for the sku7|DVEW409|20SMN00010D-P2162920221217
+No HSN Number Tagged for the sku7|DVEW409|20SMN00010D-P2162920221217
+No HSN Number Tagged for the sku7|LTXM401|20SMN00010D-P2162920221217
+Starting bill for Indian Store-D at 1:44:36
+Created bill  GSU51893 for Indian Store-D at 1:44:38
+Party's Credit Period in days exhausted, PRAKASH STORES-SAALAI ROAD-F-D-D-D
+No HSN Number Tagged for the sku7|PSSV20J|20SMN00010D-P53620221217
+No HSN Number Tagged for the sku7|PSSV20J|20SMN00010D-P53620221217
+No HSN Number Tagged for the sku7|VIDN30C|20SMN00010D-P53620221217
+No HSN Number Tagged for the sku7|SLTB401|20SMN00010D-P53620221217
+No HSN Number Tagged for the sku7|SLTB401|20SMN00010D-P53620221217
+No HSN Number Tagged for the sku7|EXLX901|20SMN00010D-P53620221217
+No HSN Number Tagged for the sku7|RQAR010|20SMN00010D-P53620221217
+No HSN Number Tagged for the sku7|RQAR010|20SMN00010D-P53620221217
+No HSN Number Tagged for the sku7|RQAP009|20SMN00010D-P53620221217
+No HSN Number Tagged for the sku7|RQAO410|20SMN00010D-P53620221217
+No HSN Number Tagged for the sku7|RQAO509|20SMN00010D-P53620221217
+No HSN Number Tagged for the sku7|RLQD205|20SMN00010D-P53620221217
+No HSN Number Tagged for the sku7|PSSU70K|20SMN00010D-P53620221217
+Starting bill for GOLDEN MALIGAI-D-D-D at 1:44:40
+Created bill  GSU51894 for GOLDEN MALIGAI-D-D-D at 1:44:41
+No HSN Number Tagged for the sku7|LIGL801|20SMN00010D-P58620221217
+No HSN Number Tagged for the sku7|BATZ301|20SMN00010D-P58620221217
+No HSN Number Tagged for the sku7|LMVE801|20SMN00010D-P58620221217
+No HSN Number Tagged for the sku7|RQAR010|20SMN00010D-P58620221217
+No HSN Number Tagged for the sku7|RQAR010|20SMN00010D-P58620221217
+No HSN Number Tagged for the sku7|RQAP009|20SMN00010D-P58620221217
+Starting bill for RS  MALIGAI-D 1-D-D at 1:44:42
+Created bill  GSU51895 for RS  MALIGAI-D 1-D-D at 1:44:43
+Starting bill for THAYAMMAL STORE-D at 1:44:46
+Created bill  GSU51896 for THAYAMMAL STORE-D at 1:44:49
+No HSN Number Tagged for the sku7|EXLX901|20SMN00010D-P66620221217
+Starting bill for POORANI MEDICAL-D-D-D at 1:44:49
+Created bill  GSU51897 for POORANI MEDICAL-D-D-D at 1:44:50
+No HSN Number Tagged for the sku7|F105201|20SMN00012F-P121120221217
+No HSN Number Tagged for the sku7|RLLZ802|20SMN00012F-P121120221217
+No HSN Number Tagged for the sku7|BREO901|20SMN00012F-P121120221217
+Did not create bill for CHANDRA STORE-D-F at 1:44:50
+Party's Credit Period in days exhausted, ANANDA STORE -CA-D 1-D-D-F
+No HSN Number Tagged for the sku7|CS1C016|20SMN00012F-P2266720221217
+No HSN Number Tagged for the sku7|CL2C319|20SMN00012F-P2266720221217
+No HSN Number Tagged for the sku7|BREO901|20SMN00012F-P2266720221217
+No HSN Number Tagged for the sku7|BREZ301|20SMN00012F-P2266720221217
+Did not create bill for Jayam Rice Kadai-F at 1:44:51
+No HSN Number Tagged for the sku7|BREO901|20SMN00012F-P2268220221217
+Did not create bill for muttharaman Maligai-F at 1:44:51
+Party's Credit Period in days exhausted, SHJAHAN MALIGAI-D-D-D-F
+No HSN Number Tagged for the sku7|3REN301|20SMN00012F-P85620221217
+No HSN Number Tagged for the sku7|JAKV201|20SMN00012F-P85620221217
+No HSN Number Tagged for the sku7|TKEV901|20SMN00012F-P85620221217
+No HSN Number Tagged for the sku7|3RDX701|20SMN00012F-P85620221217
+Did not create bill for B J Maligai(N)-D-F at 1:44:52
+No HSN Number Tagged for the sku7|FTPE30A|20SMN00013D-P1660220221217
+No HSN Number Tagged for the sku7|FTPE40A|20SMN00013D-P1660220221217
+No HSN Number Tagged for the sku7|ACTA508|20SMN00013D-P1660220221217
+No HSN Number Tagged for the sku7|ACTA508|20SMN00013D-P1660220221217
+No HSN Number Tagged for the sku7|PSLX80A|20SMN00013D-P1660220221217
+No HSN Number Tagged for the sku7|DFNQ701|20SMN00013D-P1660220221217
+No HSN Number Tagged for the sku7|RXSP406|20SMN00013D-P1660220221217
+No HSN Number Tagged for the sku7|RXSP406|20SMN00013D-P1660220221217
+No HSN Number Tagged for the sku7|LRMO103|20SMN00013D-P1660220221217
+No HSN Number Tagged for the sku7|F105201|20SMN00013D-P1660220221217
+No HSN Number Tagged for the sku7|BRBI001|20SMN00013D-P1660220221217
+No HSN Number Tagged for the sku7|TAJP814|20SMN00013D-P1660220221217
+No HSN Number Tagged for the sku7|BREO901|20SMN00013D-P1660220221217
+No HSN Number Tagged for the sku7|BREZ301|20SMN00013D-P1660220221217
+No HSN Number Tagged for the sku7|W124801|20SMN00013D-P1660220221217
+No HSN Number Tagged for the sku7|W124801|20SMN00013D-P1660220221217
+No HSN Number Tagged for the sku7|W130501|20SMN00013D-P1660220221217
+No HSN Number Tagged for the sku7|W130501|20SMN00013D-P1660220221217
+No HSN Number Tagged for the sku7|W130501|20SMN00013D-P1660220221217
+Starting bill for Mutharamman Store-D at 1:44:55
+Created bill  GSU51898 for Mutharamman Store-D at 1:44:55
+No HSN Number Tagged for the sku7|JAKV201|20SMN00013D-P1664920221217
+Did not create bill for SREE KRISHNA IYENGARSBAKERY-D at 1:44:55
+No HSN Number Tagged for the sku7|CNSQ401|20SMN00013D-P1947620221217
+No HSN Number Tagged for the sku7|SSBY301|20SMN00013D-P1947620221217
+No HSN Number Tagged for the sku7|LTPW201|20SMN00013D-P1947620221217
+No HSN Number Tagged for the sku7|LTPW201|20SMN00013D-P1947620221217
+No HSN Number Tagged for the sku7|BREO901|20SMN00013D-P1947620221217
+No HSN Number Tagged for the sku7|BREZ301|20SMN00013D-P1947620221217
+No HSN Number Tagged for the sku7|JAKV201|20SMN00013D-P1947620221217
+No HSN Number Tagged for the sku7|TKEV901|20SMN00013D-P1947620221217
+No HSN Number Tagged for the sku7|JAKV001|20SMN00013D-P1947620221217
+No HSN Number Tagged for the sku7|JAKV001|20SMN00013D-P1947620221217
+No HSN Number Tagged for the sku7|W124801|20SMN00013D-P1947620221217
+No HSN Number Tagged for the sku7|W124801|20SMN00013D-P1947620221217
+No HSN Number Tagged for the sku7|W130501|20SMN00013D-P1947620221217
+No HSN Number Tagged for the sku7|W130501|20SMN00013D-P1947620221217
+No HSN Number Tagged for the sku7|W130501|20SMN00013D-P1947620221217
+No HSN Number Tagged for the sku7|W112001|20SMN00013D-P1947620221217
+No HSN Number Tagged for the sku7|W130301|20SMN00013D-P1947620221217
+No HSN Number Tagged for the sku7|W130301|20SMN00013D-P1947620221217
+No HSN Number Tagged for the sku7|W130301|20SMN00013D-P1947620221217
+Starting bill for PYAREI BANU-D at 1:44:58
+Created bill  GSU51899 for PYAREI BANU-D at 1:44:58
+No HSN Number Tagged for the sku7|W124801|20SMN00013D-P2271920221217
+No HSN Number Tagged for the sku7|W124801|20SMN00013D-P2271920221217
+Starting bill for Malayalam Store-D at 1:44:59
+Created bill  GSU51900 for Malayalam Store-D at 1:45:0
+No HSN Number Tagged for the sku7|LTPW201|20SMN00013D-P2272020221217
+No HSN Number Tagged for the sku7|LTPW201|20SMN00013D-P2272020221217
+No HSN Number Tagged for the sku7|LTXM401|20SMN00013D-P2272020221217
+No HSN Number Tagged for the sku7|LTZY209|20SMN00013D-P2272020221217
+Starting bill for Kumar Store-D at 1:45:0
+Created bill  GSU51901 for Kumar Store-D at 1:45:1
+No HSN Number Tagged for the sku7|SSBY301|20SMN00013D-P94620221217
+No HSN Number Tagged for the sku7|ACEE002|20SMN00013D-P94620221217
+No HSN Number Tagged for the sku7|DVVN501|20SMN00013D-P94620221217
+No HSN Number Tagged for the sku7|DVVN601|20SMN00013D-P94620221217
+No HSN Number Tagged for the sku7|DVVN601|20SMN00013D-P94620221217
+Starting bill for ALLAVDAINS STORES-D at 1:45:2
+Created bill  GSU51902 for ALLAVDAINS STORES-D at 1:45:3
+No HSN Number Tagged for the sku7|W124801|20SMN00013D-P95620221217
+No HSN Number Tagged for the sku7|W124801|20SMN00013D-P95620221217
+No HSN Number Tagged for the sku7|W130501|20SMN00013D-P95620221217
+No HSN Number Tagged for the sku7|W130501|20SMN00013D-P95620221217
+No HSN Number Tagged for the sku7|W130501|20SMN00013D-P95620221217
+Did not create bill for DEEN STORE-D at 1:45:3
+No HSN Number Tagged for the sku7|SSBY301|20SMN00013P-P2266720221217
+No HSN Number Tagged for the sku7|DVVN501|20SMN00013P-P2266720221217
+Did not create bill for Jayam Rice Kadai-P at 1:45:4
+No HSN Number Tagged for the sku7|RPXQ601|20SMN00018D-P2272220221217
+No HSN Number Tagged for the sku7|3RDZ101|20SMN00018D-P2272220221217
+Starting bill for MUTHU Lakshmi Store-D at 1:45:4
+Created bill  GSU51903 for MUTHU Lakshmi Store-D at 1:45:5
+No HSN Number Tagged for the sku7|W124801|20SMN00018D-P2272320221217
+No HSN Number Tagged for the sku7|W124801|20SMN00018D-P2272320221217
+No HSN Number Tagged for the sku7|W130501|20SMN00018D-P2272320221217
+No HSN Number Tagged for the sku7|W130501|20SMN00018D-P2272320221217
+No HSN Number Tagged for the sku7|W130501|20SMN00018D-P2272320221217
+Starting bill for IYYANAR STORES-D at 1:45:6
+Created bill  GSU51904 for IYYANAR STORES-D at 1:45:6
+No HSN Number Tagged for the sku7|DFNQ701|20SMN00018D-P2272420221217
+No HSN Number Tagged for the sku7|DVEV009|20SMN00018D-P2272420221217
+Starting bill for Noorjahan  Pity Shop-D at 1:45:8
+Created bill  GSU51905 for Noorjahan  Pity Shop-D at 1:45:9
+No HSN Number Tagged for the sku7|W124801|20SMN00018N-P2263820221217
+No HSN Number Tagged for the sku7|W124801|20SMN00018N-P2263820221217
+No HSN Number Tagged for the sku7|W112001|20SMN00018N-P2263820221217
+Did not create bill for Kalaimathi-Nuts at 1:45:9
+No HSN Number Tagged for the sku7|YG33901|20SMN00018N-P63620221217
+No HSN Number Tagged for the sku7|YG33901|20SMN00018N-P63620221217
+Starting bill for ANANDHA TRADERS-D-D-D-Nuts at 1:45:10
+Created bill  GSU51906 for ANANDHA TRADERS-D-D-D-Nuts at 1:45:10
+No HSN Number Tagged for the sku7|PSSV20J|20SMN00020D-P2029120221217
+No HSN Number Tagged for the sku7|PSSV20J|20SMN00020D-P2029120221217
+No HSN Number Tagged for the sku7|DXPA701|20SMN00020D-P2029120221217
+No HSN Number Tagged for the sku7|COMX501|20SMN00020D-P2029120221217
+No HSN Number Tagged for the sku7|COMX501|20SMN00020D-P2029120221217
+No HSN Number Tagged for the sku7|RQAP009|20SMN00020D-P2029120221217
+No HSN Number Tagged for the sku7|EALK50E|20SMN00020D-P2029120221217
+No HSN Number Tagged for the sku7|EALK50E|20SMN00020D-P2029120221217
+No HSN Number Tagged for the sku7|RPXZ608|20SMN00020D-P2029120221217
+No HSN Number Tagged for the sku7|RPXZ608|20SMN00020D-P2029120221217
+Starting bill for Patthima Store-D at 1:45:12
+Created bill  GSU51907 for Patthima Store-D at 1:45:12
+Starting bill for Al Madina Departmental Store-D at 1:45:13
+Created bill  GSU51908 for Al Madina Departmental Store-D at 1:45:13
+Starting bill for BISMI STOREi -D-D at 1:45:13
+Created bill  GSU51909 for BISMI STOREi -D-D at 1:45:14
+No HSN Number Tagged for the sku7|PSTA905|20SMN00020D-P2037620221217
+No HSN Number Tagged for the sku7|COMX501|20SMN00020D-P2037620221217
+No HSN Number Tagged for the sku7|COMX501|20SMN00020D-P2037620221217
+Starting bill for JANAKI STORE - AN-D-D at 1:45:15
+Created bill  GSU51910 for JANAKI STORE - AN-D-D at 1:45:16
+Starting bill for NELLAI STORE-D-D at 1:45:16
+Created bill  GSU51911 for NELLAI STORE-D-D at 1:45:16
+No HSN Number Tagged for the sku7|LIGL801|20SMN00020D-P2039120221217
+No HSN Number Tagged for the sku7|COMX501|20SMN00020D-P2039120221217
+No HSN Number Tagged for the sku7|COMX501|20SMN00020D-P2039120221217
+Starting bill for AB STORE-D-D-D at 1:45:18
+Created bill  GSU51912 for AB STORE-D-D-D at 1:45:18
+No HSN Number Tagged for the sku7|RQAR010|20SMN00020D-P2039620221217
+No HSN Number Tagged for the sku7|RQAR010|20SMN00020D-P2039620221217
+No HSN Number Tagged for the sku7|RQAP009|20SMN00020D-P2039620221217
+No HSN Number Tagged for the sku7|RQAO410|20SMN00020D-P2039620221217
+No HSN Number Tagged for the sku7|RQAO509|20SMN00020D-P2039620221217
+No HSN Number Tagged for the sku7|RPXZ510|20SMN00020D-P2039620221217
+No HSN Number Tagged for the sku7|RPXZ608|20SMN00020D-P2039620221217
+No HSN Number Tagged for the sku7|RPXZ608|20SMN00020D-P2039620221217
+Starting bill for DHANAM MALIGAI-D at 1:45:20
+Created bill  GSU51913 for DHANAM MALIGAI-D at 1:45:20
+No HSN Number Tagged for the sku7|COMU804|20SMN00020D-P2041120221217
+No HSN Number Tagged for the sku7|EALW105|20SMN00020D-P2041120221217
+No HSN Number Tagged for the sku7|DVEV009|20SMN00020D-P2041120221217
+No HSN Number Tagged for the sku7|DVEW409|20SMN00020D-P2041120221217
+No HSN Number Tagged for the sku7|DVEW409|20SMN00020D-P2041120221217
+Starting bill for SARAVANA STORES MALIGAI- ANNA NAGAR-D-D at 1:45:22
+Created bill  GSU51914 for SARAVANA STORES MALIGAI- ANNA NAGAR-D-D at 1:45:23
+No HSN Number Tagged for the sku7|LTPW201|20SMN00020D-P2044120221217
+No HSN Number Tagged for the sku7|LTPW201|20SMN00020D-P2044120221217
+Starting bill for DHEN MALIGAI-D-D-D at 1:45:24
+Created bill  GSU51915 for DHEN MALIGAI-D-D-D at 1:45:25
+Starting bill for JERON MEDICALS  WORAIYUR-P at 1:45:26
+Created bill  GSU51916 for JERON MEDICALS  WORAIYUR-P at 1:45:26
+No HSN Number Tagged for the sku7|SSBY301|20SMN00021P-P2269820221217
+No HSN Number Tagged for the sku7|DVVN501|20SMN00021P-P2269820221217
+No HSN Number Tagged for the sku7|WPJJ701|20SMN00021P-P2269820221217
+No HSN Number Tagged for the sku7|YG34702|20SMN00021P-P2269820221217
+Starting bill for Bharani Maligai Store-P at 1:45:27
+Created bill  GSU51917 for Bharani Maligai Store-P at 1:45:28
+No HSN Number Tagged for the sku7|CNSQ401|20SMN00021P-P99620221217
+No HSN Number Tagged for the sku7|SSBY301|20SMN00021P-P99620221217
+Starting bill for arjunan store-D-P at 1:45:29
+Created bill  GSU51918 for arjunan store-D-P at 1:45:29
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 10:32:15
-Load Process Started
-Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 10:34:0
-Party's Credit Bills Exhausted, OVEYA DEPTEMENT STORE-D-D-D-D
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 10:34:0
-Load Process Started
-Load Process Completed
-Collection import process started 10:35:26
-Collection imported for party P-P2486 (PRIYA  MALIGAI-D-D-P) with Bill No.TKS40170 is successful.
-Collection imported for party D-P19306 (ISHWARIAM store-D) with Bill No.TKS44251 is successful.
-Collection import process completed 10:35:27
-Order import process started 10:35:28
-Party's Credit Bills Exhausted, OVEYA DEPTEMENT STORE-D-D-D-D
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 10:35:28
-Load Process Started
-Load Process Completed
-Collection import process started 10:36:56
-Collection imported for party P-P201 (MOHAMED ILYAS-D-P) with Bill No.TKS40169 is successful.
-Collection import process completed 10:36:56
-Order import process started 10:36:57
-Party's Credit Bills Exhausted, OVEYA DEPTEMENT STORE-D-D-D-D
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 10:36:58
-Load Process Started
-Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 10:39:3
-Party's Credit Bills Exhausted, OVEYA DEPTEMENT STORE-D-D-D-D
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 10:39:4
-Load Process Started
-Load Process Completed
-Load Process Started
-Load Process Completed
-Load Process Started
-Load Process Completed
-Load Process Started
-Load Process Completed
-Collection import process started 10:54:3
-Collection imported for party P-P2986 (Kasi Maligai -D-D-D-P) with Bill No.TKS42832 is successful.
-Collection imported for party P-P2621 (ANANTHA STORES-BEEMA NGR-D-D-D-P) with Bill No.TKS42929 is successful.
-Collection imported for party D-P1956 (MEENA STORE-D-D) with Bill No.TKS44226 is successful.
-Collection imported for party N-P17768 (JAM JAM MEDICAL-D-D-Nuts) with Bill No.TKS44231 is successful.
-Collection imported for party N-P17958 (M.R.MEDICALS-D-D-Nuts) with Bill No.TKS44487 is successful.
-Collection import process completed 10:54:5
-Order import process started 10:54:6
-Party's Credit Bills Exhausted, OVEYA DEPTEMENT STORE-D-D-D-D
-Starting bill for GANESHA STORE-D-D-F at 10:54:7
-Created bill  TKS45604 for GANESHA STORE-D-D-F at 10:54:7
-Starting bill for PRIYA  MALIGAI-D-D-P at 10:54:8
-Created bill  TKS45605 for PRIYA  MALIGAI-D-D-P at 10:54:9
-Starting bill for ANANTHA STORES-BEEMA NGR-D-D-D-P at 10:54:10
-Created bill  TKS45606 for ANANTHA STORES-BEEMA NGR-D-D-D-P at 10:54:10
-Starting bill for AHAMADU MALIGAI-D-D-P at 10:54:11
-Created bill  TKS45607 for AHAMADU MALIGAI-D-D-P at 10:54:11
-Starting bill for MANI MALLLIGAI-D-Nuts at 10:54:13
-Created bill  TKS45608 for MANI MALLLIGAI-D-Nuts at 10:54:13
-Starting bill for M.R.MEDICALS-D-D-Nuts at 10:54:14
-Created bill  TKS45609 for M.R.MEDICALS-D-D-Nuts at 10:54:15
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 10:54:15
-Load Process Started
-Load Process Completed
-Order import process started 10:55:31
-Starting bill for PAARAS ENTERPRISES-D at 10:55:32
-Created bill  TKS45610 for PAARAS ENTERPRISES-D at 10:55:33
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 10:55:33
-Load Process Started
-Load Process Completed
-Collection import process started 11:9:7
-Collection imported for party P-P2526 (THENDRAL MALIGAI MINI SPK MKT-D-D-P) with Bill No.TKS40126 is successful.
-Collection imported for party P-P11 (RAISY STORE-D-D-D-P) with Bill No.TKS41493 is successful.
-Collection imported for party F-P816 (NEW ADAIKALAM MALIGAI-D-F) with Bill No.TKS42737 is successful.
-Collection imported for party F-P1801 (N.S.S MALIGAI-D-D-F) with Bill No.TKS42740 is successful.
-Collection imported for party D-P19390 (Ubayam Store-D) with Bill No.TKS42741 is successful.
-Collection imported for party P-P2751 (KAMARAJ MALIGAI-D-D-P) with Bill No.TKS42758 is successful.
-Collection imported for party D-P2871 (RAVI MALIGAI-D-D-D-D) with Bill No.TKS44234 is successful.
-Collection imported for party D-P16615 (Mani Beeda Stall-D) with Bill No.TKS44253 is successful.
-Collection imported for party D-P18237 (JANANI MALIGAI-D) with Bill No.TKS44257 is successful.
-Collection import process completed 11:9:11
-Order import process started 11:9:11
-Party's Credit Bills Exhausted, OVEYA DEPTEMENT STORE-D-D-D-D
-Party's Credit Bills Exhausted, MATHA TEA STALL- BHEL-D-D-P
-Starting bill for KAMARAJ MALIGAI-D-D-P at 11:9:13
-Created bill  TKS45612 for KAMARAJ MALIGAI-D-D-P at 11:9:13
-Starting bill for Sri Sakthi Maligai at 11:9:15
-Created bill  TKS45613 for Sri Sakthi Maligai at 11:9:16
-Starting bill for UDHAYAM MALIGAI-D at 11:9:17
-Created bill  TKS45614 for UDHAYAM MALIGAI-D at 11:9:17
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 11:9:18
-Load Process Started
-Load Process Completed
-Collection import process started 11:24:8
-Collection imported for party N-P726 (MATHA  STORE KTR 1-D-D-Nuts) with Bill No.TKS41521 is successful.
-Collection imported for party P-P2781 (GNANARAJ  MALIGAI-D-D-D-D-P) with Bill No.TKS41527 is successful.
-Collection imported for party D-P16426 (JEYAPRAKASH MALIGAI-D) with Bill No.TKS41604 is successful.
-Collection imported for party D-P2841 (AKALYAMALIGAI-D-D-D-D) with Bill No.TKS42745 is successful.
-Collection imported for party D-P1301 (MODERN-D) with Bill No.TKS42751 is successful.
-Collection imported for party N-P17843 (PALANIAPPA MEDICALS-D-Nuts) with Bill No.TKS42761 is successful.
-Collection imported for party F-P771 (VELMURUGAN  STORE KT 1-D-D-F) with Bill No.TKS42773 is successful.
-Collection imported for party P-P2301 (MOORTHY STORE-D-D-D-D-P) with Bill No.TKS42783 is successful.
-Collection imported for party N-P131 (VENKATESWARA  STORE KTR 1-D-D-D-D-D-Nuts) with Bill No.TKS42802 is successful.
-Collection imported for party P-P1291 (THULASI MINI DEPARTMENT STORE-D-P) with Bill No.TKS42917 is successful.
-Collection imported for party D-P18093 (RAJA MEDICAL-D) with Bill No.TKS44232 is successful.
-Collection imported for party P-P18078 (DHIVYA MEDICAL-D-D-P) with Bill No.TKS44237 is successful.
-Collection imported for party P-P2666 (RAVINDRAN  STORE-D-D-D-D-P) with Bill No.TKS44239 is successful.
-Collection imported for party D-P16605 (M.J Stall-D) with Bill No.TKS44259 is successful.
-Collection imported for party P-P18048 (SHANTHI  PHARMACY-D-D-P) with Bill No.TKS44275 is successful.
-Collection imported for party U-P2631 (AMMAN STORE-D-D-U2NC) with Bill No.TKS44293 is successful.
-Collection imported for party D-P17671 (VENNILA-D) with Bill No.TKS44316 is successful.
-Collection import process completed 11:24:15
-Order import process started 11:24:16
-Party's Credit Bills Exhausted, OVEYA DEPTEMENT STORE-D-D-D-D
-Starting bill for Ubayam Store-D at 11:24:17
-Created bill  TKS45615 for Ubayam Store-D at 11:24:18
-Party's Credit Bills Exhausted, MATHA TEA STALL- BHEL-D-D-P
-Starting bill for Mani Beeda Stall-D at 11:24:19
-Created bill  TKS45616 for Mani Beeda Stall-D at 11:24:20
-Party's Credit Bills Exhausted, ASHMITHA-D
-Starting bill for MSM  OIL  MALIGAI-D-D-Nuts at 11:24:21
-Created bill  TKS45617 for MSM  OIL  MALIGAI-D-D-Nuts at 11:24:21
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 11:24:22
-Load Process Started
-Load Process Completed
-Collection import process started 11:26:18
-Collection imported for party N-P2326 (SELVAM  STORE KTR 1-D-D-Nuts) with Bill No.TKS41519 is successful.
-Collection imported for party P-P2616 (SRI LINGAM STORES-D-D-P) with Bill No.TKS41601 is successful.
-Collection import process completed 11:26:19
-Order import process started 11:26:19
-Party's Credit Bills Exhausted, MATHA TEA STALL- BHEL-D-D-P
-Party's Credit Bills Exhausted, ASHMITHA-D
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 11:26:20
-Load Process Started
-Load Process Completed
-Collection import process started 11:39:19
-Collection imported for party P-P25072 (ANNAI MALIGAI-P) with Bill No.TKS41481 is successful.
-Collection imported for party D-P17730 (ASHMITHA-D) with Bill No.TKS41484 is successful.
-Collection imported for party P-P2641 (BHARAT MALIGAI-BEEMA NGR-D-D-P) with Bill No.TKS42757 is successful.
-Collection imported for party F-P1751 (RENUGA STORE  -KT-D-D-D-D-F) with Bill No.TKS42772 is successful.
-Collection imported for party P-P2541 (NEW STORE-BEMANAGAR-D-D-P) with Bill No.TKS42774 is successful.
-Collection imported for party D-P2861 (SELVAMMALIGAI-D-D-D-D) with Bill No.TKS42794 is successful.
-Collection imported for party D-P16600 (Bilal Store-D) with Bill No.TKS42820 is successful.
-Collection imported for party N-P2341 (DIVYA MALIGAI-KATU-D-D-Nuts) with Bill No.TKS42937 is successful.
-Collection imported for party D-P2826 (SUBALATHASTORES-D-D-D-D) with Bill No.TKS44233 is successful.
-Collection imported for party P-P1686 (MATHA TEA STALL- BHEL-D-D-P) with Bill No.TKS44246 is successful.
-Collection imported for party F-P741 (MSM  OIL  MALIGAI-D-D-F) with Bill No.TKS44308 is successful.
-Collection import process completed 11:39:24
-Order import process started 11:39:25
-Starting bill for MODERN-D at 11:39:30
-Created bill  TKS45620 for MODERN-D at 11:39:33
-Party's Credit Bills Exhausted, OVEYA DEPTEMENT STORE-D-D-D-D
-Starting bill for JEYAPRAKASH MALIGAI-D at 11:39:34
-Created bill  TKS45621 for JEYAPRAKASH MALIGAI-D at 11:39:35
-Starting bill for RAJA MEDICAL-D at 11:39:37
-Created bill  TKS45622 for RAJA MEDICAL-D at 11:39:38
-Starting bill for RAVI MALIGAI-D-D-D-D at 11:39:39
-Created bill  TKS45623 for RAVI MALIGAI-D-D-D-D at 11:39:40
-Starting bill for MSM  OIL  MALIGAI-D-D-F at 11:39:41
-Created bill  TKS45624 for MSM  OIL  MALIGAI-D-D-F at 11:39:41
-Starting bill for VELMURUGAN  STORE KT 1-D-D-F at 11:39:42
-Created bill  TKS45625 for VELMURUGAN  STORE KT 1-D-D-F at 11:39:43
-Starting bill for MATHA TEA STALL- BHEL-D-D-P at 11:39:44
-Created bill  TKS45626 for MATHA TEA STALL- BHEL-D-D-P at 11:39:44
-Starting bill for THENDRAL MALIGAI MINI SPK MKT-D-D-P at 11:39:47
-Created bill  TKS45627 for THENDRAL MALIGAI MINI SPK MKT-D-D-P at 11:39:48
-Starting bill for A. R. STROE-D at 11:39:51
-Created bill  TKS45628 for A. R. STROE-D at 11:39:52
-Starting bill for M.J Stall-D at 11:39:53
-Created bill  TKS45629 for M.J Stall-D at 11:39:54
-Starting bill for ASHMITHA-D at 11:39:55
-Created bill  TKS45630 for ASHMITHA-D at 11:39:55
-Starting bill for NEW ASLAM STORE-D at 11:39:56
-Created bill  TKS45631 for NEW ASLAM STORE-D at 11:39:56
-Starting bill for JANANI MALIGAI-D at 11:39:58
-Created bill  TKS45632 for JANANI MALIGAI-D at 11:39:58
-Starting bill for PALANIAPPA MEDICALS-D-Nuts at 11:40:0
-CreditNote Adjustments 489.82 were done for PartyPALANIAPPA MEDICALS-D-Nuts
-Created bill  TKS45633 for PALANIAPPA MEDICALS-D-Nuts at 11:40:0
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 11:40:1
-Load Process Started
-Load Process Completed
-Order import process started 11:40:49
-Starting bill for ASOKA TRADING -D-D-F at 11:40:50
-Created bill  TKS45634 for ASOKA TRADING -D-D-F at 11:40:51
-Starting bill for PAARAS ENTERPRISES-F at 11:40:52
-Created bill  TKS45635 for PAARAS ENTERPRISES-F at 11:40:52
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 11:40:53
-Load Process Started
-Load Process Completed
-Collection import process started 11:45:47
-Collection imported for party F-P876 (RASI  MALIGAI-D-D-F) with Bill No.TKS41489 is successful.
-Collection imported for party D-P17604 (Sri Selva Vinayagar-D) with Bill No.TKS41520 is successful.
-Collection imported for party D-P2866 (THANGARAJSTORES-D-D-D-D) with Bill No.TKS42776 is successful.
-Collection imported for party F-P1736 (BISMI STORE-D-D-F) with Bill No.TKS42781 is successful.
-Collection imported for party D-P2351 (SIVA SAKTHI STORE-D  SVS 1-D-D) with Bill No.TKS44274 is successful.
-Collection imported for party F-P876 (RASI  MALIGAI-D-D-F) with Bill No.TKS44307 is successful.
-Collection imported for party N-P17868 (J A R MEDICALS-D-D-D-D-Nuts) with Bill No.TKS44335 is successful.
-Collection import process completed 11:45:51
-Order import process started 11:45:51
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 11:45:52
-Load Process Started
-Load Process Completed
-Collection import process started 11:50:35
-Collection imported for party D-P736 (HYPERPANDA-D) with Bill No.TKS43240 is successful.
-Collection imported for party F-P17736 (RAJENDRA STORE-F) with Bill No.TKS44235 is successful.
-Collection imported for party N-P596 (SRI MURUGAN STORE-D-D-D-D-Nuts) with Bill No.TKS44273 is successful.
-Collection import process completed 11:50:38
-Order import process started 11:50:41
-Party's Credit Bills Exhausted, OVEYA DEPTEMENT STORE-D-D-D-D
-Party's Credit Bills Exhausted, K MART-D
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 11:50:43
-Load Process Started
-Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 11:51:54
-Starting bill for RENUGA STORE  -KT-D-D-D-D-F at 11:51:54
-Created bill  TKS45636 for RENUGA STORE  -KT-D-D-D-D-F at 11:51:56
-Starting bill for MOORTHY STORE-D-D-D-D-P at 11:51:56
-Created bill  TKS45637 for MOORTHY STORE-D-D-D-D-P at 11:51:57
-Starting bill for BHARAT MALIGAI-BEEMA NGR-D-D-P at 11:51:58
-Created bill  TKS45638 for BHARAT MALIGAI-BEEMA NGR-D-D-P at 11:51:59
-Starting bill for Bilal Store-D at 11:52:1
-Created bill  TKS45639 for Bilal Store-D at 11:52:3
-Starting bill for DIVYA MALIGAI-KATU-D-D-Nuts at 11:52:4
-Created bill  TKS45640 for DIVYA MALIGAI-KATU-D-D-Nuts at 11:52:6
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 11:52:6
-Load Process Started
-Load Process Completed
-Collection import process started 11:54:9
-Collection imported for party N-P1951 (Sri Ponnar Sankar Beeda Stall-D-D-Nuts) with Bill No.TKS42780 is successful.
-Collection import process completed 11:54:10
-Order import process started 11:54:10
-Party's Credit Bills Exhausted, OVEYA DEPTEMENT STORE-D-D-D-D
-Starting bill for RASI  MALIGAI-D-D-F at 11:54:12
-Created bill  TKS45641 for RASI  MALIGAI-D-D-F at 11:54:13
-Party's Credit Bills Exhausted, K MART-D
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 11:54:14
-Load Process Started
-Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 0:0:10
-Party's Credit Bills Exhausted, OVEYA DEPTEMENT STORE-D-D-D-D
-Starting bill for K MART-D at 0:0:14
-Created bill  TKS45642 for K MART-D at 0:0:16
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 0:0:17
-Load Process Started
-Load Process Completed
-Load Process Started
-Load Process Completed
-Collection import process started 0:7:8
-Collection imported for party P-P51 (MANONMANI STORE-D-D-P) with Bill No.TKS41492 is successful.
-Collection imported for party F-P131 (VENKATESWARA  STORE KTR 1-D-D-D-D-D-F) with Bill No.TKS41501 is successful.
-Collection imported for party P-P2876 (THIRUMURTHY STORE-BEMANA-D-D-P) with Bill No.TKS41579 is successful.
-Collection imported for party N-P18299 (Metro Plus Medical-D-Nuts) with Bill No.TKS42779 is successful.
-Collection imported for party D-P19385 (AMR MALIGAI-D) with Bill No.TKS42942 is successful.
-Collection imported for party N-P1946 (KAJA STORE-D-D-Nuts) with Bill No.TKS44271 is successful.
-Collection import process completed 0:7:11
-Order import process started 0:7:11
-Starting bill for SIVA SAKTHI STORE-D  SVS 1-D-D at 0:7:15
-Following Locked Category Payout Adjustments were done in this bill TKS45643 for SIVA SAKTHI STORE-D  SVS 1-D-D
-44267868, OUTLET_PAY, 329.0
-Created bill  TKS45643 for SIVA SAKTHI STORE-D  SVS 1-D-D at 0:7:18
-Starting bill for SELVAMMALIGAI-D-D-D-D at 0:7:20
-Created bill  TKS45644 for SELVAMMALIGAI-D-D-D-D at 0:7:22
-Starting bill for Sri Selva Vinayagar-D at 0:7:26
-Created bill  TKS45645 for Sri Selva Vinayagar-D at 0:7:28
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 0:7:29
-Load Process Started
-Load Process Completed
-Collection import process started 0:22:13
-Collection imported for party F-P2016 (RANI STORE-D-F) with Bill No.TKS41507 is successful.
-Collection imported for party D-P17747 (BALAJI 1-D) with Bill No.TKS41517 is successful.
-Collection imported for party D-P2896 (INDIAN MALIGAI-D-D-D) with Bill No.TKS41556 is successful.
-Collection imported for party F-P1321 (SHREE SHAKTHI VINAYAGAR STORE-D-F) with Bill No.TKS41760 is successful.
-Collection imported for party D-P19354 (BASHA MALIGAI-D) with Bill No.TKS42798 is successful.
-Collection imported for party N-P176 (MURUGAN  STORE KTR 2-D-D-D-D-Nuts) with Bill No.TKS42948 is successful.
-Collection imported for party F-P16935 (Jayasakthi-F) with Bill No.TKS44244 is successful.
-Collection imported for party F-P36 (J.M.J.  STORE-D-D-F) with Bill No.TKS44254 is successful.
-Collection imported for party N-P611 (UDYAM STORE-D-D-Nuts) with Bill No.TKS44287 is successful.
-Collection imported for party D-P18320 (Om Palanimurugan Traders-D) with Bill No.TKS44301 is successful.
-Collection imported for party D-P18204 (UDAYAM MEDICAL-D) with Bill No.TKS44305 is successful.
-Collection import process completed 0:22:20
-Order import process started 0:22:20
-Starting bill for HYPERPANDA-D at 0:22:23
-Created bill  TKS45646 for HYPERPANDA-D at 0:22:24
-Starting bill for THANGARAJSTORES-D-D-D-D at 0:22:27
-Created bill  TKS45647 for THANGARAJSTORES-D-D-D-D at 0:22:30
-Starting bill for RAJENDRA STORE-F at 0:22:31
-Created bill  TKS45648 for RAJENDRA STORE-F at 0:22:31
-Starting bill for VENKATESWARA  STORE KTR 1-D-D-D-D-D-F at 0:22:35
-Following Locked Category Payout Adjustments were done in this bill TKS45649 for VENKATESWARA  STORE KTR 1-D-D-D-D-D-F
-44267869, OUTLET_PAY, 148.0
-Created bill  TKS45649 for VENKATESWARA  STORE KTR 1-D-D-D-D-D-F at 0:22:36
-Starting bill for kannan maligai-F at 0:22:37
-Created bill  TKS45650 for kannan maligai-F at 0:22:38
-Starting bill for THIRUMURTHY STORE-BEMANA-D-D-P at 0:22:41
-Created bill  TKS45651 for THIRUMURTHY STORE-BEMANA-D-D-P at 0:22:43
-Starting bill for Metro Plus Medical-D-Nuts at 0:22:43
-Created bill  TKS45652 for Metro Plus Medical-D-Nuts at 0:22:44
-Starting bill for Sri Ponnar Sankar Beeda Stall-D-D-Nuts at 0:22:45
-Created bill  TKS45653 for Sri Ponnar Sankar Beeda Stall-D-D-Nuts at 0:22:45
-Starting bill for SRI MURUGAN STORE-D-D-D-D-Nuts at 0:22:48
-Created bill  TKS45654 for SRI MURUGAN STORE-D-D-D-D-Nuts at 0:22:49
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 0:22:50
-Load Process Started
-Load Process Completed
-Collection import process started 0:37:39
-Collection imported for party D-P2891 (RAJKUMARMAIGAI-D1-D-D) with Bill No.TKS40123 is successful.
-Collection imported for party P-P2636 (NEW PARASAKTHI STORES-D-D-P) with Bill No.TKS40185 is successful.
-Collection imported for party F-P1621 (THIRUMAHAL STOR-D-D-F) with Bill No.TKS42754 is successful.
-Collection imported for party F-P1631 (MUTHU MALIGAI-D-D-F) with Bill No.TKS42755 is successful.
-Collection imported for party N-P1146 (SRI ASTALAXMI STORE (SVS)-D-D-Nuts) with Bill No.TKS42947 is successful.
-Collection imported for party F-P17200 (BHARANI MALIGAI  STORE-F) with Bill No.TKS44277 is successful.
-Collection imported for party P-P2941 (SRI VENKATESWAR  MALIGAI-D-D-P) with Bill No.TKS44284 is successful.
-Collection imported for party N-P1806 (PRAKASHAM  MALIGAI-D-D-Nuts) with Bill No.TKS44324 is successful.
-Collection imported for party D-P2331 (A.R.R MALIGAI-D 1-D-D) with Bill No.TKS44338 is successful.
-Collection imported for party D-P1806 (PRAKASHAM  MALIGAI-D-D) with Bill No.TKS44533 is successful.
-Collection import process completed 0:37:43
-Order import process started 0:37:43
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 0:37:44
-Load Process Started
-Load Process Completed
-Collection import process started 0:43:20
-Collection imported for party F-P17508 (DINAGARAN STORE-F) with Bill No.TKS42735 is successful.
-Collection imported for party F-P681 (KARUPPANNAN  STORE-D-D-F) with Bill No.TKS42736 is successful.
-Collection imported for party F-P18627 (Manonmani Thayar Stores-F) with Bill No.TKS42747 is successful.
-Collection imported for party F-P25090 (SRI LAKSHMI STORE-F) with Bill No.TKS42748 is successful.
-Collection imported for party F-P646 (ARUL  RAJ MALIGAI-D-D-F) with Bill No.TKS42765 is successful.
-Collection imported for party F-P921 (ROYAL STORE-D-D-D-D-F) with Bill No.TKS42795 is successful.
-Collection imported for party F-P18173 (Sri Bharathi Store-F) with Bill No.TKS42796 is successful.
-Collection imported for party F-P1746 (SIPPY OIL &MALIGAI-D-D-F) with Bill No.TKS44241 is successful.
-Collection imported for party F-P711 (KUMAR  STORE-D-D-F) with Bill No.TKS44242 is successful.
-Collection imported for party N-P1871 (BARAKATH MALIGAI-2440053-D-D-Nuts) with Bill No.TKS44325 is successful.
-Collection imported for party F-P17146 (DEEN STORE-F) with Bill No.TKS44462 is successful.
-Collection import process completed 0:43:25
-Order import process started 0:43:25
-Starting bill for AMR MALIGAI-D at 0:43:29
-Created bill  TKS45659 for AMR MALIGAI-D at 0:43:31
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 0:43:32
-Load Process Started
-Load Process Completed
-Order import process started 0:45:3
-Party's Credit Bills Exhausted, OVEYA DEPTEMENT STORE-D-D-D-D
-Starting bill for ANBU  MALIGAI-D-D-F at 0:45:5
-Created bill  TKS45661 for ANBU  MALIGAI-D-D-F at 0:45:6
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 0:45:7
+Order import process ended 1:45:30

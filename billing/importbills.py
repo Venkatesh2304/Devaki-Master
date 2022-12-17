@@ -115,7 +115,6 @@ class ikea(classes.ikea) :
           data_shikhar = self.ajax("getshikhar",{"importDate" : self.today.strftime("%d/%m/%Y") })    #shikhar orders import 
           shikhar =  self.post("/rsunify/app/quantumImport/shikharlist", json = data_shikhar).json()["shikharOrderList"]
           data["qtmShikharList"] = shikhar = [ order[11] for order in shikhar[1:] ]
-   
           self.marketorder = self.post("/rsunify/app/quantumImport/validateload.do", json = data ).json()
           collection_data  = self.marketorder["mcl"]
           self.filtered_collection = [ collection for collection in collection_data  if collection["pc"] not in self.prev_collection ] 
