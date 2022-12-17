@@ -21,10 +21,12 @@ CORS(app)
 
 curr_ikea = None 
 
+jwt = JWTManager(app)
 app.config['JWT_SECRET_KEY'] = 'abcdef'
 app.config['JWT_ACCESS_TOKEN_EXPIRES'] = timedelta(days=720)
 app.config['JWT_TOKEN_LOCATION'] = ['cookies']
 app.config["JWT_COOKIE_CSRF_PROTECT"] = False
+
 
 
 @app.route('/start/<count>',methods = ["POST"])
