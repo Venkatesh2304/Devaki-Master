@@ -156,14 +156,18 @@ def verify():
 def postUpdate():
     user = get_jwt_identity()
     data = dict(request.form)
-    users.update_one({"username" : user }, { "$set" : data }, upsert = True ) 
+    #a_b to { a : { b : value }}
+    login_data = { i  : {} for i in [ i.split("_")[0] for i in data ]  }
+    for i,j in data.items() :  login_data[i.split("_")[0]][i.split("_")[1]] = j 
+    users.update_one({"username" : user }, { "$set" : login_data }, upsert = True ) 
     for  fname , file in dict(request.files).items() : 
         if file : 
            df = pd.read_excel(file)  
            if fname == "vehicle" : 
               update = { "vehicles" : { i : j  for [i,j] in df.values.tolist() }}
               configs.update_one({ "username" : user} , { "$set" : update } , upsert =True )
-              return redirect("/")    
+    return redirect("/")
+
 #Update Ends :::
 
 #Eway and Einvoice :: Start 
