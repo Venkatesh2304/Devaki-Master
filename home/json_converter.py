@@ -95,7 +95,7 @@ einv_bill_format = {
                "No": ('Document Number',),
                "Dt": ('Document Date (DD/MM/YYYY)', lambda x: x.strftime('%d/%m/%Y'))
     },
-    "SellerDtls": json.loads("einv_seller.json"),
+    "SellerDtls": json.loads(open("einv_seller.json").read()),
     "BuyerDtls": {
         "Gstin": ('Buyer GSTIN',),
         "LglNm": ('Buyer Legal Name',),
