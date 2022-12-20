@@ -40,7 +40,9 @@ class ikea(classes.ikea) :
               for attr in ["prev_collection","prev_bills"] : self.__setattr__(attr,[])
               self.lines_count = {}
               self.success = self.failure = 0 
-              self.bill_db.update_one({ "username" : self.user },{"$set" : { "import_date" : self.date.strftime("%d/%m/%Y") }},upsert=True )
+              self.bill_db.update_one({ "username" : self.user },{"$set" : { 
+                 "import_date" : self.date.strftime("%d/%m/%Y") , "prev_collection" : [] , "prev_bills" :[] , "lines_count": {}
+              }},upsert=True )
           else : 
              for attr,val in db_query.items() :
                 self.__setattr__(attr, val)   
