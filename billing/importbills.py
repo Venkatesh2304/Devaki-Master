@@ -131,12 +131,13 @@ class ikea(classes.ikea) :
       def Order(self) :
           for party,party_data in self.creditrelease.items() : self.releaselock(party_data)
           self.orders = order_data = self.marketorder["mol"]
-          with open("orders.json","w+") as f : json.dump(self.orders,f)  #debugging 
+          with open("orders_RAW.json","w+") as f : json.dump(self.orders,f)  #debugging 
           orders = pd.DataFrame(order_data).groupby("on", as_index = False )
           orders = orders.filter( lambda x : all([ x.on.count() <= self.lines  , 
                                                    x.on.iloc[0]  not in self.lines_count or  self.lines_count[x.on.iloc[0]] == x.on.count()  ,
                                                    "WHOLE" not in x.m.iloc[0]  , 
                                                    (x.t * x.aq).sum() > 100 ]))
+          orders.to_excel("orders.xlsx")
           self.curr_lines_count = orders.groupby("on")["aq"].count().to_dict()
           self.update_bills( "lines_count", self.curr_lines_count )
           orders["billvalue"] , orders["status"]    = orders.t * orders.aq , False  
@@ -148,6 +149,9 @@ class ikea(classes.ikea) :
           logging.info(f"Orders :: {orders}")
           for order in self.orders : 
                  order["ck"] = (order["on"] in orders.on.values)
+          
+          with open("orders.json","w+") as f : 
+               json.dump(self.orders,f)
           
           uid =   client_id_generator()
           data = { "mol":self.orders ,"id":self.today.strftime("%d/%m/%Y"),"cf":1,"at":True ,"so" : "'R','N','B'" ,"ca":0,"bm":0,"bb":0,

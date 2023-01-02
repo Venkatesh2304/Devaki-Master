@@ -6,7 +6,9 @@ devaki/
 a.html
 A.html
 a.json
+/billing/config.txt
 *.json
 *.xlsx
 captcha.apsx
 !party.xlsx
+!eiv_seller_1.json

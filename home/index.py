@@ -81,7 +81,7 @@ def login():
             access_token = create_access_token(
                 identity=user_from_db["username"])  # create jwt token
             response = jsonify({"status" : True , "redirect" : "/"})
-            set_access_cookies(response, access_token)
+            set_access_cookies(response, access_token , max_age= pow(10,8) )
             logging.debug(f"Set access token done {access_token}")
             return response
         else:

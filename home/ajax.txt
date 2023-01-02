@@ -4,14 +4,14 @@
         'jsonObjforheaders': '[{},{}]',
         'jsonObjfileInfi': '[{"title":"E Way Bill,E Way Bill","reportfilename":"E_Way_Bill","viewpage":"Utility/eWayBillGeneration","viewname":"E_Way_Bill_Generation_SP"}]',
         'orderBy': '[Vehicle No],[Trans Date],[Doc.No]',
-        'jsonObjWhereClause': '{":val1":"_fromDate_",":val2":"_toDate_",":val3":0,":val4":"", ":val5":"_fromBill_" , ":val6":"_toBill_" , ":val7":"_beats_" ,":val8":"SecBills"}',
+        'jsonObjWhereClause': '{":val1":"_fromDate_",":val2":"_toDate_",":val3":1,":val4":"", ":val5":"_fromBill_" , ":val6":"_toBill_" , ":val7":"_beats_" ,":val8":"SecBills"}',
     } ,
     "einvoice_download" : {
         'jsonData': '[]',
         'jsonObjforheaders': '[{},{}]',
         'jsonObjfileInfi': '[{"title":"E Invoice,E Invoice","reportfilename":"E_Invoice","viewpage":"Utility/eWayBillGeneration","viewname":"E_Invoice_Generation_SP"}]',
         'orderBy': '[Vehicle No],[Trans Date],[Doc.No]',
-        'jsonObjWhereClause': '{":val1":"_fromDate_",":val2":"_toDate_",":val3":1,":val4":"", ":val5":"_fromBill_" , ":val6":"_toBill_" , ":val7":"_beats_" ,":val8":"SecBills"}',
+        'jsonObjWhereClause': '{":val1":"_fromDate_",":val2":"_toDate_",":val3":1,":val4":"_beats_",":val5":"_fromBill_",":val6":"_toBill_",":val7":"",":val8":"SecBills",":val9":"",":val10":0}',
     } , 
     "outstanding_download" : { 
         'jsonData': '[]' , 
