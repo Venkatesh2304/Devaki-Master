@@ -171,7 +171,7 @@ class ikea(Session) :
         res = self.post("/rsunify/app/reportsController/generatereport.do" , data = data )
         excel = pd.read_excel(self.download(res.text))
 
-        full_outsanding = self.ajax("prending_bills_download", {"date" : date.strftime("%Y-%m-%d") , "beats": "" })
+        full_outsanding = self.ajax("pending_bills_download", {"date" : date.strftime("%Y-%m-%d") , "beats": "" })
         all_outstanding_excel = pd.read_excel(self.download(self.post("/rsunify/app/reportsController/generatereport.do" , data = full_outsanding ).text ))
 
         return send_file(outstanding.interpret(all_outstanding_excel,excel,days) , as_attachment=True , download_name="outstanding.xlsx")
