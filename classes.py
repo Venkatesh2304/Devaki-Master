@@ -153,23 +153,28 @@ class ikea(Session) :
       
       def outstanding(self, date=None , days = 20):
         salesman = self.post("/rsunify/app/paginationController/getPopScreenData", 
-                        json = {"jasonParam": { "viewName":"VIEW_LOAD_SALESMAN_BEAT_LINK_SALESMAN_LIST"}} ).json() 
+                        json = {"jasonParam":{"viewName":"VIEW_LOAD_SALESMAN_BEAT_LINK_SALESMAN_LIST","pageNumber":1,"pageSize":200}} ).json() 
         sal_id = map( lambda x : x[1] , salesman[0][1:])
         beats_data = []
         day = date.strftime('%A').lower() + "Linked"
 
+        print( sal_id )
         for id in sal_id : 
              beats_data += self.post("/rsunify/app/salesmanBeatLink/getSalesmanBeatLinkMappings",
                       data={"divisionId": 0, "salesmanId": int(id) }).json()
+             
         beats_data = pd.DataFrame(beats_data)
-
+       
         filteredBeats = list(set(beats_data[beats_data[day] != '0']["beatId"]))       
+        
         data =  self.ajax("outstanding_download", {"date" : date.strftime("%Y-%m-%d") , "beats": ",".join(filteredBeats)})
-
         res = self.post("/rsunify/app/reportsController/generatereport.do" , data = data )
         excel = pd.read_excel(self.download(res.text))
-    
-        return send_file(outstanding.interpret(excel,days) , as_attachment=True , download_name="outstanding.xlsx")
+
+        full_outsanding = self.ajax("prending_bills_download", {"date" : date.strftime("%Y-%m-%d") , "beats": "" })
+        all_outstanding_excel = pd.read_excel(self.download(self.post("/rsunify/app/reportsController/generatereport.do" , data = full_outsanding ).text ))
+
+        return send_file(outstanding.interpret(all_outstanding_excel,excel,days) , as_attachment=True , download_name="outstanding.xlsx")
 
       def creditlock(self) :
         config = configs.find_one({"username" : self.user})["creditlock"] 
