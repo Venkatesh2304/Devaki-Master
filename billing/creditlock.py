@@ -5,6 +5,7 @@ def getlockdetails(session,party_data) :
   url_rec = '/rsunify/app/billing/partyinfo.do?partyId=_parId_&partyCode=_partyCode_&parCodeRef=_parCodeRef_&parHllCode=_parHllCode_&plgFlag=true&salChnlCode=&isMigration=true&blhSourceOfOrder=0'
   for key,value in party_data.items() :
       url_rec = url_rec.replace('_'+key+'_',str(value))
+      print(url_rec)
   req = session.get(url_rec).json() 
   outstanding = req["collectionPendingBillVOList"] 
   breakup = [ [bill["pendingDays"],bill["outstanding"]]  for bill in outstanding ]

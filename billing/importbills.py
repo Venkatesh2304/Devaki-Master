@@ -142,10 +142,13 @@ class ikea(classes.ikea) :
           self.update_bills( "lines_count", self.curr_lines_count )
           orders["billvalue"] , orders["status"]    = orders.t * orders.aq , False  
           orders.p  =  orders.p.apply(lambda x : x.replace(" ","")) #party spacing problem prevention 
-          valid_partys = orders.groupby("p").agg({"pc" : "first","ph" : "first","pi" : "first","s" : "first" , "billvalue" : "sum"})
-          valid_partys.rename( columns = {"pc" : "partyCode", "ph":"parHllCode","s" : "salesman","pi":"parId" }, inplace=True) 
+          valid_partys = orders.groupby("p").agg({"pc" : "first","ph" : "first","pi" : "first","s" : "first" , "billvalue" : "sum" , "mi" : "first"})
+          valid_partys.rename( columns = {"pc" : "partyCode", "ph":"parHllCode","s" : "salesman","pi":"parId" , "mi" : "beatId"}, inplace=True) 
           valid_partys["billvalue"] , valid_partys["parCodeRef"]  =  valid_partys["billvalue"].round(2) , valid_partys["partyCode"].copy()
-           
+          
+          print( valid_partys.to_dict(orient="index") )
+
+
           logging.info(f"Orders :: {orders}")
           for order in self.orders : 
                  order["ck"] = (order["on"] in orders.on.values)
@@ -203,7 +206,8 @@ class ikea(classes.ikea) :
               self.Download() 
               self.Printbill(print_type) 
       
-      def getlockdetails(self,party_data) :  
+      def getlockdetails(self,party_data) :
+        print(self.ajax("getcrlock" , party_data))  
         res = self.get( self.ajax("getcrlock" , party_data) ).json()
         outstanding = res["collectionPendingBillVOList"]
         breakup = [ [bill["pendingDays"],bill["outstanding"]]  for bill in outstanding ]
@@ -213,9 +217,11 @@ class ikea(classes.ikea) :
       
       def releaselock(self,party_data) :  
         party_data = self.get( self.ajax("getcrlock" , party_data) ).json()
-        replaces = { "parCodeRef":party_data["partyMasterCode"] ,"parCodeHll":party_data["partyHULCode"] ,"showPLG":party_data["showPLG"], "creditLimit":party_data["creditLimit"],
-                       "creditDays":party_data["creditDays"],"newlimit":int(party_data["creditBillsUtilised"])+1  } 
-        self.get(self.ajax("setcrlock",replaces).replace('+','%2B') )
+        replaces = {"parCodeRef":party_data["partyMasterCode"] ,"parCodeHll":party_data["partyHULCode"] ,"showPLG":party_data["showPLG"], "creditLimit":party_data["creditLimit"],
+                    "creditDays":party_data["creditDays"],"newlimit":int(party_data["creditBillsUtilised"])+1  } 
+        release_lock_res = self.get(self.ajax("setcrlock",replaces).replace('+','%2B') )
+        print( self.ajax("setcrlock",replaces).replace('+','%2B') )
+        print( release_lock_res )
       
 
 
