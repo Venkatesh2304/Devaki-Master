@@ -48,15 +48,24 @@ class ikea(classes.ikea) :
                 self.__setattr__(attr, val)   
       
       def interpret(self,log,valid_partys) :
+          req_plg = self.ajax("salesman_plg_mapping" , { "today" : self.today.strftime("%Y/%m/%d") }) 
+          salesman_plg = pd.read_excel( self.download( 
+                    self.post("/rsunify/app/reportsController/generatereport.do", data = req_plg ).text
+          ))
+        
           log = log.split('Order import process started')[-1].split('\n')
           cr_lock_parties = [ x.split(",")[1].replace(' ','') for x in  log if "Credit Bills" in x ]
           creditlock = {}
           for party in cr_lock_parties :
              if  party in valid_partys.keys() :
                     creditlock[party] = party_data = valid_partys[party]
+                    res = self.get( self.ajax("getcrlock" , party_data) ).json()
+
+                    party_data["showPLG"] = salesman_plg[salesman_plg["Name"] == party_data["salesman"]].iloc[0]["PLG/Department"]
                     lock_data = self.getlockdetails(party_data) 
                     party_data["billsutilised"] =  lock_data["billsutilised"]
                     party_data["creditlimit"] =  lock_data["creditlimit"]
+                    print( party , party_data )
           return creditlock
       
       def Status(self) : 
@@ -209,6 +218,7 @@ class ikea(classes.ikea) :
       def getlockdetails(self,party_data) :
         print(self.ajax("getcrlock" , party_data))  
         res = self.get( self.ajax("getcrlock" , party_data) ).json()
+        print( res )
         outstanding = res["collectionPendingBillVOList"]
         breakup = [ [bill["pendingDays"],bill["outstanding"]]  for bill in outstanding ]
         breakup.sort(key=lambda x: x[0],reverse=True)

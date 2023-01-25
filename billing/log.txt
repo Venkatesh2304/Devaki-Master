@@ -1538,3 +1538,724 @@ Party's Credit Bills Exhausted, VELMURUGAN  STORE KT 1-D-D
 Generating SOAO extract
 Generated SOAO extract successfully
 Order import process ended 4:3:27
+Load Process Started
+Load Process Completed
+Collection import process started 4:33:27
+Collection imported for party D-P2331 (A.R.R MALIGAI-D 1-D-D) with Bill No.TKS53358 is successful.
+Collection import process completed 4:33:27
+Order import process started 4:33:28
+Party's Credit Bills Exhausted, NEW RAHIM STORE-D
+Party's Credit Bills Exhausted, UDAYAM MEDICAL-D
+Party's Credit Bills Exhausted, Laxmi Maligai-D
+Party's Credit Bills Exhausted, KAMATCHI MALIGAI-D
+Party's Credit Bills Exhausted, AKALYAMALIGAI-D-D-D-D
+Party's Credit Bills Exhausted, NEW S.V.S MALIGAI-D
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, KARIM STORES-D-D-D
+Party's Credit Bills Exhausted, LUCKY STORE-D
+Party's Credit Bills Exhausted, MANI MALIGAI-D-D
+Party's Credit Bills Exhausted, BISMI STORE-D-D
+Party's Credit Bills Exhausted, N.S.S MALIGAI-D-D
+Party's Credit Bills Exhausted, MAM-D
+Party's Credit Bills Exhausted, RANI STORE-D
+Party's Credit Bills Exhausted, SUBA MALIGAI-D
+Party's Credit Bills Exhausted, PALKANI  NADAR MALIGAI-D-D
+Party's Credit Bills Exhausted, ROYAL STORE-D-D-D-D
+Party's Credit Bills Exhausted, VENKATESWARA  STORE KTR 1-D-D-D-D-D
+Party's Credit Bills Exhausted, MUTHU MALIGAI-D-D
+Party's Credit Bills Exhausted, SIPPY OIL &MALIGAI-D-D
+Party's Credit Bills Exhausted, DINAGARAN STORE-D
+Party's Credit Bills Exhausted, RENUGA STORE  -KT-D-D-D-D
+Party's Credit Bills Exhausted, SELVAM  STORE KTR 1-D-D
+Starting bill for GANESHA STORE-D-D at 4:33:33
+Created bill  TKS54989 for GANESHA STORE-D-D at 4:33:34
+Party's Credit Bills Exhausted, ANBU  MALIGAI-D-D
+Party's Credit Bills Exhausted, ARUL  RAJ MALIGAI-D-D
+Party's Credit Bills Exhausted, KARUPPANNAN  STORE-D-D
+Party's Credit Bills Exhausted, KUMAR  STORE-D-D
+Party's Credit Bills Exhausted, SARAVANA  STORE KT 1-D-D
+Party's Credit Bills Exhausted, VELMURUGAN  STORE KT 1-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Party's Credit Bills Exhausted, JAYAKUMAR  STORE-D-D-D-D
+Party's Credit Bills Exhausted, JAYALAKSHMISTORE-D-D
+Party's Credit Bills Exhausted, ANBU MALLIGAI-D
+Party's Credit Bills Exhausted, N.S. Maligai-D
+Party's Credit Bills Exhausted, SARIFA STORE-D
+Starting bill for RAJESHKANNA MALIGAI-D at 4:33:36
+Created bill  TKS54990 for RAJESHKANNA MALIGAI-D at 4:33:36
+Starting bill for J J ICE CREAM PARLOR-D at 4:33:36
+Created bill  TKS54991 for J J ICE CREAM PARLOR-D at 4:33:37
+Party's Credit Bills Exhausted, Bilal Store-D
+Party's Credit Bills Exhausted, Amman. Store-D
+Party's Credit Bills Exhausted, Mahalakshmi Trades-D
+Starting bill for SRI SARAN MALIGAI-D at 4:33:38
+Created bill  TKS54992 for SRI SARAN MALIGAI-D at 4:33:38
+Party's Credit Bills Exhausted, SRI LAKSHMI MALIGAI-D
+Party's Credit Bills Exhausted, SRI SURIYA LAKSHMI MEDICAL
+Party's Credit Bills Exhausted, AADHIL STORE-D-D
+Party's Credit Bills Exhausted, MASTHAFA MALIGAI-D
+Party's Credit Bills Exhausted, SAFINA MALGAI-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D
+Party's Credit Bills Exhausted, SHRI VARI STORES-D
+Party's Credit Bills Exhausted, BASHA MALIGAI-D
+Party's Credit Bills Exhausted, HAJERA MALIGAI-D
+Party's Credit Bills Exhausted, MEENA STORE-D-D
+Party's Credit Bills Exhausted, Bavi Baba-D
+Party's Credit Bills Exhausted, Dhanalakshmi-D
+Party's Credit Bills Exhausted, SENTHIL STORE-D
+Party's Credit Bills Exhausted, CHITHARA STORE-D
+Party's Credit Bills Exhausted, SADHANA Super Market-D
+Party's Credit Bills Exhausted, Amera Store-D
+Party's Credit Bills Exhausted, Hari Krishana Store-D
+Party's Credit Bills Exhausted, Anna Kamatchi Maligai-D
+Party's Credit Bills Exhausted, Alif maligai-D
+Party's Credit Bills Exhausted, Sri Hari Stores-D
+Party's Credit Bills Exhausted, Sri Vinayaga Stores-D
+Party's Credit Bills Exhausted, MANI MALLLIGAI-D
+Party's Credit Bills Exhausted, Sri Ponnar Sankar Beeda Stall-D-D
+Party's Credit Bills Exhausted, UDYAM STORE-D-D
+Party's Credit Bills Exhausted, VENKATESWARA  STORE KTR 1-D-D-D-D-D
+Party's Credit Bills Exhausted, MURUGAN  STORE KTR 2-D-D-D-D
+Party's Credit Bills Exhausted, KP SHAA-D
+Party's Credit Bills Exhausted, SELVAM  STORE KTR 1-D-D
+Party's Credit Bills Exhausted, SHANMUGA STORE
+Party's Credit Bills Exhausted, NEW KABIR MALIGAI-D
+Party's Credit Bills Exhausted, SARAVANA  STORE KT 1-D-D
+Party's Credit Bills Exhausted, VELMURUGAN  STORE KT 1-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 4:33:43
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Order import process started 4:36:14
+Party's Credit Bills Exhausted, NEW RAHIM STORE-D
+Party's Credit Bills Exhausted, UDAYAM MEDICAL-D
+Party's Credit Bills Exhausted, Laxmi Maligai-D
+Party's Credit Bills Exhausted, KAMATCHI MALIGAI-D
+Party's Credit Bills Exhausted, AKALYAMALIGAI-D-D-D-D
+Party's Credit Bills Exhausted, NEW S.V.S MALIGAI-D
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, KARIM STORES-D-D-D
+Party's Credit Bills Exhausted, LUCKY STORE-D
+Party's Credit Bills Exhausted, MANI MALIGAI-D-D
+Party's Credit Bills Exhausted, BISMI STORE-D-D
+Party's Credit Bills Exhausted, N.S.S MALIGAI-D-D
+Party's Credit Bills Exhausted, MAM-D
+Party's Credit Bills Exhausted, RANI STORE-D
+Party's Credit Bills Exhausted, SUBA MALIGAI-D
+Party's Credit Bills Exhausted, PALKANI  NADAR MALIGAI-D-D
+Party's Credit Bills Exhausted, ROYAL STORE-D-D-D-D
+Party's Credit Bills Exhausted, VENKATESWARA  STORE KTR 1-D-D-D-D-D
+Party's Credit Bills Exhausted, MUTHU MALIGAI-D-D
+Party's Credit Bills Exhausted, SIPPY OIL &MALIGAI-D-D
+Party's Credit Bills Exhausted, DINAGARAN STORE-D
+Party's Credit Bills Exhausted, RENUGA STORE  -KT-D-D-D-D
+Party's Credit Bills Exhausted, SELVAM  STORE KTR 1-D-D
+Party's Credit Bills Exhausted, ANBU  MALIGAI-D-D
+Party's Credit Bills Exhausted, ARUL  RAJ MALIGAI-D-D
+Party's Credit Bills Exhausted, KARUPPANNAN  STORE-D-D
+Party's Credit Bills Exhausted, KUMAR  STORE-D-D
+Party's Credit Bills Exhausted, SARAVANA  STORE KT 1-D-D
+Party's Credit Bills Exhausted, VELMURUGAN  STORE KT 1-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Party's Credit Bills Exhausted, JAYAKUMAR  STORE-D-D-D-D
+Party's Credit Bills Exhausted, JAYALAKSHMISTORE-D-D
+Party's Credit Bills Exhausted, ANBU MALLIGAI-D
+Party's Credit Bills Exhausted, N.S. Maligai-D
+Party's Credit Bills Exhausted, SARIFA STORE-D
+Party's Credit Bills Exhausted, Bilal Store-D
+Party's Credit Bills Exhausted, Amman. Store-D
+Party's Credit Bills Exhausted, Mahalakshmi Trades-D
+Party's Credit Bills Exhausted, SRI LAKSHMI MALIGAI-D
+Party's Credit Bills Exhausted, SRI SURIYA LAKSHMI MEDICAL
+Party's Credit Bills Exhausted, AADHIL STORE-D-D
+Party's Credit Bills Exhausted, MASTHAFA MALIGAI-D
+Party's Credit Bills Exhausted, SAFINA MALGAI-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D
+Party's Credit Bills Exhausted, SHRI VARI STORES-D
+Party's Credit Bills Exhausted, BASHA MALIGAI-D
+Party's Credit Bills Exhausted, HAJERA MALIGAI-D
+Party's Credit Bills Exhausted, MEENA STORE-D-D
+Party's Credit Bills Exhausted, Bavi Baba-D
+Party's Credit Bills Exhausted, Dhanalakshmi-D
+Party's Credit Bills Exhausted, SENTHIL STORE-D
+Party's Credit Bills Exhausted, CHITHARA STORE-D
+Party's Credit Bills Exhausted, SADHANA Super Market-D
+Party's Credit Bills Exhausted, Amera Store-D
+Party's Credit Bills Exhausted, Hari Krishana Store-D
+Party's Credit Bills Exhausted, Anna Kamatchi Maligai-D
+Party's Credit Bills Exhausted, Alif maligai-D
+Party's Credit Bills Exhausted, Sri Hari Stores-D
+Party's Credit Bills Exhausted, Sri Vinayaga Stores-D
+Party's Credit Bills Exhausted, MANI MALLLIGAI-D
+Party's Credit Bills Exhausted, Sri Ponnar Sankar Beeda Stall-D-D
+Party's Credit Bills Exhausted, UDYAM STORE-D-D
+Party's Credit Bills Exhausted, VENKATESWARA  STORE KTR 1-D-D-D-D-D
+Party's Credit Bills Exhausted, MURUGAN  STORE KTR 2-D-D-D-D
+Party's Credit Bills Exhausted, KP SHAA-D
+Party's Credit Bills Exhausted, SELVAM  STORE KTR 1-D-D
+Party's Credit Bills Exhausted, SHANMUGA STORE
+Party's Credit Bills Exhausted, NEW KABIR MALIGAI-D
+Party's Credit Bills Exhausted, SARAVANA  STORE KT 1-D-D
+Party's Credit Bills Exhausted, VELMURUGAN  STORE KT 1-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 4:36:30
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Order import process started 4:38:47
+Party's Credit Bills Exhausted, NEW RAHIM STORE-D
+Party's Credit Bills Exhausted, UDAYAM MEDICAL-D
+Party's Credit Bills Exhausted, Laxmi Maligai-D
+Party's Credit Bills Exhausted, KAMATCHI MALIGAI-D
+Party's Credit Bills Exhausted, AKALYAMALIGAI-D-D-D-D
+Party's Credit Bills Exhausted, NEW S.V.S MALIGAI-D
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, KARIM STORES-D-D-D
+Party's Credit Bills Exhausted, LUCKY STORE-D
+Party's Credit Bills Exhausted, MANI MALIGAI-D-D
+Party's Credit Bills Exhausted, BISMI STORE-D-D
+Party's Credit Bills Exhausted, N.S.S MALIGAI-D-D
+Party's Credit Bills Exhausted, MAM-D
+Party's Credit Bills Exhausted, RANI STORE-D
+Party's Credit Bills Exhausted, SUBA MALIGAI-D
+Party's Credit Bills Exhausted, PALKANI  NADAR MALIGAI-D-D
+Party's Credit Bills Exhausted, ROYAL STORE-D-D-D-D
+Party's Credit Bills Exhausted, VENKATESWARA  STORE KTR 1-D-D-D-D-D
+Party's Credit Bills Exhausted, MUTHU MALIGAI-D-D
+Party's Credit Bills Exhausted, SIPPY OIL &MALIGAI-D-D
+Party's Credit Bills Exhausted, DINAGARAN STORE-D
+Party's Credit Bills Exhausted, RENUGA STORE  -KT-D-D-D-D
+Party's Credit Bills Exhausted, SELVAM  STORE KTR 1-D-D
+Party's Credit Bills Exhausted, ANBU  MALIGAI-D-D
+Party's Credit Bills Exhausted, ARUL  RAJ MALIGAI-D-D
+Party's Credit Bills Exhausted, KARUPPANNAN  STORE-D-D
+Party's Credit Bills Exhausted, KUMAR  STORE-D-D
+Party's Credit Bills Exhausted, SARAVANA  STORE KT 1-D-D
+Party's Credit Bills Exhausted, VELMURUGAN  STORE KT 1-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Party's Credit Bills Exhausted, JAYAKUMAR  STORE-D-D-D-D
+Party's Credit Bills Exhausted, JAYALAKSHMISTORE-D-D
+Party's Credit Bills Exhausted, ANBU MALLIGAI-D
+Party's Credit Bills Exhausted, N.S. Maligai-D
+Party's Credit Bills Exhausted, SARIFA STORE-D
+Party's Credit Bills Exhausted, Bilal Store-D
+Party's Credit Bills Exhausted, Amman. Store-D
+Party's Credit Bills Exhausted, Mahalakshmi Trades-D
+Party's Credit Bills Exhausted, SRI LAKSHMI MALIGAI-D
+Party's Credit Bills Exhausted, SRI SURIYA LAKSHMI MEDICAL
+Party's Credit Bills Exhausted, AADHIL STORE-D-D
+Party's Credit Bills Exhausted, MASTHAFA MALIGAI-D
+Party's Credit Bills Exhausted, SAFINA MALGAI-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D
+Party's Credit Bills Exhausted, SHRI VARI STORES-D
+Party's Credit Bills Exhausted, BASHA MALIGAI-D
+Party's Credit Bills Exhausted, HAJERA MALIGAI-D
+Party's Credit Bills Exhausted, MEENA STORE-D-D
+Party's Credit Bills Exhausted, Bavi Baba-D
+Party's Credit Bills Exhausted, Dhanalakshmi-D
+Party's Credit Bills Exhausted, SENTHIL STORE-D
+Party's Credit Bills Exhausted, CHITHARA STORE-D
+Party's Credit Bills Exhausted, SADHANA Super Market-D
+Party's Credit Bills Exhausted, Amera Store-D
+Party's Credit Bills Exhausted, Hari Krishana Store-D
+Party's Credit Bills Exhausted, Anna Kamatchi Maligai-D
+Party's Credit Bills Exhausted, Alif maligai-D
+Party's Credit Bills Exhausted, Sri Hari Stores-D
+Party's Credit Bills Exhausted, Sri Vinayaga Stores-D
+Party's Credit Bills Exhausted, MANI MALLLIGAI-D
+Party's Credit Bills Exhausted, Sri Ponnar Sankar Beeda Stall-D-D
+Party's Credit Bills Exhausted, UDYAM STORE-D-D
+Party's Credit Bills Exhausted, VENKATESWARA  STORE KTR 1-D-D-D-D-D
+Party's Credit Bills Exhausted, MURUGAN  STORE KTR 2-D-D-D-D
+Party's Credit Bills Exhausted, KP SHAA-D
+Party's Credit Bills Exhausted, SELVAM  STORE KTR 1-D-D
+Party's Credit Bills Exhausted, SHANMUGA STORE
+Party's Credit Bills Exhausted, NEW KABIR MALIGAI-D
+Party's Credit Bills Exhausted, SARAVANA  STORE KT 1-D-D
+Party's Credit Bills Exhausted, VELMURUGAN  STORE KT 1-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 4:38:59
+Load Process Started
+Load Process Completed
+Order import process started 4:45:50
+Party's Credit Bills Exhausted, NEW RAHIM STORE-D
+Starting bill for UDAYAM MEDICAL-D at 4:45:52
+Created bill  TKS54993 for UDAYAM MEDICAL-D at 4:45:52
+Starting bill for Laxmi Maligai-D at 4:45:53
+Created bill  TKS54994 for Laxmi Maligai-D at 4:45:53
+Starting bill for KAMATCHI MALIGAI-D at 4:45:54
+Created bill  TKS54995 for KAMATCHI MALIGAI-D at 4:45:54
+Party's Credit Bills Exhausted, AKALYAMALIGAI-D-D-D-D
+Starting bill for NEW S.V.S MALIGAI-D at 4:45:55
+Created bill  TKS54996 for NEW S.V.S MALIGAI-D at 4:45:55
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Starting bill for KARIM STORES-D-D-D at 4:45:57
+Created bill  TKS54997 for KARIM STORES-D-D-D at 4:45:57
+Party's Credit Bills Exhausted, LUCKY STORE-D
+Party's Credit Bills Exhausted, MANI MALIGAI-D-D
+Party's Credit Bills Exhausted, BISMI STORE-D-D
+Party's Credit Bills Exhausted, N.S.S MALIGAI-D-D
+Party's Credit Bills Exhausted, MAM-D
+Party's Credit Bills Exhausted, RANI STORE-D
+Party's Credit Bills Exhausted, SUBA MALIGAI-D
+Party's Credit Bills Exhausted, PALKANI  NADAR MALIGAI-D-D
+Party's Credit Bills Exhausted, ROYAL STORE-D-D-D-D
+Party's Credit Bills Exhausted, VENKATESWARA  STORE KTR 1-D-D-D-D-D
+Party's Credit Bills Exhausted, MUTHU MALIGAI-D-D
+Party's Credit Bills Exhausted, SIPPY OIL &MALIGAI-D-D
+Party's Credit Bills Exhausted, DINAGARAN STORE-D
+Party's Credit Bills Exhausted, RENUGA STORE  -KT-D-D-D-D
+Party's Credit Bills Exhausted, SELVAM  STORE KTR 1-D-D
+Party's Credit Bills Exhausted, ANBU  MALIGAI-D-D
+Party's Credit Bills Exhausted, ARUL  RAJ MALIGAI-D-D
+Party's Credit Bills Exhausted, KARUPPANNAN  STORE-D-D
+Party's Credit Bills Exhausted, KUMAR  STORE-D-D
+Party's Credit Bills Exhausted, SARAVANA  STORE KT 1-D-D
+Party's Credit Bills Exhausted, VELMURUGAN  STORE KT 1-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Party's Credit Bills Exhausted, JAYAKUMAR  STORE-D-D-D-D
+Party's Credit Bills Exhausted, JAYALAKSHMISTORE-D-D
+Party's Credit Bills Exhausted, ANBU MALLIGAI-D
+Party's Credit Bills Exhausted, N.S. Maligai-D
+Starting bill for SARIFA STORE-D at 4:46:3
+Created bill  TKS54998 for SARIFA STORE-D at 4:46:3
+Starting bill for Bilal Store-D at 4:46:4
+Created bill  TKS54999 for Bilal Store-D at 4:46:4
+Starting bill for Amman. Store-D at 4:46:5
+Created bill  TKS55000 for Amman. Store-D at 4:46:5
+Starting bill for Mahalakshmi Trades-D at 4:46:6
+Created bill  TKS55001 for Mahalakshmi Trades-D at 4:46:6
+Starting bill for SRI LAKSHMI MALIGAI-D at 4:46:7
+Created bill  TKS55002 for SRI LAKSHMI MALIGAI-D at 4:46:7
+Starting bill for SRI SURIYA LAKSHMI MEDICAL at 4:46:8
+Created bill  TKS55003 for SRI SURIYA LAKSHMI MEDICAL at 4:46:8
+Starting bill for AADHIL STORE-D-D at 4:46:9
+Created bill  TKS55004 for AADHIL STORE-D-D at 4:46:10
+Starting bill for MASTHAFA MALIGAI-D at 4:46:10
+Created bill  TKS55005 for MASTHAFA MALIGAI-D at 4:46:11
+Starting bill for SAFINA MALGAI-D at 4:46:12
+Created bill  TKS55006 for SAFINA MALGAI-D at 4:46:13
+Starting bill for MURUGAN STORE-D at 4:46:14
+Created bill  TKS55007 for MURUGAN STORE-D at 4:46:14
+Starting bill for SHRI VARI STORES-D at 4:46:15
+Created bill  TKS55008 for SHRI VARI STORES-D at 4:46:15
+Starting bill for BASHA MALIGAI-D at 4:46:16
+Created bill  TKS55009 for BASHA MALIGAI-D at 4:46:17
+Starting bill for HAJERA MALIGAI-D at 4:46:17
+Created bill  TKS55010 for HAJERA MALIGAI-D at 4:46:18
+Starting bill for MEENA STORE-D-D at 4:46:18
+Created bill  TKS55011 for MEENA STORE-D-D at 4:46:19
+Starting bill for Bavi Baba-D at 4:46:20
+Created bill  TKS55012 for Bavi Baba-D at 4:46:20
+Starting bill for Dhanalakshmi-D at 4:46:21
+Created bill  TKS55013 for Dhanalakshmi-D at 4:46:22
+Starting bill for SENTHIL STORE-D at 4:46:24
+Created bill  TKS55014 for SENTHIL STORE-D at 4:46:25
+Starting bill for CHITHARA STORE-D at 4:46:26
+Created bill  TKS55015 for CHITHARA STORE-D at 4:46:26
+Starting bill for SADHANA Super Market-D at 4:46:27
+Created bill  TKS55016 for SADHANA Super Market-D at 4:46:27
+Starting bill for Amera Store-D at 4:46:28
+Created bill  TKS55017 for Amera Store-D at 4:46:28
+Starting bill for Hari Krishana Store-D at 4:46:29
+Created bill  TKS55018 for Hari Krishana Store-D at 4:46:30
+Starting bill for Anna Kamatchi Maligai-D at 4:46:30
+Created bill  TKS55019 for Anna Kamatchi Maligai-D at 4:46:31
+Starting bill for Alif maligai-D at 4:46:31
+Created bill  TKS55020 for Alif maligai-D at 4:46:32
+Starting bill for Sri Hari Stores-D at 4:46:33
+Created bill  TKS55021 for Sri Hari Stores-D at 4:46:34
+Starting bill for Sri Vinayaga Stores-D at 4:46:34
+Created bill  TKS55022 for Sri Vinayaga Stores-D at 4:46:35
+Party's Credit Bills Exhausted, MANI MALLLIGAI-D
+Party's Credit Bills Exhausted, Sri Ponnar Sankar Beeda Stall-D-D
+Party's Credit Bills Exhausted, UDYAM STORE-D-D
+Party's Credit Bills Exhausted, VENKATESWARA  STORE KTR 1-D-D-D-D-D
+Party's Credit Bills Exhausted, MURUGAN  STORE KTR 2-D-D-D-D
+Party's Credit Bills Exhausted, KP SHAA-D
+Party's Credit Bills Exhausted, SELVAM  STORE KTR 1-D-D
+Party's Credit Bills Exhausted, SHANMUGA STORE
+Party's Credit Bills Exhausted, NEW KABIR MALIGAI-D
+Party's Credit Bills Exhausted, SARAVANA  STORE KT 1-D-D
+Party's Credit Bills Exhausted, VELMURUGAN  STORE KT 1-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 4:46:39
+Load Process Started
+Load Process Completed
+Order import process started 4:48:9
+Party's Credit Bills Exhausted, NEW RAHIM STORE-D
+Party's Credit Bills Exhausted, AKALYAMALIGAI-D-D-D-D
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, LUCKY STORE-D
+Starting bill for MANI MALIGAI-D-D at 4:48:11
+Created bill  TKS55023 for MANI MALIGAI-D-D at 4:48:11
+Party's Credit Bills Exhausted, BISMI STORE-D-D
+Starting bill for N.S.S MALIGAI-D-D at 4:48:12
+Created bill  TKS55024 for N.S.S MALIGAI-D-D at 4:48:13
+Starting bill for MAM-D at 4:48:14
+Created bill  TKS55025 for MAM-D at 4:48:14
+Starting bill for RANI STORE-D at 4:48:15
+Created bill  TKS55026 for RANI STORE-D at 4:48:15
+Starting bill for SUBA MALIGAI-D at 4:48:16
+Created bill  TKS55027 for SUBA MALIGAI-D at 4:48:17
+Starting bill for PALKANI  NADAR MALIGAI-D-D at 4:48:18
+Created bill  TKS55028 for PALKANI  NADAR MALIGAI-D-D at 4:48:18
+Starting bill for ROYAL STORE-D-D-D-D at 4:48:19
+Created bill  TKS55029 for ROYAL STORE-D-D-D-D at 4:48:19
+Starting bill for VENKATESWARA  STORE KTR 1-D-D-D-D-D at 4:48:20
+Created bill  TKS55030 for VENKATESWARA  STORE KTR 1-D-D-D-D-D at 4:48:20
+Starting bill for MUTHU MALIGAI-D-D at 4:48:21
+Created bill  TKS55031 for MUTHU MALIGAI-D-D at 4:48:21
+Starting bill for SIPPY OIL &MALIGAI-D-D at 4:48:22
+Created bill  TKS55032 for SIPPY OIL &MALIGAI-D-D at 4:48:22
+Starting bill for DINAGARAN STORE-D at 4:48:23
+Created bill  TKS55033 for DINAGARAN STORE-D at 4:48:23
+Starting bill for RENUGA STORE  -KT-D-D-D-D at 4:48:24
+Created bill  TKS55034 for RENUGA STORE  -KT-D-D-D-D at 4:48:24
+Starting bill for SELVAM  STORE KTR 1-D-D at 4:48:24
+Created bill  TKS55035 for SELVAM  STORE KTR 1-D-D at 4:48:25
+Starting bill for ANBU  MALIGAI-D-D at 4:48:25
+Created bill  TKS55036 for ANBU  MALIGAI-D-D at 4:48:26
+Starting bill for ARUL  RAJ MALIGAI-D-D at 4:48:26
+Created bill  TKS55037 for ARUL  RAJ MALIGAI-D-D at 4:48:27
+Starting bill for KARUPPANNAN  STORE-D-D at 4:48:27
+Created bill  TKS55038 for KARUPPANNAN  STORE-D-D at 4:48:28
+Starting bill for KUMAR  STORE-D-D at 4:48:28
+Created bill  TKS55039 for KUMAR  STORE-D-D at 4:48:29
+Starting bill for SARAVANA  STORE KT 1-D-D at 4:48:29
+Created bill  TKS55040 for SARAVANA  STORE KT 1-D-D at 4:48:30
+Starting bill for VELMURUGAN  STORE KT 1-D-D at 4:48:30
+Created bill  TKS55041 for VELMURUGAN  STORE KT 1-D-D at 4:48:31
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Party's Credit Bills Exhausted, JAYAKUMAR  STORE-D-D-D-D
+Party's Credit Bills Exhausted, JAYALAKSHMISTORE-D-D
+Party's Credit Bills Exhausted, ANBU MALLIGAI-D
+Party's Credit Bills Exhausted, N.S. Maligai-D
+Party's Credit Bills Exhausted, MANI MALLLIGAI-D
+Party's Credit Bills Exhausted, Sri Ponnar Sankar Beeda Stall-D-D
+Party's Credit Bills Exhausted, UDYAM STORE-D-D
+Starting bill for VENKATESWARA  STORE KTR 1-D-D-D-D-D at 4:48:33
+Created bill  TKS55042 for VENKATESWARA  STORE KTR 1-D-D-D-D-D at 4:48:34
+Starting bill for MURUGAN  STORE KTR 2-D-D-D-D at 4:48:35
+Created bill  TKS55043 for MURUGAN  STORE KTR 2-D-D-D-D at 4:48:35
+Party's Credit Bills Exhausted, KP SHAA-D
+Starting bill for SELVAM  STORE KTR 1-D-D at 4:48:36
+Created bill  TKS55044 for SELVAM  STORE KTR 1-D-D at 4:48:36
+Party's Credit Bills Exhausted, SHANMUGA STORE
+Starting bill for NEW KABIR MALIGAI-D at 4:48:37
+Created bill  TKS55045 for NEW KABIR MALIGAI-D at 4:48:37
+Starting bill for SARAVANA  STORE KT 1-D-D at 4:48:38
+Created bill  TKS55046 for SARAVANA  STORE KT 1-D-D at 4:48:38
+Starting bill for VELMURUGAN  STORE KT 1-D-D at 4:48:39
+Created bill  TKS55047 for VELMURUGAN  STORE KT 1-D-D at 4:48:40
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 4:48:42
+Load Process Started
+Load Process Completed
+Order import process started 4:52:20
+Party's Credit Bills Exhausted, NEW RAHIM STORE-D
+Party's Credit Bills Exhausted, AKALYAMALIGAI-D-D-D-D
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Starting bill for LUCKY STORE-D at 4:52:22
+Created bill  TKS55048 for LUCKY STORE-D at 4:52:22
+Party's Credit Bills Exhausted, BISMI STORE-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Starting bill for JAYAKUMAR  STORE-D-D-D-D at 4:52:23
+Created bill  TKS55049 for JAYAKUMAR  STORE-D-D-D-D at 4:52:23
+Starting bill for JAYALAKSHMISTORE-D-D at 4:52:24
+Created bill  TKS55050 for JAYALAKSHMISTORE-D-D at 4:52:24
+Starting bill for ANBU MALLIGAI-D at 4:52:25
+Created bill  TKS55051 for ANBU MALLIGAI-D at 4:52:25
+Starting bill for N.S. Maligai-D at 4:52:26
+Created bill  TKS55052 for N.S. Maligai-D at 4:52:26
+Party's Credit Bills Exhausted, MANI MALLLIGAI-D
+Party's Credit Bills Exhausted, Sri Ponnar Sankar Beeda Stall-D-D
+Party's Credit Bills Exhausted, UDYAM STORE-D-D
+Party's Credit Bills Exhausted, KP SHAA-D
+Party's Credit Bills Exhausted, SHANMUGA STORE
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 4:52:38
+Load Process Started
+Load Process Completed
+Order import process started 4:56:55
+Party's Credit Bills Exhausted, NEW RAHIM STORE-D
+Party's Credit Bills Exhausted, AKALYAMALIGAI-D-D-D-D
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, BISMI STORE-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Starting bill for MANI MALLLIGAI-D at 4:56:57
+Created bill  TKS55053 for MANI MALLLIGAI-D at 4:56:57
+Starting bill for Sri Ponnar Sankar Beeda Stall-D-D at 4:56:58
+Created bill  TKS55054 for Sri Ponnar Sankar Beeda Stall-D-D at 4:56:59
+Starting bill for UDYAM STORE-D-D at 4:56:59
+Created bill  TKS55055 for UDYAM STORE-D-D at 4:57:0
+Starting bill for KP SHAA-D at 4:57:1
+Created bill  TKS55056 for KP SHAA-D at 4:57:1
+Starting bill for SHANMUGA STORE at 4:57:1
+Created bill  TKS55057 for SHANMUGA STORE at 4:57:2
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 4:57:3
+Load Process Started
+Load Process Completed
+Order import process started 5:3:10
+Starting bill for NEW RAHIM STORE-D at 5:3:11
+Created bill  TKS55058 for NEW RAHIM STORE-D at 5:3:12
+Starting bill for AKALYAMALIGAI-D-D-D-D at 5:3:13
+Created bill  TKS55059 for AKALYAMALIGAI-D-D-D-D at 5:3:13
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, BISMI STORE-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 5:3:15
+Load Process Started
+Load Process Completed
+Order import process started 5:4:47
+Party's Credit Bills Exhausted, SRI RAJALAKSHMI STORES-D
+Starting bill for SRI MAHALAKSHMI STORE-D FG 1-D-D at 5:4:58
+Created bill  TKS55060 for SRI MAHALAKSHMI STORE-D FG 1-D-D at 5:5:1
+Basepack Code: 15147 - 2 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Starting bill for SAKTHI MEDICALS-D-D-D-D at 5:5:8
+Created bill  TKS55061 for SAKTHI MEDICALS-D-D-D-D at 5:5:10
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, BISMI STORE-D-D
+Starting bill for MURUGAN  STORE KTR 2-D-D-D-D at 5:5:14
+Created bill  TKS55062 for MURUGAN  STORE KTR 2-D-D-D-D at 5:5:15
+Party's Credit Bills Exhausted, JAVA  MALIGAI-D-D
+Starting bill for SHANTHI GENERNAL STORE-D at 5:5:22
+Created bill  TKS55063 for SHANTHI GENERNAL STORE-D at 5:5:26
+Starting bill for EDLOVE  EMPORIUM-D-D at 5:5:33
+Created bill  TKS55064 for EDLOVE  EMPORIUM-D-D at 5:5:34
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Starting bill for KANNAN STORES  Maligai& General Merchant-D at 5:5:36
+Created bill  TKS55065 for KANNAN STORES  Maligai& General Merchant-D at 5:5:37
+Starting bill for JOTHI PROVISION STORES-D-D at 5:5:39
+Created bill  TKS55066 for JOTHI PROVISION STORES-D-D at 5:5:40
+Starting bill for NEW ARPUTHAM STORE-D-D-D at 5:5:42
+Created bill  TKS55067 for NEW ARPUTHAM STORE-D-D-D at 5:5:43
+Starting bill for WHAHAB MALIGAI-D-D at 5:5:46
+Created bill  TKS55068 for WHAHAB MALIGAI-D-D at 5:5:47
+Starting bill for SRI LINGAM STORES-D-D at 5:5:50
+Created bill  TKS55069 for SRI LINGAM STORES-D-D at 5:5:50
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 5:5:51
+Load Process Started
+Load Process Completed
+Order import process started 5:7:12
+Starting bill for SRI RAJALAKSHMI STORES-D at 5:7:18
+Created bill  TKS55070 for SRI RAJALAKSHMI STORES-D at 5:7:19
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, BISMI STORE-D-D
+Party's Credit Bills Exhausted, JAVA  MALIGAI-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 5:7:21
+Load Process Started
+Load Process Completed
+Order import process started 5:21:29
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Starting bill for BISMI STORE-D-D at 5:21:30
+Created bill  TKS55073 for BISMI STORE-D-D at 5:21:31
+Party's Credit Bills Exhausted, JAVA  MALIGAI-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 5:21:32
+Load Process Started
+Load Process Completed
+Order import process started 5:34:7
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, JAVA  MALIGAI-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 5:34:9
+Load Process Started
+Load Process Completed
+Order import process started 5:49:8
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, JAVA  MALIGAI-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 5:49:10
+Load Process Started
+Load Process Completed
+Order import process started 6:4:10
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, JAVA  MALIGAI-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 6:4:12
+Load Process Started
+Load Process Completed
+Order import process started 6:19:10
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, JAVA  MALIGAI-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 6:19:12
+Load Process Started
+Load Process Completed
+Order import process started 7:16:20
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 7:16:22
+Load Process Started
+Load Process Completed
+Order import process started 7:19:48
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 7:19:50
+Load Process Started
+Load Process Completed
+Order import process started 7:21:4
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 7:21:6
+Load Process Started
+Load Process Completed
+Order import process started 7:51:9
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 7:51:10
+Load Process Started
+Load Process Completed
+Order import process started 8:6:6
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 8:6:7
+Load Process Started
+Load Process Completed
+Order import process started 8:29:23
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 8:29:24
+Load Process Started
+Load Process Completed
+Order import process started 8:34:10
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 8:34:12
+Load Process Started
+Load Process Completed
+Order import process started 8:35:10
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 8:35:12
+Load Process Started
+Load Process Completed
+Order import process started 8:36:39
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 8:36:40
+Load Process Started
+Load Process Completed
+Order import process started 8:39:47
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 8:39:49
+Load Process Started
+Load Process Completed
+Order import process started 8:54:49
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 8:54:51
+Load Process Started
+Load Process Completed
+Order import process started 8:59:47
+Party's Credit Bills Exhausted, RAJKUMARMAIGAI-D1-D-D
+Party's Credit Bills Exhausted, INDIAN MALIGAI-D-D-D
+Party's Credit Bills Exhausted, MURUGAN STORE-D-D
+Party's Credit Bills Exhausted, SARADHA STORE-D-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 8:59:48
