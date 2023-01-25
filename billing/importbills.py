@@ -48,6 +48,11 @@ class ikea(classes.ikea) :
                 self.__setattr__(attr, val)   
       
       def interpret(self,log,valid_partys) :
+          req_plg = self.ajax("salesman_plg_mapping" , { "today" : self.today.strftime("%Y/%m/%d") }) 
+          salesman_plg = pd.read_excel( self.download( 
+                    self.post("/rsunify/app/reportsController/generatereport.do", data = req_plg ).text
+          ))
+        
           log = log.split('Order import process started')[-1].split('\n')
           cr_lock_parties = [ x.split(",")[1].replace(' ','') for x in  log if "Credit Bills" in x ]
           creditlock = {}
