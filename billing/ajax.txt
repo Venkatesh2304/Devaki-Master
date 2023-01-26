@@ -5,7 +5,7 @@
           "jsonObjfileInfi": '[{"title":"Salesman Master Report,Salesman Master Report","reportfilename":"Salesman Master Report","viewpage":"report/salMasterReport","viewname":"SALESMAN_MASTER_REPORT"}]',
           'jsonObjWhereClause' : '{":val1" : "_today_", ":val2" : "_today_" }' 
     } ,
-    
+    "partyinfo" : '/rsunify/app/billing/partyinfo.do?partyId=_parId_&partyCode=_partyCode_&parCodeRef=_parCodeRef_&parHllCode=_parHllCode_&plgFlag=true&salChnlCode=&isMigration=true&blhSourceOfOrder=0&beatId=_beatId_' ,
     "getcrlock" : '/rsunify/app/billing/partyplgdatas.do?partyCode=_partyCode_&parCodeRef=_parCodeRef_&parHllCode=_parHllCode_&plgFlag=true&salChnlCode=&showPLG=_showPLG_&isMigration=true' ,
     "setcrlock" : '/rsunify/app/billing/updatepartyinfo.do?partyCodeRef=_parCodeRef_&creditBills=_newlimit_&creditLimit=_creditLimit_&creditDays=0&panNumber=&servicingPlgValue=_showPLG_&plgPartyCredit=true&parHllCode=_parCodeHll_' ,
     "getshikhar" : {"uniqueId":0,"importDate":"_importDate_","sourceOfOrder":"'R','N','B'"} , 

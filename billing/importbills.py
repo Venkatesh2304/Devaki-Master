@@ -65,8 +65,15 @@ class ikea(classes.ikea) :
                     plg_alternative = self.get( self.ajax("partyinfo" , party_data) ).json()["plglist"]
                     plg_alternative = { i[0] : i[1] for i in plg_alternative }
                     plg = salesman_plg[salesman_plg["Name"] == party_data["salesman"]].iloc[0]["PLG/Department"]
-                    party_data["showPLG"] = plg_alternative[plg]
-
+                    print( plg_alternative ,plg  )
+                    if plg  in plg_alternative : 
+                        plg_name = plg_alternative[plg]
+                    else : 
+                      for k,v in plg_alternative.items() : 
+                        if k.split("-")[0] == plg.split("-")[0] : 
+                           plg_name = v 
+                           break  
+                    party_data["showPLG"] = plg_name.replace("+","%2B")
                     lock_data = self.getlockdetails(party_data) 
                     party_data["billsutilised"] =  lock_data["billsutilised"]
                     party_data["creditlimit"] =  lock_data["creditlimit"]
