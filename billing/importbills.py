@@ -166,10 +166,25 @@ class ikea(classes.ikea):
     def Collection(self):
         data = self.ajax("getmarketorder", {"importDate": (self.today - timedelta(days=1)).strftime("%Y-%m-%d") + "T18:30:00.000Z",
                                             "orderDate": (self.date - timedelta(days=1)).strftime("%Y-%m-%d") + "T18:30:00.000Z"})
+        
+        # screen_data  = {"strJsonParams": {"screenName":"Market order & Collection","pbayoutUpdate":"1","enfSyncFlag":"0"} }
+        # x = self.post("/rsunify/app/ikeaCommonUtilController/updateScreenNameIntoSession",data=screen_data)
+        # logging.info(x.text)
+        # x = self.post("/rsunify/app/ikeaCommonUtilController/removeScreenNameFromSession",data={"strJsonParams": {"screenName":"Order Sync"}})
+        # logging.info(x.text)
+        # x = self.post("/rsunify/app/ikeaCommonUtilController/updateScreenNameIntoSession",data=screen_data)
+        # logging.info(x.text)
+        
+        self.get("/rsunify/app/quantumImport/init")
+        self.get("/rsunify/app/quantumImport/filterValidation")
+        self.get(f"/rsunify/app/quantumImport/futureDataValidation?importDate={self.today.strftime('%d/%m/%Y')}")
+
+
         data_shikhar = self.ajax("getshikhar", {"importDate": self.today.strftime(
             "%d/%m/%Y")})  # shikhar orders import
         shikhar = self.post("/rsunify/app/quantumImport/shikharlist",
                             json=data_shikhar).json()["shikharOrderList"]
+        logging.info(shikhar)
         data["qtmShikharList"] = shikhar = [order[11] for order in shikhar[1:]]
         self.marketorder = self.post(
             "/rsunify/app/quantumImport/validateload.do", json=data).json()
@@ -177,9 +192,10 @@ class ikea(classes.ikea):
         self.filtered_collection = [
             collection for collection in collection_data if collection["pc"] not in self.prev_collection]
         data = {"mcl": self.filtered_collection, "id": self.today.strftime(
-            "%d/%m/%Y"), "CLIENT_REQ_UID": client_id_generator()}
-        self.post(
+            "%d/%m/%Y"), "CLIENT_REQ_UID": client_id_generator() , "ri" : 0 }
+        res = self.post(
             "/rsunify/app/quantumImport/importSelectedCollection", json=data).json()
+        print( res )
         self.collection = [coll["pc"] for coll in self.filtered_collection]
         self.update_bills("prev_collection", self.collection)
         # logging.debug(f"Market order :: {pprint.pformat(self.marketorder)}")
