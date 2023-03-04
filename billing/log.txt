@@ -1,481 +1,447 @@
 Load Process Started
 Load Process Completed
-Order import process started 9:30:44
+Load Process Started
+Load Process Completed
+Order import process started 10:30:30
+Party's Credit Bills Exhausted, OVEYA DEPTEMENT STORE-D-D-D-D
+Starting bill for LAKSHMI STORE-D at 10:30:32
+Created bill  TKS62979 for LAKSHMI STORE-D at 10:30:34
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 9:30:44
+Order import process ended 10:30:35
 Load Process Started
 Load Process Completed
 Load Process Started
 Load Process Completed
-Load Process Started
-Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 9:45:40
+Order import process started 10:34:26
+Party's Credit Bills Exhausted, ABBAS MALIGAI-D-D
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 9:45:40
+Order import process ended 10:34:27
 Load Process Started
 Load Process Completed
-Order import process started 10:0:43
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Order import process started 10:43:9
+Starting bill for ABBAS MALIGAI-D-D at 10:43:13
+Created bill  TKS62980 for ABBAS MALIGAI-D-D at 10:43:17
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 10:0:43
+Order import process ended 10:43:18
 Load Process Started
 Load Process Completed
-Order import process started 10:15:42
+Order import process started 10:45:24
+Starting bill for GOPI BEEDA STALL-D at 10:45:25
+Created bill  TKS62981 for GOPI BEEDA STALL-D at 10:45:26
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 10:15:43
+Order import process ended 10:45:26
 Load Process Started
 Load Process Completed
-Order import process started 10:30:42
+Order import process started 10:45:48
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 10:30:42
+Order import process ended 10:45:49
 Load Process Started
 Load Process Completed
-Order import process started 10:40:32
-Party's Credit Bills Exhausted, THANGAPANDIAN MALIGAI-D
+Order import process started 10:48:50
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 10:40:33
+Order import process ended 10:48:51
 Load Process Started
 Load Process Completed
-Load Process Started
-Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 10:55:36
-Starting bill for VIJAY STORE-D-D at 10:55:39
-Created bill  TKS62759 for VIJAY STORE-D-D at 10:55:43
-Party's Credit Bills Exhausted, VELANKANNAI STORE-D-D
-Party's Credit Bills Exhausted, KAVITHA STORE-D-D
-Party's Credit Bills Exhausted, ANNAI VELANKANNI STORE-D
-Party's Credit Bills Exhausted, THANGAPANDIAN MALIGAI-D
-Party's Credit Bills Exhausted, ISMAILSTORE-D-D-D-D
+Order import process started 11:0:55
+Starting bill for MUTHU MALIGAI-D-D at 11:0:56
+Created bill  TKS62983 for MUTHU MALIGAI-D-D at 11:0:57
+Starting bill for DEEN STORE-D at 11:0:58
+Created bill  TKS62984 for DEEN STORE-D at 11:0:59
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 10:55:44
+Order import process ended 11:1:0
 Load Process Started
 Load Process Completed
-Order import process started 10:59:6
-Party's Credit Bills Exhausted, VELANKANNAI STORE-D-D
-Starting bill for M.R.MEDICALS-D-D at 10:59:7
-Created bill  TKS62760 for M.R.MEDICALS-D-D at 10:59:8
-Starting bill for KAVITHA STORE-D-D at 10:59:8
-Created bill  TKS62761 for KAVITHA STORE-D-D at 10:59:9
-Starting bill for ANNAI VELANKANNI STORE-D at 10:59:10
-Created bill  TKS62762 for ANNAI VELANKANNI STORE-D at 10:59:11
-Starting bill for THANGAPANDIAN MALIGAI-D at 10:59:12
-Created bill  TKS62763 for THANGAPANDIAN MALIGAI-D at 10:59:13
-Starting bill for ISMAILSTORE-D-D-D-D at 10:59:13
-Created bill  TKS62764 for ISMAILSTORE-D-D-D-D at 10:59:14
+Order import process started 11:3:43
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 10:59:14
+Order import process ended 11:3:43
 Load Process Started
 Load Process Completed
-Order import process started 11:14:12
-Party's Credit Bills Exhausted, VELANKANNAI STORE-D-D
-Starting bill for SELVI STORE-D at 11:14:13
-Created bill  TKS62765 for SELVI STORE-D at 11:14:13
-Starting bill for VELANKANNAI STORE-D-D at 11:14:14
-Created bill  TKS62766 for VELANKANNAI STORE-D-D at 11:14:14
-Starting bill for SRI LAKSHMI MEDICAL-D at 11:14:15
-Created bill  TKS62767 for SRI LAKSHMI MEDICAL-D at 11:14:15
+Order import process started 11:7:51
+Starting bill for A.R.R MALIGAI-D 1-D-D at 11:7:51
+Created bill  TKS62985 for A.R.R MALIGAI-D 1-D-D at 11:7:52
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 11:14:15
+Order import process ended 11:7:52
 Load Process Started
 Load Process Completed
-Order import process started 11:19:32
-Starting bill for VELANKANNAI STORE-D-D at 11:19:34
-Created bill  TKS62768 for VELANKANNAI STORE-D-D at 11:19:35
-Starting bill for JAM JAM MEDICAL-D-D at 11:19:36
-Created bill  TKS62769 for JAM JAM MEDICAL-D-D at 11:19:37
-Basepack Code: 87033 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Basepack Code: 87033 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Basepack Code: 87043 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Starting bill for TAJ MEDICALS -D-D at 11:19:38
-Created bill  TKS62770 for TAJ MEDICALS -D-D at 11:19:39
+Load Process Started
+Load Process Completed
+Order import process started 11:15:55
+Starting bill for MAIDEEN STORE-D-D-D-D at 11:15:56
+Created bill  TKS62986 for MAIDEEN STORE-D-D-D-D at 11:15:56
+Starting bill for NEW SUPER MEDICAL-D at 11:15:57
+Created bill  TKS62987 for NEW SUPER MEDICAL-D at 11:15:57
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 11:19:39
+Order import process ended 11:15:58
 Load Process Started
 Load Process Completed
-Order import process started 11:34:30
-Basepack Code: 12070 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Starting bill for NATURE SUPER MARKET-D at 11:34:33
-Following Locked Category Payout Adjustments were done in this bill QTMBILL for NATURE SUPER MARKET-D
-44297834, OUTLET_PAY, 105.0
-Created bill  TKS62771 for NATURE SUPER MARKET-D at 11:34:36
-Starting bill for POONKODY STORE -AK-D-D at 11:34:38
-Created bill  TKS62772 for POONKODY STORE -AK-D-D at 11:34:40
-Starting bill for PRATHN MANTHRI BHARATIYA JAN AUSHADHI KENDRA-D at 11:34:40
-Created bill  TKS62773 for PRATHN MANTHRI BHARATIYA JAN AUSHADHI KENDRA-D at 11:34:41
-Starting bill for LINGAM STORE-MUTHALIYARCHATR-D-D at 11:34:41
-Created bill  TKS62774 for LINGAM STORE-MUTHALIYARCHATR-D-D at 11:34:42
+Order import process started 11:22:28
+Starting bill for Kasi Maligai -D-D-D at 11:22:30
+Created bill  TKS62988 for Kasi Maligai -D-D-D at 11:22:32
+Party's Credit Bills Exhausted, KAAVYA HOME NEEDS 2K MARKET-D
+Party's Credit Bills Exhausted, PRINCE MART STORE-D-D-P
+Starting bill for VIJAY STORE-D-D at 11:22:32
+CreditNote Adjustments 334.86 were done for PartyVIJAY STORE-D-D
+Created bill  TKS62989 for VIJAY STORE-D-D at 11:22:33
+Starting bill for SAI DHURU STORE at 11:22:34
+Created bill  TKS62990 for SAI DHURU STORE at 11:22:34
+Starting bill for KALISELVI STORE-D at 11:22:36
+Created bill  TKS62991 for KALISELVI STORE-D at 11:22:39
+Starting bill for J B Super Market-D at 11:22:40
+Following Locked Category Payout Adjustments were done in this bill QTMBILL for J B Super Market-D
+44297766, OUTLET_PAY, 221.0
+Following Locked Category Payout Adjustments were done in this bill QTMBILL for J B Super Market-D
+44297837, OUTLET_PAY, 53.0
+Created bill  TKS62992 for J B Super Market-D at 11:22:40
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 11:34:43
+Order import process ended 11:22:40
 Load Process Started
 Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 11:48:42
-Starting bill for AMMAN STORES - MUTHALIYAR CHATR-D-D at 11:48:44
-Created bill  TKS62775 for AMMAN STORES - MUTHALIYAR CHATR-D-D at 11:48:45
-Party's Credit Bills Exhausted, AMMAN STORE-D-D
-Starting bill for RAMACHANDRAN Kalaimagal Store-D at 11:48:46
-Created bill  TKS62776 for RAMACHANDRAN Kalaimagal Store-D at 11:48:47
-Starting bill for NEWPARVATHYSTORE-D-D-D-D-D at 11:48:48
-Created bill  TKS62777 for NEWPARVATHYSTORE-D-D-D-D-D at 11:48:49
-Starting bill for Kumaran Store-D at 11:48:50
-Created bill  TKS62778 for Kumaran Store-D at 11:48:51
-Party's Credit Bills Exhausted, Guru Medicals-D
+Order import process started 11:23:14
+Starting bill for KAAVYA HOME NEEDS 2K MARKET-D at 11:23:17
+Following Locked Category Payout Adjustments were done in this bill QTMBILL for KAAVYA HOME NEEDS 2K MARKET-D
+44297838, OUTLET_PAY, 360.07000732421875
+Created bill  TKS62993 for KAAVYA HOME NEEDS 2K MARKET-D at 11:23:20
+Party's Credit Bills Exhausted, PRINCE MART STORE-D-D-P
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 11:48:52
+Order import process ended 11:23:21
 Load Process Started
 Load Process Completed
-Order import process started 0:0:13
-Starting bill for JANATH MALIGAI-D-D at 0:0:16
-Created bill  TKS62779 for JANATH MALIGAI-D-D at 0:0:17
-Party's Credit Bills Exhausted, AMMAN STORE-D-D
-Starting bill for JEYAM STORE-D at 0:0:19
-Created bill  TKS62780 for JEYAM STORE-D at 0:0:20
-Party's Credit Bills Exhausted, Guru Medicals-D
-Starting bill for SRI DHANVANTHRI MEDICALS(N)-D at 0:0:20
-Created bill  TKS62781 for SRI DHANVANTHRI MEDICALS(N)-D at 0:0:21
+Order import process started 11:28:56
+Starting bill for ABBAS MALIGAI-9894496865-D-D at 11:28:57
+Created bill  TKS62994 for ABBAS MALIGAI-9894496865-D-D at 11:28:58
+Party's Credit Bills Exhausted, PRINCE MART STORE-D-D-P
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 0:0:22
+Order import process ended 11:28:59
 Load Process Started
 Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 0:1:17
-Party's Credit Bills Exhausted, AMMAN STORE-D-D
-Party's Credit Bills Exhausted, NEW ROOPAM MEDICALS-D
-Party's Credit Bills Exhausted, Guru Medicals-D
-Starting bill for JANATH MALIGAI-D-D at 0:1:19
-Created bill  TKS62782 for JANATH MALIGAI-D-D at 0:1:20
+Order import process started 11:30:52
+Party's Credit Bills Exhausted, PRINCE MART STORE-D-D-P
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 0:1:21
+Order import process ended 11:30:53
 Load Process Started
 Load Process Completed
-Order import process started 0:2:5
-Party's Credit Bills Exhausted, AMMAN STORE-D-D
+Order import process started 11:38:14
+Party's Credit Bills Exhausted, PRINCE MART STORE-D-D-P
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 11:38:15
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Order import process started 11:45:53
+Starting bill for PRIYA  MALIGAI-D-D at 11:45:55
+Created bill  TKS62995 for PRIYA  MALIGAI-D-D at 11:45:56
+Starting bill for SRU  SAKTHI  STORES-D-D-D-D at 11:45:57
+Created bill  TKS62996 for SRU  SAKTHI  STORES-D-D-D-D at 11:45:57
+Party's Credit Bills Exhausted, PRINCE MART STORE-D-D-P
+Starting bill for VELANKANNAI STORE-D-D at 11:45:57
+Created bill  TKS62997 for VELANKANNAI STORE-D-D at 11:45:58
+Starting bill for Barakath-D at 11:45:59
+Created bill  TKS62998 for Barakath-D at 11:46:2
+Starting bill for REVATHI MEDICALS at 11:46:2
+Created bill  TKS62999 for REVATHI MEDICALS at 11:46:3
+Starting bill for RAJAMANISTORE-D-D at 11:46:3
+Created bill  TKS63000 for RAJAMANISTORE-D-D at 11:46:3
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 11:46:4
+Load Process Started
+Load Process Completed
+Order import process started 11:48:17
+Party's Credit Bills Exhausted, PRINCE MART STORE-D-D-P
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 11:48:18
+Load Process Started
+Load Process Completed
+Order import process started 0:0:55
+Starting bill for RASI MALIGAI-D-D-D at 0:0:57
+Created bill  TKS63001 for RASI MALIGAI-D-D-D at 0:1:0
+Starting bill for SR MALIGAI-D at 0:1:2
+Created bill  TKS63002 for SR MALIGAI-D at 0:1:4
+Starting bill for M.G.M MALIGAI-D-D at 0:1:5
+Created bill  TKS63003 for M.G.M MALIGAI-D-D at 0:1:5
+Starting bill for LAKSHMI MALGAI-D-D-D-D at 0:1:6
+Created bill  TKS63004 for LAKSHMI MALGAI-D-D-D-D at 0:1:6
+Starting bill for PRINCE MART STORE-D-D-P at 0:1:7
+Created bill  TKS63005 for PRINCE MART STORE-D-D-P at 0:1:7
+Starting bill for VELANKANNAI STORE-D-D at 0:1:8
+Created bill  TKS63006 for VELANKANNAI STORE-D-D at 0:1:8
+Starting bill for GOBAL  STORE-D-D-D-D at 0:1:8
+Created bill  TKS63007 for GOBAL  STORE-D-D-D-D at 0:1:9
+Starting bill for SRI PPS MALIGAI-D at 0:1:9
+Created bill  TKS63008 for SRI PPS MALIGAI-D at 0:1:10
+Party's Credit Bills Exhausted, NEW R00PAM MEDICALS-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 0:1:11
+Load Process Started
+Load Process Completed
+Order import process started 0:3:18
+Party's Credit Bills Exhausted, NEW R00PAM MEDICALS-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 0:3:18
+Load Process Started
+Load Process Completed
+Order import process started 0:7:26
+Starting bill for AGIN MALIGAI-D-D at 0:7:28
+Created bill  TKS63009 for AGIN MALIGAI-D-D at 0:7:30
+Party's Credit Bills Exhausted, 20 20 Mart-D
+Starting bill for ISMAILSTORE-D-D-D-D at 0:7:31
+Created bill  TKS63010 for ISMAILSTORE-D-D-D-D at 0:7:31
+Starting bill for KANNAN MALIGAI STORE at 0:7:32
+Created bill  TKS63011 for KANNAN MALIGAI STORE at 0:7:32
+Starting bill for RAJAMANISTORE-D-D at 0:7:34
+Created bill  TKS63012 for RAJAMANISTORE-D-D at 0:7:37
+Starting bill for SIPPY OIL &MALIGAI-D-D at 0:7:37
+Created bill  TKS63013 for SIPPY OIL &MALIGAI-D-D at 0:7:37
+Starting bill for GANESHA STORE-D-D at 0:7:38
+Created bill  TKS63014 for GANESHA STORE-D-D at 0:7:39
+Starting bill for ANBU  MALIGAI-D-D at 0:7:39
+Created bill  TKS63015 for ANBU  MALIGAI-D-D at 0:7:40
+Party's Credit Bills Exhausted, SRI BALAMURUGAN SUPER MARKET-D-D
+Starting bill for SALMA MEDICAL-D-D at 0:7:40
+Created bill  TKS63016 for SALMA MEDICAL-D-D at 0:7:41
+Starting bill for MURUGAN MALIGAI-D at 0:7:42
+Created bill  TKS63017 for MURUGAN MALIGAI-D at 0:7:43
+Starting bill for BHARAT MALIGAI-BEEMA NGR-D-D at 0:7:43
+Created bill  TKS63018 for BHARAT MALIGAI-BEEMA NGR-D-D at 0:7:44
+Starting bill for THIRUMURTHY STORE-BEMANA-D-D at 0:7:44
+Created bill  TKS63019 for THIRUMURTHY STORE-BEMANA-D-D at 0:7:44
+Party's Credit Bills Exhausted, NEW R00PAM MEDICALS-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 0:7:45
+Load Process Started
+Load Process Completed
+Order import process started 0:8:36
+Party's Credit Bills Exhausted, 20 20 Mart-D
+Basepack Code: 10014 - 6 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Basepack Code: 11347 - 3 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Basepack Code: 11347 - 3 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Basepack Code: 11347 - 3 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Basepack Code: 11347 - 3 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Basepack Code: 11347 - 3 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Basepack Code: 11364 - 0 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Basepack Code: 11364 - 0 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Basepack Code: 11364 - 0 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Basepack Code: 11364 - 0 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Basepack Code: 11364 - 0 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Basepack Code: 11418 - 3 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Basepack Code: 11418 - 3 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Basepack Code: 11418 - 3 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Basepack Code: 11418 - 3 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Basepack Code: 11418 - 3 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Basepack Code: 12127 - 3 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Starting bill for SRI BALAMURUGAN SUPER MARKET-D-D at 0:8:40
+Following Locked Category Payout Adjustments were done in this bill QTMBILL for SRI BALAMURUGAN SUPER MARKET-D-D
+44297838, OUTLET_PAY, 1162.47998046875
+Created bill  TKS63020 for SRI BALAMURUGAN SUPER MARKET-D-D at 0:8:44
+Basepack Code: 87043 - 2 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Starting bill for NEW R00PAM MEDICALS-D at 0:8:45
+CreditNote Adjustments 296.3 were done for PartyNEW R00PAM MEDICALS-D
+Created bill  TKS63021 for NEW R00PAM MEDICALS-D at 0:8:46
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 0:8:46
+Load Process Started
+Load Process Completed
+Order import process started 0:15:57
+Party's Credit Bills Exhausted, 20 20 Mart-D
+Basepack Code: 70201 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Starting bill for ANNAI VELANKANNI STORE-D at 0:15:57
+Created bill  TKS63022 for ANNAI VELANKANNI STORE-D at 0:15:58
+Starting bill for KAJA STORE-D at 0:15:59
+Created bill  TKS63023 for KAJA STORE-D at 0:16:0
+Starting bill for MATHINA STORE-D-D-D-D at 0:16:0
+Created bill  TKS63024 for MATHINA STORE-D-D-D-D at 0:16:1
+Starting bill for OVEYA DEPTEMENT STORE-D-D-D-D at 0:16:1
+Created bill  TKS63025 for OVEYA DEPTEMENT STORE-D-D-D-D at 0:16:2
+Starting bill for SRI BALAMURUGAN MALIGAI STORES-D at 0:16:2
+CreditNote Adjustments 444.44 were done for PartySRI BALAMURUGAN MALIGAI STORES-D
+Created bill  TKS63026 for SRI BALAMURUGAN MALIGAI STORES-D at 0:16:3
+Basepack Code: 11151 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Starting bill for NATURE SUPER MARKET-D at 0:16:5
+Created bill  TKS63027 for NATURE SUPER MARKET-D at 0:16:6
+Starting bill for Anarkali-D at 0:16:7
+Created bill  TKS63028 for Anarkali-D at 0:16:8
+Starting bill for ARUNA MALGAI-D-D-D-D at 0:16:9
+Created bill  TKS63029 for ARUNA MALGAI-D-D-D-D at 0:16:9
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 0:16:10
+Load Process Started
+Load Process Completed
+Order import process started 0:23:35
+Party's Credit Bills Exhausted, 20 20 Mart-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 0:23:36
+Load Process Started
+Load Process Completed
+Order import process started 0:24:35
+Party's Credit Bills Exhausted, 20 20 Mart-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 0:24:36
+Load Process Started
+Load Process Completed
+Order import process started 0:29:27
+Starting bill for KANAN MALIGAI-D-D-D at 0:29:29
+Created bill  TKS63030 for KANAN MALIGAI-D-D-D at 0:29:31
+Starting bill for JANATH MALIGAI-D-D at 0:29:33
+Created bill  TKS63031 for JANATH MALIGAI-D-D at 0:29:34
+Party's Credit Bills Exhausted, 20 20 Mart-D
+Party's Credit Bills Exhausted, NATIONAL SUPER MARKET-D
+Starting bill for Lovely Super Market-D at 0:29:35
+Created bill  TKS63032 for Lovely Super Market-D at 0:29:35
+Starting bill for S.M.Maligai Stores-D at 0:29:35
+Created bill  TKS63033 for S.M.Maligai Stores-D at 0:29:36
+Starting bill for Manonmani Thayar Stores-D at 0:29:36
+Created bill  TKS63034 for Manonmani Thayar Stores-D at 0:29:37
+Starting bill for DIVYA MALIGAI-KATU-D-D at 0:29:37
+Created bill  TKS63035 for DIVYA MALIGAI-KATU-D-D at 0:29:38
+Starting bill for ARUL  RAJ MALIGAI-D-D at 0:29:39
+Created bill  TKS63036 for ARUL  RAJ MALIGAI-D-D at 0:29:40
+Starting bill for KARUPPANNAN  STORE-D-D at 0:29:41
+Created bill  TKS63037 for KARUPPANNAN  STORE-D-D at 0:29:42
+Starting bill for KUMAR  STORE-D-D at 0:29:43
+Did not create bill for 20SMN00010D-P71120230304 for KUMAR  STORE-D-D at 0:29:53Exception Error in generating sales extract
+Starting bill for SARAVANA  STORE KT 1-D-D at 0:29:54
+Did not create bill for 20SMN00010D-P75620230304 for SARAVANA  STORE KT 1-D-D at 0:30:1Exception Error in generating sales extract
+Starting bill for VELMURUGAN  STORE KT 1-D-D at 0:30:2
+Did not create bill for 20SMN00010D-P77120230304 for VELMURUGAN  STORE KT 1-D-D at 0:30:6Exception Error in generating sales extract
+Starting bill for QUALITY RICE&OIL MALIGAI-D-D at 0:30:6
+Did not create bill for 20SMN00012D-P163620230304 for QUALITY RICE&OIL MALIGAI-D-D at 0:30:8Exception Error in generating sales extract
+Starting bill for AM  ANIFA  STORE-D-D at 0:30:11
+Did not create bill for 90SMN00015D-P165120230304 for AM  ANIFA  STORE-D-D at 0:30:34Exception Error in generating sales extract
+Starting bill for THENDRAL MALIGAI MINI SPK MKT-D-D at 0:30:35
+CreditNote Adjustments 139.43001 were done for PartyTHENDRAL MALIGAI MINI SPK MKT-D-D
+Did not create bill for 20SMN00018D-P252620230304 for THENDRAL MALIGAI MINI SPK MKT-D-D at 0:30:39Exception Error in generating sales extract
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 0:31:18
+Load Process Started
+Load Process Completed
+Order import process started 0:39:10
+Starting bill for SANDHIYA MALIGAI-D-D at 0:39:12
+Created bill  TKS63038 for SANDHIYA MALIGAI-D-D at 0:39:13
+Party's Credit Bills Exhausted, 20 20 Mart-D
+Party's Credit Bills Exhausted, NATIONAL SUPER MARKET-D
+Starting bill for KUMAR  STORE-D-D at 0:39:14
+Created bill  TKS63039 for KUMAR  STORE-D-D at 0:39:15
+Starting bill for SARAVANA  STORE KT 1-D-D at 0:39:16
+Created bill  TKS63040 for SARAVANA  STORE KT 1-D-D at 0:39:17
+Starting bill for VELMURUGAN  STORE KT 1-D-D at 0:39:17
+Created bill  TKS63041 for VELMURUGAN  STORE KT 1-D-D at 0:39:18
+Starting bill for QUALITY RICE&OIL MALIGAI-D-D at 0:39:18
+Created bill  TKS63042 for QUALITY RICE&OIL MALIGAI-D-D at 0:39:19
+Starting bill for AM  ANIFA  STORE-D-D at 0:39:22
+Created bill  TKS63043 for AM  ANIFA  STORE-D-D at 0:39:24
+Starting bill for THENDRAL MALIGAI MINI SPK MKT-D-D at 0:39:25
+CreditNote Adjustments 139.43001 were done for PartyTHENDRAL MALIGAI MINI SPK MKT-D-D
+Created bill  TKS63044 for THENDRAL MALIGAI MINI SPK MKT-D-D at 0:39:26
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 0:39:27
+Load Process Started
+Load Process Completed
+Order import process started 0:39:36
+Party's Credit Bills Exhausted, 20 20 Mart-D
+Party's Credit Bills Exhausted, NATIONAL SUPER MARKET-D
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 0:39:37
+Load Process Started
+Load Process Completed
+Order import process started 0:54:42
+Party's Credit Bills Exhausted, SUGANTHI STORE-D
+Starting bill for VIJAYA  STORE-D-D at 0:54:46
+Created bill  TKS63045 for VIJAYA  STORE-D-D at 0:54:49
+Starting bill for DHAYALAN STORE-D-D-D at 0:54:50
+Created bill  TKS63046 for DHAYALAN STORE-D-D-D at 0:54:51
+Starting bill for RAMACHANDRAN Kalaimagal Store-D at 0:54:52
+Created bill  TKS63047 for RAMACHANDRAN Kalaimagal Store-D at 0:54:52
+Party's Credit Bills Exhausted, 20 20 Mart-D
+Starting bill for SREE SWEETS-D at 0:54:53
+Created bill  TKS63048 for SREE SWEETS-D at 0:54:53
 Basepack Code: 12070 - 3 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Basepack Code: 12591 - 2 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Basepack Code: 22085 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Basepack Code: 22085 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Basepack Code: 22085 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Basepack Code: 22085 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Starting bill for NEW ROOPAM MEDICALS-D at 0:2:11
-Created bill  TKS62783 for NEW ROOPAM MEDICALS-D at 0:2:17
-Party's Credit Bills Exhausted, Guru Medicals-D
+Starting bill for NATIONAL SUPER MARKET-D at 0:54:55
+CreditNote Adjustments 1739.25 were done for PartyNATIONAL SUPER MARKET-D
+Created bill  TKS63049 for NATIONAL SUPER MARKET-D at 0:54:56
+Starting bill for KAMATCHI STORE-D at 0:54:58
+Created bill  TKS63050 for KAMATCHI STORE-D at 0:54:59
+Starting bill for VASANDHAM DEPT STORE-D at 0:54:59
+Created bill  TKS63051 for VASANDHAM DEPT STORE-D at 0:55:0
+Starting bill for RAHUMAN STORE-D at 0:55:1
+Created bill  TKS63052 for RAHUMAN STORE-D at 0:55:1
+Starting bill for RENUGA STORE  -KT-D-D-D-D at 0:55:2
+CreditNote Adjustments 280.08 were done for PartyRENUGA STORE  -KT-D-D-D-D
+Created bill  TKS63053 for RENUGA STORE  -KT-D-D-D-D at 0:55:3
+Starting bill for NEW SAKTHI SUPER MARKET-D at 0:55:4
+Created bill  TKS63054 for NEW SAKTHI SUPER MARKET-D at 0:55:6
+Party's Credit Bills Exhausted, SAS MALIGAI-D-D-D
+Starting bill for Bismila Stores-D at 0:55:6
+Created bill  TKS63055 for Bismila Stores-D at 0:55:6
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 0:2:18
+Order import process ended 0:55:7
 Load Process Started
 Load Process Completed
-Order import process started 0:3:13
-Starting bill for AMMAN STORE-D-D at 0:3:13
-Created bill  TKS62784 for AMMAN STORE-D-D at 0:3:14
-Basepack Code: 87033 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Basepack Code: 87033 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Starting bill for Guru Medicals-D at 0:3:15
-Created bill  TKS62785 for Guru Medicals-D at 0:3:16
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 0:3:17
-Load Process Started
-Load Process Completed
-Order import process started 0:18:12
-Starting bill for ANTHONY MALIGAI-D at 0:18:15
-Created bill  TKS62786 for ANTHONY MALIGAI-D at 0:18:18
-Basepack Code: 12070 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Starting bill for NISHA  PROVISION  STORE-D-D at 0:18:19
-Created bill  TKS62787 for NISHA  PROVISION  STORE-D-D at 0:18:20
-Basepack Code: 12070 - 2 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Starting bill for HELLO  FASHION  WORLD-D-D at 0:18:22
-Created bill  TKS62788 for HELLO  FASHION  WORLD-D-D at 0:18:25
-Starting bill for CHITHRA STORES-D at 0:18:25
-Created bill  TKS62789 for CHITHRA STORES-D at 0:18:26
-Starting bill for RAMIYA STORE-D-D at 0:18:27
-Created bill  TKS62790 for RAMIYA STORE-D-D at 0:18:28
-Starting bill for NEW SAKTHI SUPER MARKET-D at 0:18:29
-Created bill  TKS62791 for NEW SAKTHI SUPER MARKET-D at 0:18:30
-Starting bill for KAREEMSTORE-D-D-D-D at 0:18:31
-Created bill  TKS62792 for KAREEMSTORE-D-D-D-D at 0:18:31
-Party's Credit Bills Exhausted, MED GREEN PLUS PHARMACY-D
-Starting bill for TRICHY TRADERS-D at 0:18:33
-Created bill  TKS62793 for TRICHY TRADERS-D at 0:18:34
-Starting bill for MURUGAN  MEDICAL STORE-D-D-D-D at 0:18:34
-Created bill  TKS62794 for MURUGAN  MEDICAL STORE-D-D-D-D at 0:18:34
-Basepack Code: 87045 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Starting bill for KAVERI MEDICAL-D-D at 0:18:35
-Created bill  TKS62795 for KAVERI MEDICAL-D-D at 0:18:36
-Party's Credit Bills Exhausted, KUMARAN STORE-D-D
-Party's Credit Bills Exhausted, VIJAYA  STORE-D-D
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 0:18:37
-Load Process Started
-Load Process Completed
-Order import process started 0:33:11
-Basepack Code: 12070 - 2 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Starting bill for NEWPARVATHYSTORE-D-D-D-D-D at 0:33:13
-Created bill  TKS62796 for NEWPARVATHYSTORE-D-D-D-D-D at 0:33:14
-Party's Credit Bills Exhausted, PARVATHI MALIGAI-D
-Starting bill for KUMARAN STORE-D-D at 0:33:15
-Created bill  TKS62797 for KUMARAN STORE-D-D at 0:33:15
-Starting bill for JAYAM STORE-D at 0:33:16
-Created bill  TKS62798 for JAYAM STORE-D at 0:33:17
-Basepack Code: 22085 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Basepack Code: 22085 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Basepack Code: 22085 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Basepack Code: 22085 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Starting bill for ASIYA MEDICALS (N)   D-D at 0:33:17
-Created bill  TKS62799 for ASIYA MEDICALS (N)   D-D at 0:33:18
-Party's Credit Bills Exhausted, MED GREEN PLUS PHARMACY-D
-Starting bill for Murugan at 0:33:20
-Created bill  TKS62800 for Murugan at 0:33:21
-Starting bill for A S M Maligai-D at 0:33:22
-Created bill  TKS62801 for A S M Maligai-D at 0:33:23
-Starting bill for SRI NEW BALAMURUGAN VEG& FRUITS-D at 0:33:24
-Created bill  TKS62802 for SRI NEW BALAMURUGAN VEG& FRUITS-D at 0:33:24
-Party's Credit Bills Exhausted, KUMARAN STORE-D-D
-Party's Credit Bills Exhausted, VIJAYA  STORE-D-D
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 0:33:25
-Load Process Started
-Load Process Completed
-Order import process started 0:48:11
-Party's Credit Bills Exhausted, NEW SAKTHI SUPER MARKET-D
-Party's Credit Bills Exhausted, PARVATHI MALIGAI-D
-Basepack Code: 12070 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Starting bill for J K Trading-D at 0:48:13
-Created bill  TKS62803 for J K Trading-D at 0:48:14
-Starting bill for KAVIYA MALIGAI-D at 0:48:15
-Created bill  TKS62804 for KAVIYA MALIGAI-D at 0:48:16
-Basepack Code: 11997 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Starting bill for A L RAMU MEDICAL  -KT 1-D-D at 0:48:16
-Created bill  TKS62805 for A L RAMU MEDICAL  -KT 1-D-D at 0:48:17
-Starting bill for BALAJI STORE-D-D-D-D at 0:48:18
-Created bill  TKS62806 for BALAJI STORE-D-D-D-D at 0:48:19
-Party's Credit Bills Exhausted, MED GREEN PLUS PHARMACY-D
-Starting bill for Siva Sakthi Stores-D at 0:48:21
-Created bill  TKS62807 for Siva Sakthi Stores-D at 0:48:24
-Basepack Code: 87043 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Starting bill for DIYA-D at 0:48:24
-Created bill  TKS62808 for DIYA-D at 0:48:24
-Starting bill for RAMACHANDRAN Kalaimagal Store-D at 0:48:25
-Created bill  TKS62809 for RAMACHANDRAN Kalaimagal Store-D at 0:48:25
-Party's Credit Bills Exhausted, KUMARAN STORE-D-D
-Party's Credit Bills Exhausted, VIJAYA  STORE-D-D
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 0:48:26
-Load Process Started
-Load Process Completed
-Order import process started 0:49:39
-Basepack Code: 12070 - 6 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Starting bill for NEW SAKTHI SUPER MARKET-D at 0:49:42
-Created bill  TKS62810 for NEW SAKTHI SUPER MARKET-D at 0:49:44
-Party's Credit Bills Exhausted, PARVATHI MALIGAI-D
-Party's Credit Bills Exhausted, MED GREEN PLUS PHARMACY-D
-Starting bill for Premavathi Maligai-D at 0:49:44
-Created bill  TKS62811 for Premavathi Maligai-D at 0:49:45
-Party's Credit Bills Exhausted, KUMARAN STORE-D-D
-Party's Credit Bills Exhausted, VIJAYA  STORE-D-D
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 0:49:46
-Load Process Started
-Load Process Completed
-Order import process started 1:4:45
-Party's Credit Bills Exhausted, PARVATHI MALIGAI-D
-Starting bill for VIVEGETABLES MAR-D at 1:4:46
-Created bill  TKS62812 for VIVEGETABLES MAR-D at 1:4:47
-Starting bill for SURIYA  TRADERS(SVS)-D-D-D-D at 1:4:48
-Created bill  TKS62813 for SURIYA  TRADERS(SVS)-D-D-D-D at 1:4:48
-Party's Credit Bills Exhausted, MED GREEN PLUS PHARMACY-D
-Starting bill for TAJ MEDICALS -D-D at 1:4:49
-Created bill  TKS62814 for TAJ MEDICALS -D-D at 1:4:49
-Starting bill for SRI LAKSHMI MEDICAL-D at 1:4:50
-Created bill  TKS62815 for SRI LAKSHMI MEDICAL-D at 1:4:50
-Party's Credit Bills Exhausted, KUMARAN STORE-D-D
-Party's Credit Bills Exhausted, VIJAYA  STORE-D-D
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 1:4:51
-Load Process Started
-Load Process Completed
-Order import process started 1:19:44
-Party's Credit Bills Exhausted, PARVATHI MALIGAI-D
-Starting bill for NEW CHITRA STORE(SVS)-D-D-D at 1:19:45
-Created bill  TKS62816 for NEW CHITRA STORE(SVS)-D-D-D at 1:19:45
-Party's Credit Bills Exhausted, MED GREEN PLUS PHARMACY-D
-Basepack Code: 22085 - 4 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Basepack Code: 22085 - 4 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Basepack Code: 22085 - 4 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Basepack Code: 22085 - 4 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Starting bill for K MART-D at 1:19:48
-Created bill  TKS62817 for K MART-D at 1:19:51
-Starting bill for SHREE AKILA MEDICALS-D at 1:19:52
-Created bill  TKS62818 for SHREE AKILA MEDICALS-D at 1:19:52
-Party's Credit Bills Exhausted, KUMARAN STORE-D-D
-Party's Credit Bills Exhausted, VIJAYA  STORE-D-D
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 1:19:53
-Load Process Started
-Load Process Completed
-Order import process started 1:29:23
-Starting bill for SRU  SAKTHI  STORES-D-D-D-D at 1:29:23
-Created bill  TKS62819 for SRU  SAKTHI  STORES-D-D-D-D at 1:29:24
-Party's Credit Bills Exhausted, PARVATHI MALIGAI-D
-Basepack Code: 12070 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Starting bill for SRI NEW BALAMURUGAN VEG& FRUITS-D at 1:29:27
-Created bill  TKS62820 for SRI NEW BALAMURUGAN VEG& FRUITS-D at 1:29:29
-Starting bill for MATHINA STORE-D-D-D-D at 1:29:30
-Created bill  TKS62821 for MATHINA STORE-D-D-D-D at 1:29:31
-Party's Credit Bills Exhausted, MED GREEN PLUS PHARMACY-D
-Starting bill for KAA STORE-D at 1:29:32
-Created bill  TKS62822 for KAA STORE-D at 1:29:33
-Starting bill for MEENAKSHI MEDICAL STORES-D at 1:29:34
-Created bill  TKS62823 for MEENAKSHI MEDICAL STORES-D at 1:29:34
-Basepack Code: 87033 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Basepack Code: 87033 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Starting bill for KURINJI PHARMACY-D at 1:29:35
-Created bill  TKS62824 for KURINJI PHARMACY-D at 1:29:36
-Starting bill for KUMARAN STORE-D-D at 1:29:36
-Created bill  TKS62825 for KUMARAN STORE-D-D at 1:29:37
-Starting bill for VIJAYA  STORE-D-D at 1:29:38
-Created bill  TKS62826 for VIJAYA  STORE-D-D at 1:29:38
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 1:29:39
-Load Process Started
-Load Process Completed
-Order import process started 1:32:30
-Party's Credit Bills Exhausted, PARVATHI MALIGAI-D
-Party's Credit Bills Exhausted, A V M PHARMACY
-Party's Credit Bills Exhausted, MED GREEN PLUS PHARMACY-D
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 1:32:31
-Load Process Started
-Load Process Completed
-Order import process started 1:33:8
-Party's Credit Bills Exhausted, PARVATHI MALIGAI-D
-Party's Credit Bills Exhausted, A V M PHARMACY
-Party's Credit Bills Exhausted, MED GREEN PLUS PHARMACY-D
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 1:33:9
-Load Process Started
-Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 1:39:36
-Basepack Code: 12070 - 1 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
-Starting bill for MINISTORE-D-D-D-D at 1:39:38
-Created bill  TKS62827 for MINISTORE-D-D-D-D at 1:39:39
-Starting bill for GANAPATHI Agency-D at 1:39:40
-Created bill  TKS62828 for GANAPATHI Agency-D at 1:39:40
-Starting bill for KALAIMAGALSTORE-D-D at 1:39:43
-Created bill  TKS62829 for KALAIMAGALSTORE-D-D at 1:39:45
-Party's Credit Bills Exhausted, PARVATHI MALIGAI-D
-Starting bill for SR MALIGAI-D at 1:39:46
-Created bill  TKS62830 for SR MALIGAI-D at 1:39:46
-Party's Credit Bills Exhausted, A V M PHARMACY
-Starting bill for SIVA SAKTHI STORE-D-D at 1:39:47
-Created bill  TKS62831 for SIVA SAKTHI STORE-D-D at 1:39:48
-Starting bill for SRI MURUGAN MALIGAI-D at 1:39:48
-Created bill  TKS62832 for SRI MURUGAN MALIGAI-D at 1:39:49
-Starting bill for SURYA STORE-D-D at 1:39:49
-Created bill  TKS62833 for SURYA STORE-D-D at 1:39:50
-Starting bill for sajagan maligai-D at 1:39:50
-Created bill  TKS62834 for sajagan maligai-D at 1:39:51
+Order import process started 1:4:43
+Party's Credit Bills Exhausted, SUGANTHI STORE-D
+Starting bill for SELATHURAI MALIGAI-D at 1:4:44
+Created bill  TKS63056 for SELATHURAI MALIGAI-D at 1:4:45
+Starting bill for LINGAM STORE-MUTHALIYARCHATR-D-D at 1:4:46
+Created bill  TKS63057 for LINGAM STORE-MUTHALIYARCHATR-D-D at 1:4:48
+Starting bill for SURYA STORE-D-D at 1:4:48
+Created bill  TKS63058 for SURYA STORE-D-D at 1:4:49
 Party's Credit Bills Exhausted, 20 20 Mart-D
-Party's Credit Bills Exhausted, MED GREEN PLUS PHARMACY-D
-Starting bill for KAVERI MEDICAL-D-D at 1:39:52
-Created bill  TKS62835 for KAVERI MEDICAL-D-D at 1:39:52
-Starting bill for SUJAY MALIGAI-D-D-D at 1:39:53
-Created bill  TKS62836 for SUJAY MALIGAI-D-D-D at 1:39:54
-Starting bill for PON  MADASAMY  MALIGAI-D-D at 1:39:54
-Created bill  TKS62837 for PON  MADASAMY  MALIGAI-D-D at 1:39:55
+Starting bill for BHARAKATH MALIGAI-D-D-D at 1:4:49
+Created bill  TKS63059 for BHARAKATH MALIGAI-D-D-D at 1:4:50
+Starting bill for KALAIMAGALSTORE-D-D at 1:4:50
+Created bill  TKS63060 for KALAIMAGALSTORE-D-D at 1:4:51
+Basepack Code: 22085 - 6 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Basepack Code: 22085 - 6 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Basepack Code: 22085 - 6 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Basepack Code: 22085 - 6 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Basepack Code: 23344 - 3 are blocked for this outlet. Please check the report. Reports ->Masters ->Channel Product Listing
+Starting bill for JAMAL MYDEN  STORE-D-D-D-D-D at 1:4:52
+Created bill  TKS63061 for JAMAL MYDEN  STORE-D-D-D-D-D at 1:4:53
+Party's Credit Bills Exhausted, SAS MALIGAI-D-D-D
+Starting bill for PRIYA  MALIGAI-D-D at 1:4:53
+Created bill  TKS63062 for PRIYA  MALIGAI-D-D at 1:4:54
+Starting bill for K MART-D at 1:4:55
+Created bill  TKS63063 for K MART-D at 1:4:55
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 1:39:55
+Order import process ended 1:4:56
 Load Process Started
 Load Process Completed
-Order import process started 1:41:17
-Party's Credit Bills Exhausted, PARVATHI MALIGAI-D
-Party's Credit Bills Exhausted, A V M PHARMACY
+Order import process started 1:11:7
+Party's Credit Bills Exhausted, SUGANTHI STORE-D
 Party's Credit Bills Exhausted, 20 20 Mart-D
-Party's Credit Bills Exhausted, MED GREEN PLUS PHARMACY-D
+Party's Credit Bills Exhausted, SAS MALIGAI-D-D-D
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 1:41:18
-Load Process Started
-Load Process Completed
-Order import process started 1:42:26
-Party's Credit Bills Exhausted, PARVATHI MALIGAI-D
-Party's Credit Bills Exhausted, A V M PHARMACY
-Party's Credit Bills Exhausted, 20 20 Mart-D
-Party's Credit Bills Exhausted, MED GREEN PLUS PHARMACY-D
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 1:42:27
-Load Process Started
-Load Process Completed
-Order import process started 1:43:18
-Party's Credit Bills Exhausted, PARVATHI MALIGAI-D
-Party's Credit Bills Exhausted, A V M PHARMACY
-Party's Credit Bills Exhausted, 20 20 Mart-D
-Party's Credit Bills Exhausted, MED GREEN PLUS PHARMACY-D
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 1:43:19
-Load Process Started
-Load Process Completed
-Order import process started 1:44:27
-Party's Credit Bills Exhausted, PARVATHI MALIGAI-D
-Party's Credit Bills Exhausted, A V M PHARMACY
-Party's Credit Bills Exhausted, 20 20 Mart-D
-Party's Credit Bills Exhausted, MED GREEN PLUS PHARMACY-D
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 1:44:28
-Load Process Started
-Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 1:59:40
-Starting bill for SIVA SAKTHI STORE-D  SVS 1-D-D at 1:59:41
-Created bill  TKS62838 for SIVA SAKTHI STORE-D  SVS 1-D-D at 1:59:43
-Party's Credit Bills Exhausted, PARVATHI MALIGAI-D
-Starting bill for THULASI MINI DEPARTMENT STORE-D at 1:59:44
-Created bill  TKS62839 for THULASI MINI DEPARTMENT STORE-D at 1:59:44
-Starting bill for VASAKAN MEDICAL-D at 1:59:46
-Created bill  TKS62840 for VASAKAN MEDICAL-D at 1:59:48
-Party's Credit Bills Exhausted, A V M PHARMACY
-Starting bill for M.G.M MALIGAI-D-D at 1:59:48
-Created bill  TKS62841 for M.G.M MALIGAI-D-D at 1:59:49
-Party's Credit Bills Exhausted, 20 20 Mart-D
-Starting bill for SIVA SAKTHI STORE-D  SVS 1-D-D at 1:59:50
-Created bill  TKS62842 for SIVA SAKTHI STORE-D  SVS 1-D-D at 1:59:51
-Party's Credit Bills Exhausted, MED GREEN PLUS PHARMACY-D
-Starting bill for SRI KRISHNA MALIGAI at 1:59:52
-Created bill  TKS62843 for SRI KRISHNA MALIGAI at 1:59:52
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 1:59:53
+Order import process ended 1:11:8

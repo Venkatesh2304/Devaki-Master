@@ -186,16 +186,18 @@ class ikea(classes.ikea):
                             json=data_shikhar).json()["shikharOrderList"]
         logging.info(shikhar)
         data["qtmShikharList"] = shikhar = [order[11] for order in shikhar[1:]]
-        self.marketorder = self.post(
-            "/rsunify/app/quantumImport/validateload.do", json=data).json()
-        collection_data = self.marketorder["mcl"]
+        self.martketColl = self.post(
+            "/rsunify/app/quantumImport/validateloadcollection.do", json=data).json()
+        self.marketorder = self.post("/rsunify/app/quantumImport/validateload.do", json=data).json()
+        
+        collection_data = self.martketColl["mcl"]
+        print( len(collection_data) )
         self.filtered_collection = [
             collection for collection in collection_data if collection["pc"] not in self.prev_collection]
         data = {"mcl": self.filtered_collection, "id": self.today.strftime(
             "%d/%m/%Y"), "CLIENT_REQ_UID": client_id_generator() , "ri" : 0 }
         res = self.post(
             "/rsunify/app/quantumImport/importSelectedCollection", json=data).json()
-        print( res )
         self.collection = [coll["pc"] for coll in self.filtered_collection]
         self.update_bills("prev_collection", self.collection)
         # logging.debug(f"Market order :: {pprint.pformat(self.marketorder)}")
