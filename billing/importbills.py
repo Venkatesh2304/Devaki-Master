@@ -167,14 +167,6 @@ class ikea(classes.ikea):
         data = self.ajax("getmarketorder", {"importDate": (self.today - timedelta(days=1)).strftime("%Y-%m-%d") + "T18:30:00.000Z",
                                             "orderDate": (self.date - timedelta(days=1)).strftime("%Y-%m-%d") + "T18:30:00.000Z"})
         
-        # screen_data  = {"strJsonParams": {"screenName":"Market order & Collection","pbayoutUpdate":"1","enfSyncFlag":"0"} }
-        # x = self.post("/rsunify/app/ikeaCommonUtilController/updateScreenNameIntoSession",data=screen_data)
-        # logging.info(x.text)
-        # x = self.post("/rsunify/app/ikeaCommonUtilController/removeScreenNameFromSession",data={"strJsonParams": {"screenName":"Order Sync"}})
-        # logging.info(x.text)
-        # x = self.post("/rsunify/app/ikeaCommonUtilController/updateScreenNameIntoSession",data=screen_data)
-        # logging.info(x.text)
-        
         self.get("/rsunify/app/quantumImport/init")
         self.get("/rsunify/app/quantumImport/filterValidation")
         self.get(f"/rsunify/app/quantumImport/futureDataValidation?importDate={self.today.strftime('%d/%m/%Y')}")
@@ -185,25 +177,34 @@ class ikea(classes.ikea):
         shikhar = self.post("/rsunify/app/quantumImport/shikharlist",
                             json=data_shikhar).json()["shikharOrderList"]
         logging.info(shikhar)
-        data["qtmShikharList"] = shikhar = [order[11] for order in shikhar[1:]]
+        
         self.martketColl = self.post(
             "/rsunify/app/quantumImport/validateloadcollection.do", json=data).json()
-        self.marketorder = self.post("/rsunify/app/quantumImport/validateload.do", json=data).json()
         
         collection_data = self.martketColl["mcl"]
         print( len(collection_data) )
-        self.filtered_collection = [
-            collection for collection in collection_data if collection["pc"] not in self.prev_collection]
-        data = {"mcl": self.filtered_collection, "id": self.today.strftime(
+        self.prev_collection = []
+        self.filtered_collection = [ coll for coll in collection_data if coll["pc"] not in self.prev_collection  ]
+        
+        for coll in collection_data : 
+            if coll["pc"] not in self.prev_collection : coll["ck"] = True 
+            else : coll["ck"] = False 
+            coll["bf"] = True
+
+        _data = {"mcl": collection_data, "id": self.today.strftime(
             "%d/%m/%Y"), "CLIENT_REQ_UID": client_id_generator() , "ri" : 0 }
+        print( _data )
+        self.get("/rsunify/app/quantumImport/processcheck")
         res = self.post(
-            "/rsunify/app/quantumImport/importSelectedCollection", json=data).json()
+            "/rsunify/app/quantumImport/importSelectedCollection", json=_data).json()
         self.collection = [coll["pc"] for coll in self.filtered_collection]
         self.update_bills("prev_collection", self.collection)
-        # logging.debug(f"Market order :: {pprint.pformat(self.marketorder)}")
         logging.info(f"Previous Collection :: {self.prev_collection}")
         logging.info(f"Current Collection :: {self.collection}")
 
+        data["qtmShikharList"] = shikhar = [order[11] for order in shikhar[1:]]
+        self.marketorder = self.post("/rsunify/app/quantumImport/validateload.do", json=data).json()
+        
     def Order(self):
         for party, party_data in self.creditrelease.items():
             self.releaselock(party_data)
