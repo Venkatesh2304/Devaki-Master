@@ -182,7 +182,7 @@ class ikea(classes.ikea):
             "/rsunify/app/quantumImport/validateloadcollection.do", json=data).json()
         
         collection_data = self.martketColl["mcl"]
-        print( len(collection_data) )
+        #print( len(collection_data) )
         self.prev_collection = []
         self.filtered_collection = [ coll for coll in collection_data if coll["pc"] not in self.prev_collection  ]
         
