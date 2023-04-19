@@ -98,6 +98,7 @@ class Session(requests.Session) :
 
       def _post(self,key) : 
             res  = self.post(*self.v(f"_{key}")) 
+            if "pre" in key : print( res.text )
             err_maps = self.v(f"_{key}_err")
             if err_maps is None : return True
             (attr,err_map) = err_maps
@@ -137,6 +138,14 @@ class Session(requests.Session) :
                  return bfile 
           if self._is_preauth : 
              res = self._post("preauth")
+            #  print(1)
+            #  res1 = self.post("/rsunify/app/ikeaCommonUtilController/updateScreenNameIntoSession",data={
+            #      "strJsonParams" : {"screenName":"Change Password","pbayoutUpdate":"0","mainTabFlag":"0"}
+            #  })
+            #  print( 2 , res1.text )
+            #  res1 = self.post("/rsunify/app/masterPasswordController/lemonPasswordReset",data={
+            #      "newpassword": "Ven2010@" , "confirmpassword": "Ven2010@"  })
+            #  print( 3 , res1.text )
              if not (res is  True) : 
                 return res 
           if self._captcha :  self._login[1][self._captcha_field] = captcha 

@@ -70,7 +70,8 @@ class ikea(Session) :
          try : 
            res = self.get("/rsunify/app/billing/getUserId")
            return True 
-         except : return False 
+         except Exception as e : 
+             return False 
       
       def __init__(self) :  
           self.key = "ikea"
@@ -82,6 +83,8 @@ class ikea(Session) :
           self.home = self.home.strip("/")
           self._is_preauth = True 
           self._domain_prefix = self.home  
+          
+
           self._preauth  = ( "/rsunify/app/user/authentication.do",{'userId': self.username , 'password': self.pwd, 'dbName': self.dbName, 'datetime': date(), 'diff': -330})
           self._preauth_err = (lambda x : x.text , [( lambda x : "<body>" in x , (False,"Login Credentials is Wrong")),( lambda x : "<body>" in x , (False,"Login Credentials is Wrong")) , 
                              (lambda x : x == "CLOUD_LOGIN_PASSWORD_EXPIRED" , lambda :  1 )] )
