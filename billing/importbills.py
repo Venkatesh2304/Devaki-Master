@@ -56,7 +56,7 @@ class ikea(classes.ikea):
             for attr, val in db_query.items():
                 self.__setattr__(attr, val)
 
-    def interpret(self, log, valid_partys):
+    def interpret(self, log, cr_lock_parties):
         # Salesman master report 
         # req_plg = self.ajax("salesman_plg_mapping", {
         #                     "today": self.today.strftime("%Y/%m/%d")})
@@ -68,14 +68,15 @@ class ikea(classes.ikea):
         plg_maps = soup.find("input", {"id" : "hiddenSmBeatLnkMap"}).get("value") 
         plg_maps = sum( list(json.loads(plg_maps).values()) ,start=[])
         plg_maps = pd.DataFrame(plg_maps).astype({ 0  : int })
-        print( plg_maps )
-        log = log.split('Order import process started')[-1].split('\n')
-        cr_lock_parties = [x.split(",")[1].replace(' ', '')
-                           for x in log if "Credit Bills" in x]
+        #print( plg_maps )
+        #log = log.split('Order import process started')[-1].split('\n')
+        #cr_lock_parties = [x.split(",")[1].replace(' ', '')
+        #                   for x in log if "Credit Exhausted" in x]
+        #print( cr_lock_parties , valid_partys )
         creditlock = {}
-        for party in cr_lock_parties:
-            if party in valid_partys.keys():
-                creditlock[party] = party_data = valid_partys[party]
+        for party in cr_lock_parties :
+            #if party in valid_partys.keys():
+                creditlock[party] = party_data = cr_lock_parties[party]
                 plg_name = plg_maps[plg_maps[0] == party_data["beatId"]].iloc[0][2]
                 # Code to get theplg using Salesman master report 
                 #res = self.get(self.ajax("getcrlock", party_data)).json()        
@@ -209,6 +210,7 @@ class ikea(classes.ikea):
         for party, party_data in self.creditrelease.items():
             self.releaselock(party_data)
         self.orders = order_data = self.marketorder["mol"]
+        pd.DataFrame(order_data).to_excel("orders_raw.xlsx")
         with open("orders_RAW.json", "w+") as f:
             json.dump(self.orders, f)  # debugging
         orders = pd.DataFrame(order_data).groupby("on", as_index=False)
@@ -216,19 +218,21 @@ class ikea(classes.ikea):
                                               x.on.iloc[0] not in self.lines_count or self.lines_count[x.on.iloc[0]] == x.on.count(
         ),
             "WHOLE" not in x.m.iloc[0],
-            (x.t * x.aq).sum() > 100]))
+            (x.t * x.cq).sum() > 100 ]))
         orders.to_excel("orders.xlsx")
-        self.curr_lines_count = orders.groupby("on")["aq"].count().to_dict()
+        self.curr_lines_count = orders.groupby("on")["cq"].count().to_dict()
         self.update_bills("lines_count", self.curr_lines_count)
-        orders["billvalue"], orders["status"] = orders.t * orders.aq, False
+        orders["billvalue"], orders["status"] = orders.t * orders.cq , False
         # party spacing problem prevention
         orders.p = orders.p.apply(lambda x: x.replace(" ", ""))
-        valid_partys = orders.groupby("p").agg(
+        cr_lock_parties = orders.groupby("on").filter(lambda x : "Credit Exceeded" in x.ar.values ).groupby("p").agg(
             {"pc": "first", "ph": "first", "pi": "first", "s": "first", "billvalue": "sum", "mi":  "first"})
-        valid_partys.rename(columns={"pc": "partyCode", "ph": "parHllCode",
+        cr_lock_parties.rename(columns={"pc": "partyCode", "ph": "parHllCode",
                             "s": "salesman", "pi": "parId", "mi": "beatId"}, inplace=True)
-        valid_partys["billvalue"], valid_partys["parCodeRef"] = valid_partys["billvalue"].round(
-            2), valid_partys["partyCode"].copy()
+        cr_lock_parties["billvalue"], cr_lock_parties["parCodeRef"] = cr_lock_parties["billvalue"].round(
+            2), cr_lock_parties["partyCode"].copy()
+        #print( cr_lock_parties )
+        
 
         logging.info(f"Orders :: {orders}")
         for order in self.orders:
@@ -247,7 +251,8 @@ class ikea(classes.ikea):
         with open("log.txt", "w+") as f:
             f.write(log_file)
         self.creditlock_data = self.interpret(
-            log_file, valid_partys.to_dict(orient="index"))
+            log_file, cr_lock_parties.to_dict(orient="index"))
+        print( "Credit Lock Data :: " , self.creditlock_data )
         return self.creditlock_data
 
     def Delivery(self):
