@@ -165,6 +165,9 @@ class ikea(classes.ikea):
         logging.info(f"Previous Delivery :: {self.prevbills}")
 
     def Collection(self):
+        for party, party_data in self.creditrelease.items():
+            self.releaselock(party_data)
+            
         data = self.ajax("getmarketorder", {"importDate": (self.today - timedelta(days=1)).strftime("%Y-%m-%d") + "T18:30:00.000Z",
                                             "orderDate": (self.date - timedelta(days=1)).strftime("%Y-%m-%d") + "T18:30:00.000Z"})
         
@@ -172,7 +175,7 @@ class ikea(classes.ikea):
         self.get("/rsunify/app/quantumImport/filterValidation")
         self.get(f"/rsunify/app/quantumImport/futureDataValidation?importDate={self.today.strftime('%d/%m/%Y')}")
 
-
+  
         data_shikhar = self.ajax("getshikhar", {"importDate": self.today.strftime(
             "%d/%m/%Y")})  # shikhar orders import
         shikhar = self.post("/rsunify/app/quantumImport/shikharlist",
@@ -207,8 +210,6 @@ class ikea(classes.ikea):
         self.marketorder = self.post("/rsunify/app/quantumImport/validateload.do", json=data).json()
         
     def Order(self):
-        for party, party_data in self.creditrelease.items():
-            self.releaselock(party_data)
         self.orders = order_data = self.marketorder["mol"]
         pd.DataFrame(order_data).to_excel("orders_raw.xlsx")
         with open("orders_RAW.json", "w+") as f:
