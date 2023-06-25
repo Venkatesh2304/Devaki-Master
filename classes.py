@@ -202,7 +202,8 @@ class ikea(Session) :
         partyMaster =  partyMaster.drop_duplicates(subset=['PAR CODE HLL'], keep='first')[["PAR CODE HLL","max_bills"]]
 
         creditlock = pd.merge(creditlock , partyMaster , on = "PAR CODE HLL",how="left")
-        max_finder = lambda row : max(row["PAR CR BILLS UTILISED"],row["max_bills"]) if row["max_bills"] != 0 else 0
+        #max_finder = lambda row : max(row["PAR CR BILLS UTILISED"],row["max_bills"]) if row["max_bills"] != 0 else 0
+        max_finder = lambda row : row["max_bills"] if (row["max_bills"] != 0 and row["PAR CR BILLS"] !=0 ) else 0
         creditlock["max_bills"] = creditlock.apply( max_finder , axis = 1 )
         creditlock = creditlock[creditlock["max_bills"] != creditlock['PAR CR BILLS']]
         creditlock_binary.seek(0)
