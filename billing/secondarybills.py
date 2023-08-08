@@ -70,6 +70,8 @@ def collection(file,document) :
     billvalue2='Bill'+billvalue.split('Bill')[1]
     paragraph=document.add_paragraph(billvalue1)
     paragraph1=document.add_paragraph()
+    print(invoice[i].split('Invoice')[1].split(':')[1])
+    print(name)
     imp=invoice[i].split('Invoice')[1].split(':')[1]+'*'+name[i].split(':')[1]+'*'+'Amt :'+billvalue2.split(':')[1]
     imp=' '.join(imp.split())
     paragraph1=paragraph1.add_run('  '+'   '.join(imp.split('*')))

@@ -57,8 +57,11 @@ def prints() :
               bills.append(bill)
             except Exception as e:
                 print(e)
-    print_type = { "duplicate" : 1 ,"original":0}
-    if request.form["types"] == "Both copy"  :  print_type["original"] = 1 
+   
+    if request.form["types"] == "Both copy"  :   print_type = { "duplicate" : 1 ,"original": 1 }
+    if request.form["types"] == "First copy"  :  print_type = { "duplicate" : 0 ,"original": 1 }
+    if request.form["types"] == "First copy x 2"  :  print_type = { "duplicate" : 0 ,"original": 2 }
+    if request.form["types"] == "Second copy"  :  print_type = { "duplicate" : 1 ,"original": 0 }
     Ikea.manualprint(bills,print_type)
     return redirect('/billprint')
 

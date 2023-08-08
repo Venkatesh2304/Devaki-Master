@@ -84,6 +84,7 @@ einv_itm_format = {
     "SgstAmt": ('Sgst Amt (Rs)', rounds),
     "TotItemVal": ('Item Total', rounds)
 }
+
 einv_bill_format = {
     "Version": "1.1",
     "TranDtls": {

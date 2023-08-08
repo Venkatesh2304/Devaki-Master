@@ -87,6 +87,7 @@ class Session(requests.Session) :
              args = list(args)
              args[1] = self._domain_prefix + args[1]
              args = tuple(args)
+          print(args)
           res = super().request(*args,**kwargs)
           if res.status_code in [200,302,304] :  return res
           raise Exception(f"""

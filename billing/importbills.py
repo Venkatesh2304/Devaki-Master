@@ -14,16 +14,12 @@ from bs4 import BeautifulSoup
 sys.path.append("..")
 import classes
 
-
-
 def client_id_generator(): return np.base_repr(date(), base=36).lower() + \
     np.base_repr(random.randint(pow(10, 17), pow(10, 18)),
                  base=36).lower()[:11]
 
-
 def date(): return int((datetime.now() - datetime(1970, 1, 1)
                         ).total_seconds() * 1000) - (330*60*1000)
-
 
 class ikea(classes.ikea):
 
@@ -167,7 +163,7 @@ class ikea(classes.ikea):
     def Collection(self):
         for party, party_data in self.creditrelease.items():
             self.releaselock(party_data)
-            
+
         data = self.ajax("getmarketorder", {"importDate": (self.today - timedelta(days=1)).strftime("%Y-%m-%d") + "T18:30:00.000Z",
                                             "orderDate": (self.date - timedelta(days=1)).strftime("%Y-%m-%d") + "T18:30:00.000Z"})
         
@@ -216,17 +212,17 @@ class ikea(classes.ikea):
             json.dump(self.orders, f)  # debugging
         orders = pd.DataFrame(order_data).groupby("on", as_index=False)
         orders = orders.filter(lambda x: all([x.on.count() <= self.lines,
-                                              x.on.iloc[0] not in self.lines_count or self.lines_count[x.on.iloc[0]] == x.on.count(
-        ),
+        #                                      x.on.iloc[0] not in self.lines_count or self.lines_count[x.on.iloc[0]] == x.on.count(),
             "WHOLE" not in x.m.iloc[0],
-            (x.t * x.cq).sum() > 100 ]))
+         #   (x.t * x.cq).sum() > 100 
+            ]))
         orders.to_excel("orders.xlsx")
         self.curr_lines_count = orders.groupby("on")["cq"].count().to_dict()
         self.update_bills("lines_count", self.curr_lines_count)
         orders["billvalue"], orders["status"] = orders.t * orders.cq , False
         # party spacing problem prevention
         orders.p = orders.p.apply(lambda x: x.replace(" ", ""))
-        cr_lock_parties = orders.groupby("on").filter(lambda x : "Credit Exceeded" in x.ar.values ).groupby("p").agg(
+        cr_lock_parties = orders.groupby("on").filter(lambda x : True or ("Credit Exceeded" in x.ar.values) ).groupby("p").agg(
             {"pc": "first", "ph": "first", "pi": "first", "s": "first", "billvalue": "sum", "mi":  "first"})
         cr_lock_parties.rename(columns={"pc": "partyCode", "ph": "parHllCode",
                             "s": "salesman", "pi": "parId", "mi": "beatId"}, inplace=True)
@@ -237,7 +233,8 @@ class ikea(classes.ikea):
 
         logging.info(f"Orders :: {orders}")
         for order in self.orders:
-            order["ck"] = (order["on"] in orders.on.values)
+        #    order["ck"] = (order["on"] in orders.on.values)
+             order["ck"] = False 
 
         with open("orders.json", "w+") as f:
             json.dump(self.orders, f)
@@ -319,8 +316,9 @@ class ikea(classes.ikea):
         party_credit = self.get(self.ajax("getcrlock", party_data)).json()
         replaces = {"parCodeRef": party_data["partyCode"], "parCodeHll": party_data["parHllCode"], "showPLG": party_data["showPLG"], "creditLimit": party_credit["creditLimit"],
                     "creditDays": party_credit["creditDays"], "newlimit": int(party_credit["creditBillsUtilised"])+1}
+        print( self.ajax("setcrlock", replaces) )
+        input()
         self.get(self.ajax("setcrlock", replaces).replace('+', '%2B'))
-
 
 # i = ikea()
 # i.start()
