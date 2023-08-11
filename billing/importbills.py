@@ -290,7 +290,8 @@ class ikea(classes.ikea):
         secondarybills.main('bill.txt', 'bill.docx')
         try:
             import win32api
-            win32api.ShellExecute(0, 'print', 'bill.docx', None, '.', 0)
+            for i in range(0, print_type["duplicate"]):
+                win32api.ShellExecute(0, 'print', 'bill.docx', None, '.', 0)
             for i in range(0, print_type["original"]):
                 win32api.ShellExecute(0, 'print', "bill.pdf", None, '.', 0)
         except Exception as e:
