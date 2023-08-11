@@ -57,7 +57,7 @@ def prints() :
               bills.append(bill)
             except Exception as e:
                 print(e)
-   
+    #print(request.form["types"].strip() )
     if request.form["types"] == "Both copy"  :   print_type = { "duplicate" : 1 ,"original": 1 }
     if request.form["types"] == "First copy"  :  print_type = { "duplicate" : 0 ,"original": 1 }
     if request.form["types"] == "First copy x 2"  :  print_type = { "duplicate" : 0 ,"original": 2 }
