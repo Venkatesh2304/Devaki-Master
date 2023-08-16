@@ -84,6 +84,14 @@ class ikea(Session) :
           self._is_preauth = True 
           self._domain_prefix = self.home  
           
+          self.headers = {
+               'newrelic': 'eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjEwMTUzNDciLCJhcCI6IjE1ODg3NTgxMDAiLCJpZCI6ImNlZTMyODhlOThhZDg4ZjUiLCJ0ciI6IjdlYWZlMTYxMTdlMGQwYmMyZDZlOTBhY2FjNTgxYTAwIiwidGkiOjE2OTIxMDE5MzYyOTMsInRrIjoiOTM1NzAifX0=',
+               'traceparent': '00-7eafe16117e0d0bc2d6e90acac581a00-cee3288e98ad88f5-01',
+               'tracestate': '93570@nr=0-1-1015347-1588758100-cee3288e98ad88f5----1692101936293',
+               'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+               'x-newrelic-id': 'VQYGVFVXDxABUVRWBQgCVlcH',
+          }
+          
 
           self._preauth  = ( "/rsunify/app/user/authentication.do",{'userId': self.username , 'password': self.pwd, 'dbName': self.dbName, 'datetime': date(), 'diff': -330})
           self._preauth_err = (lambda x : x.text , [( lambda x : "<body>" in x , (False,"Login Credentials is Wrong")),( lambda x : "<body>" in x , (False,"Login Credentials is Wrong")) , 

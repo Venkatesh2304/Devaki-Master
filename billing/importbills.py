@@ -153,6 +153,7 @@ class ikea(classes.ikea):
         return self.post('/rsunify/app/fileUploadId/download')
 
     def Prevbills(self):
+        print("prev bills started")
         delivery = self.post("/rsunify/app/deliveryprocess/billsToBeDeliver.do",
                              json=self.ajax("getdelivery")).json()["billHdBeanList"]
         if delivery is None:
@@ -214,27 +215,29 @@ class ikea(classes.ikea):
         orders = orders.filter(lambda x: all([x.on.count() <= self.lines,
         #                                      x.on.iloc[0] not in self.lines_count or self.lines_count[x.on.iloc[0]] == x.on.count(),
             "WHOLE" not in x.m.iloc[0],
-         #   (x.t * x.cq).sum() > 100 
-            ]))
+            (x.t * x.cq).sum() > 100 ,
+            x.aq.sum() > 0 
+        ]))
+
         orders.to_excel("orders.xlsx")
         self.curr_lines_count = orders.groupby("on")["cq"].count().to_dict()
         self.update_bills("lines_count", self.curr_lines_count)
         orders["billvalue"], orders["status"] = orders.t * orders.cq , False
         # party spacing problem prevention
         orders.p = orders.p.apply(lambda x: x.replace(" ", ""))
-        cr_lock_parties = orders.groupby("on").filter(lambda x : True or ("Credit Exceeded" in x.ar.values) ).groupby("p").agg(
-            {"pc": "first", "ph": "first", "pi": "first", "s": "first", "billvalue": "sum", "mi":  "first"})
+        cr_lock_parties = orders.groupby("on").filter(lambda x : False or ("Credit Exceeded" in x.ar.values) ).groupby("p").agg(
+                         {"pc": "first", "ph": "first", "pi": "first", "s": "first", "billvalue": "sum", "mi":  "first"})
         cr_lock_parties.rename(columns={"pc": "partyCode", "ph": "parHllCode",
                             "s": "salesman", "pi": "parId", "mi": "beatId"}, inplace=True)
         cr_lock_parties["billvalue"], cr_lock_parties["parCodeRef"] = cr_lock_parties["billvalue"].round(
             2), cr_lock_parties["partyCode"].copy()
-        #print( cr_lock_parties )
         
-
+        cr_lock_parties.to_excel("cr_parties.xlsx",index=False)
         logging.info(f"Orders :: {orders}")
-        for order in self.orders:
-        #    order["ck"] = (order["on"] in orders.on.values)
-             order["ck"] = False 
+        for order in self.orders :
+               order["ck"] = (order["on"] in orders.on.values)
+               #order["ck"] = False 
+               #if order["on"] == "20SMN00010D-P1642620230811" : order["ck"] = True 
 
         with open("orders.json", "w+") as f:
             json.dump(self.orders, f)
@@ -242,14 +245,11 @@ class ikea(classes.ikea):
         uid = client_id_generator()
         data = {"mol": self.orders, "id": self.today.strftime("%d/%m/%Y"), "cf": 1, "at": True, "so": "'R','N','B'", "ca": 0, "bm": 0, "bb": 0,
                 "CLIENT_REQ_UID": uid}
-        log_durl = self.post(
-            "/rsunify/app/quantumImport/importSelected", json=data).json()["filePath"]
-        log_file = self.download(log_durl).read(
-        ).decode()  # get text from string
+        log_durl = self.post("/rsunify/app/quantumImport/importSelected", json=data).json()["filePath"]
+        log_file = self.download(log_durl).read().decode()  # get text from string
         with open("log.txt", "w+") as f:
             f.write(log_file)
-        self.creditlock_data = self.interpret(
-            log_file, cr_lock_parties.to_dict(orient="index"))
+        self.creditlock_data = self.interpret(log_file, cr_lock_parties.to_dict(orient="index"))
         print( "Credit Lock Data :: " , self.creditlock_data )
         return self.creditlock_data
 
@@ -305,7 +305,6 @@ class ikea(classes.ikea):
 
     def getlockdetails(self, party_data):
         res = self.get(self.ajax("getcrlock", party_data)).json()
-        print(res)
         outstanding = res["collectionPendingBillVOList"]
         breakup = [[bill["pendingDays"], bill["outstanding"]]
                    for bill in outstanding]
@@ -318,7 +317,6 @@ class ikea(classes.ikea):
         replaces = {"parCodeRef": party_data["partyCode"], "parCodeHll": party_data["parHllCode"], "showPLG": party_data["showPLG"], "creditLimit": party_credit["creditLimit"],
                     "creditDays": party_credit["creditDays"], "newlimit": int(party_credit["creditBillsUtilised"])+1}
         print( self.ajax("setcrlock", replaces) )
-        input()
         self.get(self.ajax("setcrlock", replaces).replace('+', '%2B'))
 
 # i = ikea()
