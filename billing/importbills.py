@@ -216,7 +216,6 @@ class ikea(classes.ikea):
         #                                      x.on.iloc[0] not in self.lines_count or self.lines_count[x.on.iloc[0]] == x.on.count(),
             "WHOLE" not in x.m.iloc[0],
             (x.t * x.cq).sum() > 100 ,
-            x.aq.sum() > 0 
         ]))
 
         orders.to_excel("orders.xlsx")
@@ -225,7 +224,7 @@ class ikea(classes.ikea):
         orders["billvalue"], orders["status"] = orders.t * orders.cq , False
         # party spacing problem prevention
         orders.p = orders.p.apply(lambda x: x.replace(" ", ""))
-        cr_lock_parties = orders.groupby("on").filter(lambda x : False or ("Credit Exceeded" in x.ar.values) ).groupby("p").agg(
+        cr_lock_parties = orders.groupby("on").filter(lambda x :  ("Credit Exceeded" in x.ar.values) ).groupby("p").agg(
                          {"pc": "first", "ph": "first", "pi": "first", "s": "first", "billvalue": "sum", "mi":  "first"})
         cr_lock_parties.rename(columns={"pc": "partyCode", "ph": "parHllCode",
                             "s": "salesman", "pi": "parId", "mi": "beatId"}, inplace=True)
