@@ -212,8 +212,9 @@ class ikea(classes.ikea):
         with open("orders_RAW.json", "w+") as f:
             json.dump(self.orders, f)  # debugging
         orders = pd.DataFrame(order_data).groupby("on", as_index=False)
+        print( self.lines_count )
         orders = orders.filter(lambda x: all([x.on.count() <= self.lines,
-        #                                      x.on.iloc[0] not in self.lines_count or self.lines_count[x.on.iloc[0]] == x.on.count(),
+                                      x.on.iloc[0] not in self.lines_count or self.lines_count[x.on.iloc[0]] == x.on.count(),
             "WHOLE" not in x.m.iloc[0],
             (x.t * x.cq).sum() > 100 ,
         ]))
