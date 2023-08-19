@@ -14,6 +14,7 @@ try :
   import json_converter
 except : pass 
 import logging 
+import chrome_login
 
 collection = client["demo"]
 users = db = collection["test_users"]
@@ -73,6 +74,17 @@ class ikea(Session) :
          except Exception as e : 
              return False 
       
+      def login(self) : 
+          if "leveredge130" in self.home :  
+             self.cookies.clear()
+             jsession_cookie = chrome_login.login(self.home,self.username,self.pwd , self.dbName )
+             print(f"Got cookie : {jsession_cookie}")
+             self.cookies.set("JSESSIONID",jsession_cookie)
+             self.update_cookies()
+             print("Is logged in after cookie update : ", self.is_logged_in() )
+          else : 
+              super().login()
+      
       def __init__(self) :  
           self.key = "ikea"
           self.db = db 
@@ -83,15 +95,7 @@ class ikea(Session) :
           self.home = self.home.strip("/")
           self._is_preauth = True 
           self._domain_prefix = self.home  
-          
-          self.headers = {
-               'newrelic': 'eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjEwMTUzNDciLCJhcCI6IjE1ODg3NTgxMDAiLCJpZCI6ImNlZTMyODhlOThhZDg4ZjUiLCJ0ciI6IjdlYWZlMTYxMTdlMGQwYmMyZDZlOTBhY2FjNTgxYTAwIiwidGkiOjE2OTIxMDE5MzYyOTMsInRrIjoiOTM1NzAifX0=',
-               'traceparent': '00-7eafe16117e0d0bc2d6e90acac581a00-cee3288e98ad88f5-01',
-               'tracestate': '93570@nr=0-1-1015347-1588758100-cee3288e98ad88f5----1692101936293',
-               'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
-               'x-newrelic-id': 'VQYGVFVXDxABUVRWBQgCVlcH',
-          }
-          
+        
 
           self._preauth  = ( "/rsunify/app/user/authentication.do",{'userId': self.username , 'password': self.pwd, 'dbName': self.dbName, 'datetime': date(), 'diff': -330})
           self._preauth_err = (lambda x : x.text , [( lambda x : "<body>" in x , (False,"Login Credentials is Wrong")),( lambda x : "<body>" in x , (False,"Login Credentials is Wrong")) , 
