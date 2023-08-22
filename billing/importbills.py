@@ -213,14 +213,18 @@ class ikea(classes.ikea):
             json.dump(self.orders, f)  # debugging
         orders = pd.DataFrame(order_data).groupby("on", as_index=False)
         print( self.lines_count )
+        logging.info( self.lines_count )
+
         orders = orders.filter(lambda x: all([x.on.count() <= self.lines,
                                       x.on.iloc[0] not in self.lines_count or self.lines_count[x.on.iloc[0]] == x.on.count(),
             "WHOLE" not in x.m.iloc[0],
             (x.t * x.cq).sum() > 100 ,
         ]))
-
+      
         orders.to_excel("orders.xlsx")
         self.curr_lines_count = orders.groupby("on")["cq"].count().to_dict()
+        logging.info( self.curr_lines_count )
+
         self.update_bills("lines_count", self.curr_lines_count)
         orders["billvalue"], orders["status"] = orders.t * orders.cq , False
         # party spacing problem prevention
