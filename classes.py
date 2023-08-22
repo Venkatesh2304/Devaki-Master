@@ -83,6 +83,7 @@ class ikea(Session) :
              self.update_cookies()
              print("Is logged in after cookie update : ", self.is_logged_in() )
           else : 
+              self.cookies.clear()
               super().login()
       
       def __init__(self) :  
@@ -102,6 +103,9 @@ class ikea(Session) :
                              (lambda x : x == "CLOUD_LOGIN_PASSWORD_EXPIRED" , lambda :  1 )] )
           self._login  = ("/rsunify/app/user/authenSuccess.htm",{})
           self._login_err = (lambda x : x.status_code ,[(lambda x : x != 200 , False)])
+          self.cookies.clear()
+          #print( key , self.is_logged_in() ) 
+          self.cookies.set("JSESSIONID","F3D38387B8FEB627A78B3D5761D4DD37")
           if not self.is_logged_in() :  self.login()
 
       def getBeats(self, fromDate, toDate):
