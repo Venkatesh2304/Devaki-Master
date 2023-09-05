@@ -75,15 +75,15 @@ class ikea(Session) :
              return False 
       
       def login(self) : 
-          if "leveredge130" in self.home :  
+             #if "leveredge130" in self.home :  
              self.cookies.clear()
              jsession_cookie = chrome_login.login(self.home,self.username,self.pwd , self.dbName )
              print(f"Got cookie : {jsession_cookie}")
              self.cookies.set("JSESSIONID",jsession_cookie)
              self.update_cookies()
              print("Is logged in after cookie update : ", self.is_logged_in() )
-          else : 
-              super().login()
+          #else : 
+          #    super().login()
       
       def __init__(self) :  
           self.key = "ikea"
