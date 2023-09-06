@@ -26,4 +26,4 @@ def login(url,user,pwd,dbName) :
                 EC.element_to_be_clickable((By.ID,"gologin"))
     )
     driver.execute_script("pageSubmit()")
-    return  driver.get_cookie("JSESSIONID")["value"] 
+    return  driver , driver.get_cookie("JSESSIONID")["value"] 

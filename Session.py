@@ -7,6 +7,7 @@ import curlify
 import logging 
 import traceback
 import inspect
+from requests import Request
 from pymongo import MongoClient
 from pprint import pformat as _pformat 
 from flask_jwt_extended import get_jwt_identity
@@ -87,7 +88,7 @@ class Session(requests.Session) :
              args = list(args)
              args[1] = self._domain_prefix + args[1]
              args = tuple(args)
-          print(args)
+ 
           res = super().request(*args,**kwargs)
           if res.status_code in [200,302,304] :  return res
           raise Exception(f"""
@@ -139,14 +140,6 @@ class Session(requests.Session) :
                  return bfile 
           if self._is_preauth : 
              res = self._post("preauth")
-            #  print(1)
-            #  res1 = self.post("/rsunify/app/ikeaCommonUtilController/updateScreenNameIntoSession",data={
-            #      "strJsonParams" : {"screenName":"Change Password","pbayoutUpdate":"0","mainTabFlag":"0"}
-            #  })
-            #  print( 2 , res1.text )
-            #  res1 = self.post("/rsunify/app/masterPasswordController/lemonPasswordReset",data={
-            #      "newpassword": "Ven2010@" , "confirmpassword": "Ven2010@"  })
-            #  print( 3 , res1.text )
              if not (res is  True) : 
                 return res 
           if self._captcha :  self._login[1][self._captcha_field] = captcha 

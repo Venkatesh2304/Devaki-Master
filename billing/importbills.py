@@ -153,8 +153,7 @@ class ikea(classes.ikea):
         return self.post('/rsunify/app/fileUploadId/download')
 
     def Prevbills(self):
-        print("prev bills started")
-        delivery = self.post("/rsunify/app/deliveryprocess/billsToBeDeliver.do",
+        delivery = self.post("/rsunify/app/deliveryprocess/billsToBeDeliver",
                              json=self.ajax("getdelivery")).json()["billHdBeanList"]
         if delivery is None:
             delivery = []  # None error to empty list
@@ -167,7 +166,6 @@ class ikea(classes.ikea):
 
         data = self.ajax("getmarketorder", {"importDate": (self.today - timedelta(days=1)).strftime("%Y-%m-%d") + "T18:30:00.000Z",
                                             "orderDate": (self.date - timedelta(days=1)).strftime("%Y-%m-%d") + "T18:30:00.000Z"})
-        
         self.get("/rsunify/app/quantumImport/init")
         self.get("/rsunify/app/quantumImport/filterValidation")
         self.get(f"/rsunify/app/quantumImport/futureDataValidation?importDate={self.today.strftime('%d/%m/%Y')}")
@@ -175,12 +173,13 @@ class ikea(classes.ikea):
   
         data_shikhar = self.ajax("getshikhar", {"importDate": self.today.strftime(
             "%d/%m/%Y")})  # shikhar orders import
+        
         shikhar = self.post("/rsunify/app/quantumImport/shikharlist",
                             json=data_shikhar).json()["shikharOrderList"]
         logging.info(shikhar)
         
         self.martketColl = self.post(
-            "/rsunify/app/quantumImport/validateloadcollection.do", json=data).json()
+            "/rsunify/app/quantumImport/validateloadcollection", json=data).json()
         
         collection_data = self.martketColl["mcl"]
         #print( len(collection_data) )
@@ -204,7 +203,7 @@ class ikea(classes.ikea):
         logging.info(f"Current Collection :: {self.collection}")
 
         data["qtmShikharList"] = shikhar = [order[11] for order in shikhar[1:]]
-        self.marketorder = self.post("/rsunify/app/quantumImport/validateload.do", json=data).json()
+        self.marketorder = self.post("/rsunify/app/quantumImport/validateload", json=data).json()
         
     def Order(self):
         self.orders = order_data = self.marketorder["mol"]
@@ -258,8 +257,9 @@ class ikea(classes.ikea):
         return self.creditlock_data
 
     def Delivery(self):
-        delivery = self.post("/rsunify/app/deliveryprocess/billsToBeDeliver.do",
-                             json=self.ajax("getdelivery")).json()["billHdBeanList"]
+        
+        delivery = self.post("/rsunify/app/deliveryprocess/billsToBeDeliver",
+                             json=self.ajax("getdelivery")).json()["billHdBeanList"] #
         if delivery is None:
             self.bills = []
             return False  # None error tto empty list
@@ -272,7 +272,7 @@ class ikea(classes.ikea):
         logging.info(f"Final Bills :: {self.bills}")
         data = {"deliveryProcessVOList": delivery.to_dict(
             orient="records"), "returnPickList": []}
-        self.post(url="/rsunify/app/deliveryprocess/savebill.do",
+        self.post(url="/rsunify/app/deliveryprocess/savebill",
                   json=data).json()
         self.prev_bills += self.bills
         self.update_bills("prev_bills", self.bills)

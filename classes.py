@@ -74,39 +74,46 @@ class ikea(Session) :
          except Exception as e : 
              return False 
       
-      def login(self) : 
-             #if "leveredge130" in self.home :  
+      def chrome_login(self) : 
              self.cookies.clear()
-             jsession_cookie = chrome_login.login(self.home,self.username,self.pwd , self.dbName )
+             self.driver , jsession_cookie = chrome_login.login(self.home,self.username,self.pwd , self.dbName )
              print(f"Got cookie : {jsession_cookie}")
              self.cookies.set("JSESSIONID",jsession_cookie)
              self.update_cookies()
              print("Is logged in after cookie update : ", self.is_logged_in() )
-          #else : 
-          #    super().login()
+             #self.driver = driver 
+
+      def login(self) : 
+            self.cookies.clear()
+            super().login()
       
-      def __init__(self) :  
+      def __init__(self) : 
           self.key = "ikea"
           self.db = db 
           with open(AJAX_FILE) as f:
             self.ajax_template = eval(f.read())
           super().__init__()
+
+          self.headers.update({'accept': 'application/json, text/javascript, */*; q=0.01'})
+
           self.download = lambda url : BytesIO(self.get("/rsunify/app/reportsController/downloadReport?filePath="+url).content)
           self.home = self.home.strip("/")
           self._is_preauth = True 
           self._domain_prefix = self.home  
         
 
-          self._preauth  = ( "/rsunify/app/user/authentication.do",{'userId': self.username , 'password': self.pwd, 'dbName': self.dbName, 'datetime': date(), 'diff': -330})
+          self._preauth  = ( "/rsunify/app/user/authentication",{'userId': self.username , 'password': self.pwd, 'dbName': self.dbName, 'datetime': date(), 'diff': -330})
           self._preauth_err = (lambda x : x.text , [( lambda x : "<body>" in x , (False,"Login Credentials is Wrong")),( lambda x : "<body>" in x , (False,"Login Credentials is Wrong")) , 
                              (lambda x : x == "CLOUD_LOGIN_PASSWORD_EXPIRED" , lambda :  1 )] )
-          self._login  = ("/rsunify/app/user/authenSuccess.htm",{})
+          self._login  = ("/rsunify/app/user/authenSuccess",{})
           self._login_err = (lambda x : x.status_code ,[(lambda x : x != 200 , False)])
           
           #self.cookies.clear()
           #self.cookies.set("JSESSIONID","F3D38387B8FEB627A78B3D5761D4DD37")
           #self.login()
+          #print( "ikea : " , self.is_logged_in()  )
           if not self.is_logged_in() :  self.login()
+          #self.login()
 
       def getBeats(self, fromDate, toDate):
         data = {'jasonParam': '{}','procedure': 'Beat_Selection_Procedure', 'orderBy': '[MKM_NAME]'}
@@ -237,7 +244,6 @@ class ikea(Session) :
         logging.debug(f"The file upload response for Invalid Excel Sheet is excel contains error but uploaded")
         logging.debug(f"HTML file response means the account is logged out")
         return  jsonify({ "count" : len(creditlock.index)  , "res" : res }) , 200   
-
 
 class ESession(Session) : 
       def __init__(self,key,home,_user,_pwd,_salt,_captcha) :  

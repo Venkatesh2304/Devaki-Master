@@ -1,51 +1,30 @@
 Load Process Started
 Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 10:37:12
-Starting bill for OVEYA DEPTEMENT STORE-D-D-D-D at 10:37:12
-Created bill  ABC29285 for OVEYA DEPTEMENT STORE-D-D-D-D at 10:37:13
-Starting bill for KRISHNA STORE (SVS) Railnagar-D-D at 10:37:13
-Created bill  ABC29286 for KRISHNA STORE (SVS) Railnagar-D-D at 10:37:14
+Order import process started 0:0:24
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, Thulasi-D
+Did not create bill for GROMARTT-D at 0:0:27
+Did not create bill for SRI KUMARAN MEDICAL-D at 0:0:27
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 10:37:15
+Order import process ended 0:0:27
 Load Process Started
 Load Process Completed
-Order import process started 11:7:19
-20SMN00011D-P1748920230821 - Raja Agencies-D : Invoice not allowed below Rs.101.0
-Starting bill for JEYAM  GENERAL  MERCHANT-D-D at 11:7:19
-Created bill  ABC29287 for JEYAM  GENERAL  MERCHANT-D-D at 11:7:20
+Order import process started 0:1:51
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, Thulasi-D
+Did not create bill for GROMARTT-D at 0:1:51
+Did not create bill for SRI KUMARAN MEDICAL-D at 0:1:51
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 11:7:20
+Order import process ended 0:1:52
 Load Process Started
 Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 11:14:40
-Party's Credit Exhausted, SUBASH ENTERPRISES
-Party's Credit Exhausted, SRINIVASA TRADERS-D
-Party's Credit Exhausted, SRINIVASA TRADERS-D
-Party's Credit Exhausted, RAHMANIYA MALIGAI
-Starting bill for KARIM STORES-D-D-D at 11:14:42
-Created bill  ABC29288 for KARIM STORES-D-D-D at 11:14:43
-Starting bill for NEW ADAIKALAM MALIGAI-D at 11:14:43
-Created bill  ABC29289 for NEW ADAIKALAM MALIGAI-D at 11:14:43
-Starting bill for Salaam Store-D at 11:14:43
-Created bill  ABC29290 for Salaam Store-D at 11:14:43
-Starting bill for Star Maligai-D at 11:14:43
-Created bill  ABC29291 for Star Maligai-D at 11:14:44
-Starting bill for JAAS MEDICALS-D at 11:14:44
-Created bill  ABC29292 for JAAS MEDICALS-D at 11:14:45
-Starting bill for ARSHIYA STORE-D-D at 11:14:45
-Created bill  ABC29293 for ARSHIYA STORE-D-D at 11:14:45
-Starting bill for NATIONAL  STORE-D-D-D-D at 11:14:45
-Created bill  ABC29294 for NATIONAL  STORE-D-D-D-D at 11:14:46
-Starting bill for SARAVANA  STORE MKK-D-D-D-D at 11:14:46
-Created bill  ABC29295 for SARAVANA  STORE MKK-D-D-D-D at 11:14:46
-Starting bill for Jeyam Maligai-D at 11:14:46
-Created bill  ABC29296 for Jeyam Maligai-D at 11:14:47
+Order import process started 2:3:22
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, Thulasi-D
+Did not create bill for GROMARTT-D at 2:3:22
+Did not create bill for SRI KUMARAN MEDICAL-D at 2:3:22
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 11:14:48
+Order import process ended 2:3:22
