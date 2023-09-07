@@ -28,3 +28,36 @@ Did not create bill for SRI KUMARAN MEDICAL-D at 2:3:22
 Generating SOAO extract
 Generated SOAO extract successfully
 Order import process ended 2:3:22
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Order import process started 9:53:10
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Did not create bill for GROMARTT-D at 9:53:10
+Did not create bill for SRI KUMARAN MEDICAL-D at 9:53:10
+Did not create bill for Thulasi-D at 9:53:10
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 9:53:11
+Load Process Started
+Load Process Completed
+Order import process started 9:56:33
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Did not create bill for GROMARTT-D at 9:56:33
+Did not create bill for SRI KUMARAN MEDICAL-D at 9:56:33
+Did not create bill for Thulasi-D at 9:56:33
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 9:56:33
+Load Process Started
+Load Process Completed
+Order import process started 9:57:34
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Did not create bill for GROMARTT-D at 9:57:34
+Did not create bill for SRI KUMARAN MEDICAL-D at 9:57:34
+Starting bill for Thulasi-D at 9:57:34
+Created bill  ABC32856 for Thulasi-D at 9:57:35
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 9:57:36

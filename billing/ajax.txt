@@ -7,7 +7,7 @@
     },
     "partyinfo" : '/rsunify/app/billing/partyinfo?partyId=_parId_&partyCode=_partyCode_&parCodeRef=_parCodeRef_&parHllCode=_parHllCode_&plgFlag=true&salChnlCode=&isMigration=true&blhSourceOfOrder=0&beatId=_beatId_' ,
     "getcrlock" : '/rsunify/app/billing/partyplgdatas?partyCode=_partyCode_&parCodeRef=_parCodeRef_&parHllCode=_parHllCode_&plgFlag=true&salChnlCode=&showPLG=_showPLG_&isMigration=true' ,
-    "setcrlock" : '/rsunify/app/billing/updatepartyinfo.do?partyCodeRef=_parCodeRef_&creditBills=_newlimit_&creditLimit=_creditLimit_&creditDays=0&panNumber=&servicingPlgValue=_showPLG_&plgPartyCredit=true&parHllCode=_parCodeHll_' ,
+    "setcrlock" : '/rsunify/app/billing/updatepartyinfo?partyCodeRef=_parCodeRef_&creditBills=_newlimit_&creditLimit=_creditLimit_&creditDays=0&panNumber=&servicingPlgValue=_showPLG_&plgPartyCredit=true&parHllCode=_parCodeHll_' ,
     "getshikhar" : {"uniqueId":0,"importDate":"_importDate_","sourceOfOrder":"'R'"} , 
     "getdelivery" : { 
         "parId":"","blhFromDt":"","blhToDt":"","localityId":"","beatName":"","salesmanNameList":[],"beatNameList":[],"locNameList":[],"shakthiBusiness":"N","blhSourceOfOrder":99,"optimusSelect":0,"vehId":"1"
