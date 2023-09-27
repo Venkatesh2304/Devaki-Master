@@ -49,7 +49,7 @@ def parseEwayExcel(data) :
     return err_list
 
 class ikea(Session) : 
-      _REPORT_URL = "/rsunify/app/reportsController/generatereport.do"
+      _REPORT_URL = "/rsunify/app/reportsController/generatereport"
 
       def ajax(self, key, replaces ={} ):
         temp = {}
@@ -119,7 +119,7 @@ class ikea(Session) :
         data = {'jasonParam': '{}','procedure': 'Beat_Selection_Procedure', 'orderBy': '[MKM_NAME]'}
         data['jsonObjWhereClause'] = f'{{":P1": "{ymd(fromDate)}",":P2": "{ymd(toDate)}",":P3":"Both",":P4":"SecBills"}}'
         # beats is returned in text format [[1,'AKBAR'],[4,'THIRU']]
-        beats  = self.post("/rsunify/app/reportsController/getReportScreenDatawithprocedure.do", data=data).json()
+        beats  = self.post("/rsunify/app/reportsController/getReportScreenDatawithprocedure", data=data).json()
         clean = lambda x:   max(x.replace(" ", "-").replace("+", "-").split("-"),key=len)
         beats = list(map(lambda x: [ x[0], clean(x[1]) ], beats))
         isSame = lambda s1 , s2 :   (len( list(set(s1) ^ set(s2)) ) <= 1 ) or  s1 in s2 or s2 in s1 
@@ -179,8 +179,8 @@ class ikea(Session) :
       
       def outstanding(self, date=None , days = 20):
         salesman = self.post("/rsunify/app/paginationController/getPopScreenData", 
-                        json = {"jasonParam":{"viewName":"VIEW_LOAD_SALESMAN_BEAT_LINK_SALESMAN_LIST","pageNumber":1,"pageSize":200}} ).json() 
-        sal_id = map( lambda x : x[1] , salesman[0][1:])
+                        json = {"jasonParam":{ "viewName":"VIEW_LOAD_SALESMAN_BEAT_LINK_SALESMAN_LIST","pageNumber":1,"pageSize":200}} ).json() 
+        sal_id = map( lambda x : x[1] , salesman[0][1:] )
         beats_data = []
         day = date.strftime('%A').lower() + "Linked"
 
@@ -194,11 +194,11 @@ class ikea(Session) :
         filteredBeats = list(set(beats_data[beats_data[day] != '0']["beatId"]))       
         
         data =  self.ajax("outstanding_download", {"date" : date.strftime("%Y-%m-%d") , "beats": ",".join(filteredBeats)})
-        res = self.post("/rsunify/app/reportsController/generatereport.do" , data = data )
+        res = self.post("/rsunify/app/reportsController/generatereport" , data = data )
         excel = pd.read_excel(self.download(res.text))
 
         full_outsanding = self.ajax("pending_bills_download", {"date" : date.strftime("%Y-%m-%d") , "beats": "" })
-        all_outstanding_excel = pd.read_excel(self.download(self.post("/rsunify/app/reportsController/generatereport.do" , data = full_outsanding ).text ))
+        all_outstanding_excel = pd.read_excel(self.download(self.post("/rsunify/app/reportsController/generatereport" , data = full_outsanding ).text ))
 
         return send_file(outstanding.interpret(all_outstanding_excel,excel,days) , as_attachment=True , download_name="outstanding.xlsx")
 
@@ -211,7 +211,7 @@ class ikea(Session) :
         partyMaster = pd.read_excel("party.xlsx" , skiprows = 9)
         partyMaster["PAR CODE HLL"] = partyMaster["HUL Code"]
 
-        url =self.post("/rsunify/app/reportsController/generatereport.do" , data = self.ajax("creditlock_download",{})).text 
+        url =self.post("/rsunify/app/reportsController/generatereport" , data = self.ajax("creditlock_download",{})).text 
         creditlock_binary = self.download(url)
         creditlock = pd.read_excel(creditlock_binary)
         
