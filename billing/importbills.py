@@ -72,8 +72,10 @@ class ikea(classes.ikea):
         creditlock = {}
         for party in cr_lock_parties :
             #if party in valid_partys.keys():
+                
                 creditlock[party] = party_data = cr_lock_parties[party]
                 plg_name = plg_maps[plg_maps[0] == party_data["beatId"]].iloc[0][2]
+
                 # Code to get theplg using Salesman master report 
                 #res = self.get(self.ajax("getcrlock", party_data)).json()        
                 # party_data["showPLG"] = salesman_plg[salesman_plg["Name"]
@@ -190,7 +192,7 @@ class ikea(classes.ikea):
             if coll["pc"] not in self.prev_collection : coll["ck"] = True 
             else : coll["ck"] = False 
             coll["bf"] = True
-
+       
         _data = {"mcl": collection_data, "id": self.today.strftime(
             "%d/%m/%Y"), "CLIENT_REQ_UID": client_id_generator() , "ri" : 0 }
         print( _data )
@@ -216,7 +218,7 @@ class ikea(classes.ikea):
 
         orders = orders.filter(lambda x: all([x.on.count() <= self.lines,
                                       x.on.iloc[0] not in self.lines_count or self.lines_count[x.on.iloc[0]] == x.on.count(),
-            "WHOLE" not in x.m.iloc[0],
+            "WHOLE" not in x.m.iloc[0] ,
             (x.t * x.cq).sum() > 100 ,
         ]))
       
@@ -288,7 +290,7 @@ class ikea(classes.ikea):
             f.write(self.download(self.get(self.ajax("billtxt", {
                     'billfrom': self.billfrom, 'billto': self.billto})).text).getbuffer())
 
-    def Printbill(self, print_type={"original": 1, "duplicate": 1}):
+    def Printbill(self, print_type={"original": 0, "duplicate": 0}):
         if not self.bills:
             return
         secondarybills.main('bill.txt', 'bill.docx')
@@ -320,8 +322,9 @@ class ikea(classes.ikea):
         party_credit = self.get(self.ajax("getcrlock", party_data)).json()
         replaces = {"parCodeRef": party_data["partyCode"], "parCodeHll": party_data["parHllCode"], "showPLG": party_data["showPLG"], "creditLimit": party_credit["creditLimit"],
                     "creditDays": party_credit["creditDays"], "newlimit": int(party_credit["creditBillsUtilised"])+1}
-        print( self.ajax("setcrlock", replaces) )
+        print( self.ajax("setcrlock", replaces).replace('+', '%2B') )
         self.get(self.ajax("setcrlock", replaces).replace('+', '%2B'))
+
 
 # i = ikea()
 # i.start()
