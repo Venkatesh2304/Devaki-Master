@@ -28,6 +28,7 @@ def collection(file,document) :
         billval.append(x[i])
     if 'Retailer ' in x[i] and 'Name' in x[i] and  config['secadd'] in x[i]:
         name.append(x[i])
+        
  table=PrettyTable(['Date','Amount','Balance'])
  table.hrules=ALL
  table._min_height = 10

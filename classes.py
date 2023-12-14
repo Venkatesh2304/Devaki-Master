@@ -177,6 +177,11 @@ class ikea(Session) :
          logging.debug("Json generated")
          return esession.upload(json_data) 
       
+      def collection_report(self,date) -> pd.DataFrame : 
+          res = self.post("/rsunify/app/reportsController/generatereport", 
+                          data = self.ajax( "collection_report" , replaces={"date":date.strftime("%Y/%m/%d")} ))
+          return pd.read_excel(self.download(res.text))
+       
       def outstanding(self, date=None , days = 20):
         salesman = self.post("/rsunify/app/paginationController/getPopScreenData", 
                         json = {"jasonParam":{ "viewName":"VIEW_LOAD_SALESMAN_BEAT_LINK_SALESMAN_LIST","pageNumber":1,"pageSize":200}} ).json() 

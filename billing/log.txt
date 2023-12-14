@@ -1,63 +1,100 @@
 Load Process Started
 Load Process Completed
-Order import process started 0:0:24
-Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
-Party's Credit Exhausted, Thulasi-D
-Did not create bill for GROMARTT-D at 0:0:27
-Did not create bill for SRI KUMARAN MEDICAL-D at 0:0:27
+Order import process started 0:27:8
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for RAJA STORE- ARIY-D-D at 0:27:10
+Did not create bill for GROMARTT-D at 0:27:10
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 0:0:27
+Order import process ended 0:27:10
 Load Process Started
 Load Process Completed
-Order import process started 0:1:51
-Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
-Party's Credit Exhausted, Thulasi-D
-Did not create bill for GROMARTT-D at 0:1:51
-Did not create bill for SRI KUMARAN MEDICAL-D at 0:1:51
+Order import process started 0:34:14
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for RAJA STORE- ARIY-D-D at 0:34:16
+Did not create bill for GROMARTT-D at 0:34:16
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 0:1:52
+Order import process ended 0:34:17
 Load Process Started
 Load Process Completed
-Order import process started 2:3:22
-Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
-Party's Credit Exhausted, Thulasi-D
-Did not create bill for GROMARTT-D at 2:3:22
-Did not create bill for SRI KUMARAN MEDICAL-D at 2:3:22
+Order import process started 0:35:5
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for RAJA STORE- ARIY-D-D at 0:35:8
+Did not create bill for GROMARTT-D at 0:35:8
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 2:3:22
+Order import process ended 0:35:8
 Load Process Started
 Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 9:53:10
-Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
-Did not create bill for GROMARTT-D at 9:53:10
-Did not create bill for SRI KUMARAN MEDICAL-D at 9:53:10
-Did not create bill for Thulasi-D at 9:53:10
+Order import process started 0:36:49
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for RAJA STORE- ARIY-D-D at 0:36:49
+Did not create bill for GROMARTT-D at 0:36:49
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 9:53:11
+Order import process ended 0:36:49
 Load Process Started
 Load Process Completed
-Order import process started 9:56:33
-Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
-Did not create bill for GROMARTT-D at 9:56:33
-Did not create bill for SRI KUMARAN MEDICAL-D at 9:56:33
-Did not create bill for Thulasi-D at 9:56:33
+Order import process started 0:37:36
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for RAJA STORE- ARIY-D-D at 0:37:36
+Did not create bill for GROMARTT-D at 0:37:36
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 9:56:33
+Order import process ended 0:37:36
 Load Process Started
 Load Process Completed
-Order import process started 9:57:34
-Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
-Did not create bill for GROMARTT-D at 9:57:34
-Did not create bill for SRI KUMARAN MEDICAL-D at 9:57:34
-Starting bill for Thulasi-D at 9:57:34
-Created bill  ABC32856 for Thulasi-D at 9:57:35
+Order import process started 0:38:25
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for RAJA STORE- ARIY-D-D at 0:38:25
+Did not create bill for GROMARTT-D at 0:38:25
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 9:57:36
+Order import process ended 0:38:25
+Load Process Started
+Load Process Completed
+Order import process started 0:40:49
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for RAJA STORE- ARIY-D-D at 0:40:49
+Did not create bill for GROMARTT-D at 0:40:49
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 0:40:49
+Load Process Started
+Load Process Completed
+Order import process started 0:42:6
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for RAJA STORE- ARIY-D-D at 0:42:6
+Did not create bill for GROMARTT-D at 0:42:6
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 0:42:6
+Load Process Started
+Load Process Completed
+Order import process started 0:46:36
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for RAJA STORE- ARIY-D-D at 0:46:36
+Did not create bill for GROMARTT-D at 0:46:36
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 0:46:36
+Load Process Started
+Load Process Completed
+Order import process started 0:47:31
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for RAJA STORE- ARIY-D-D at 0:47:31
+Did not create bill for GROMARTT-D at 0:47:31
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 0:47:31

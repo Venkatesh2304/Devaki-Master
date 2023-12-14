@@ -142,6 +142,8 @@
 					 <td>Outstanding</td>
 					 <td>Value</td>
 					<td>Salesman</td>
+					<td>Coll</td>
+					<td>Phone</td>
 				</tr>
 				<tr v-for="[shop,data] in Object.entries(creditlock)" class="process">
 					<td> <input v-model="data['status']" type="checkbox" /> </td>
@@ -150,6 +152,8 @@
 					<td>{{data["creditlimit"]}}</td>
 					<td>{{data["billvalue"]}}</td>
 					<td>{{data["salesman"]}}</td>
+					<td>{{data["coll_str"]}}</td>
+					<td>{{data["ph"]}}</td>
 				</tr>
 			</table>
 		</div>

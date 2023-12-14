@@ -70,6 +70,8 @@ class ikea(classes.ikea):
         #                   for x in log if "Credit Exhausted" in x]
         #print( cr_lock_parties , valid_partys )
         creditlock = {}
+        coll_report = self.collection_report( datetime(2023,12,14) )
+        coll_report["party"] = coll_report["Party Name"].str.replace(" ","")
         for party in cr_lock_parties :
             #if party in valid_partys.keys():
                 
@@ -97,6 +99,14 @@ class ikea(classes.ikea):
                 lock_data = self.getlockdetails(party_data)
                 party_data["billsutilised"] = lock_data["billsutilised"]
                 party_data["creditlimit"] = lock_data["creditlimit"]
+                coll_data = coll_report[coll_report.party == party]
+                if len(coll_data.index)  :  
+                   coll_str = "/".join( f'{billno}*{ round(row["Coll. Amt"].sum()) }' for billno,row in coll_data.groupby("Bill No") ) 
+                else : 
+                    coll_str = "No Collection"
+                party_data["coll_str"] = coll_str
+                party_master_data = self.get(f"/rsunify/app/partyMasterScreen/retrivePartyMasterScreenData?partyCode={party_data['partyCode']}").json()
+                party_data["ph"] = party_master_data["partydetails"][0][16]
                 print(party, party_data)
         return creditlock
 
