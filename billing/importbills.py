@@ -70,7 +70,7 @@ class ikea(classes.ikea):
         #                   for x in log if "Credit Exhausted" in x]
         #print( cr_lock_parties , valid_partys )
         creditlock = {}
-        coll_report = self.collection_report( datetime(2023,12,14) )
+        coll_report = self.collection_report( self.today )
         coll_report["party"] = coll_report["Party Name"].str.replace(" ","")
         for party in cr_lock_parties :
             #if party in valid_partys.keys():

@@ -98,3 +98,60 @@ Did not create bill for GROMARTT-D at 0:47:31
 Generating SOAO extract
 Generated SOAO extract successfully
 Order import process ended 0:47:31
+Load Process Started
+Load Process Completed
+Order import process started 8:33:17
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for MP Market Shop at 8:33:18
+Did not create bill for RAJA STORE- ARIY-D-D at 8:33:18
+Did not create bill for GROMARTT-D at 8:33:18
+Starting bill for RAMACHANDRAN Kalaimagal Store-D at 8:33:18
+Created bill  ABC54010 for RAMACHANDRAN Kalaimagal Store-D at 8:33:21
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 8:33:22
+Load Process Started
+Load Process Completed
+Order import process started 8:35:13
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for MP Market Shop at 8:35:14
+Did not create bill for RAJA STORE- ARIY-D-D at 8:35:14
+Did not create bill for GROMARTT-D at 8:35:14
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 8:35:14
+Load Process Started
+Load Process Completed
+Order import process started 8:37:15
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for MP Market Shop at 8:37:15
+Did not create bill for RAJA STORE- ARIY-D-D at 8:37:15
+Did not create bill for GROMARTT-D at 8:37:15
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 8:37:15
+Load Process Started
+Load Process Completed
+Order import process started 8:39:29
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for MP Market Shop at 8:39:29
+Did not create bill for RAJA STORE- ARIY-D-D at 8:39:29
+Did not create bill for GROMARTT-D at 8:39:29
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 8:39:29
+Load Process Started
+Load Process Completed
+Order import process started 8:41:34
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for MP Market Shop at 8:41:34
+Did not create bill for RAJA STORE- ARIY-D-D at 8:41:34
+Did not create bill for GROMARTT-D at 8:41:34
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 8:41:35
