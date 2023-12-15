@@ -153,7 +153,7 @@
 					<td>{{data["billvalue"]}}</td>
 					<td>{{data["salesman"]}}</td>
 					<td>{{data["coll_str"]}}</td>
-					<td>{{data["ph"]}}</td>
+					<td><a :href="'tel:'+ data['ph']"> {{data["ph"]}}  </a></td>
 				</tr>
 			</table>
 		</div>

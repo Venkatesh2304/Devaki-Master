@@ -155,3 +155,1080 @@ Did not create bill for GROMARTT-D at 8:41:34
 Generating SOAO extract
 Generated SOAO extract successfully
 Order import process ended 8:41:35
+Load Process Started
+Load Process Completed
+Order import process started 8:51:18
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for MP Market Shop at 8:51:18
+Did not create bill for RAJA STORE- ARIY-D-D at 8:51:18
+Did not create bill for GROMARTT-D at 8:51:18
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 8:51:18
+Load Process Started
+Load Process Completed
+Order import process started 8:52:9
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for MP Market Shop at 8:52:9
+Did not create bill for RAJA STORE- ARIY-D-D at 8:52:9
+Did not create bill for GROMARTT-D at 8:52:9
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 8:52:9
+Load Process Started
+Load Process Completed
+Order import process started 8:55:25
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for MP Market Shop at 8:55:25
+Did not create bill for RAJA STORE- ARIY-D-D at 8:55:25
+Did not create bill for GROMARTT-D at 8:55:25
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 8:55:26
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Order import process started 8:56:40
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for MP Market Shop at 8:56:42
+Did not create bill for RAJA STORE- ARIY-D-D at 8:56:42
+Did not create bill for GROMARTT-D at 8:56:42
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 8:56:42
+Load Process Started
+Load Process Completed
+Order import process started 8:57:36
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for MP Market Shop at 8:57:36
+Did not create bill for RAJA STORE- ARIY-D-D at 8:57:36
+Did not create bill for GROMARTT-D at 8:57:36
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 8:57:36
+Load Process Started
+Load Process Completed
+Order import process started 8:59:22
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for MP Market Shop at 8:59:22
+Did not create bill for RAJA STORE- ARIY-D-D at 8:59:22
+Did not create bill for GROMARTT-D at 8:59:22
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 8:59:22
+Load Process Started
+Load Process Completed
+Order import process started 8:59:32
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for MP Market Shop at 8:59:32
+Did not create bill for RAJA STORE- ARIY-D-D at 8:59:32
+Did not create bill for GROMARTT-D at 8:59:32
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 8:59:33
+Load Process Started
+Load Process Completed
+Order import process started 9:25:26
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for MP Market Shop at 9:25:26
+Did not create bill for RAJA STORE- ARIY-D-D at 9:25:26
+Did not create bill for GROMARTT-D at 9:25:26
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 9:25:26
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Order import process started 10:16:20
+Starting bill for ASOKA TRADING -D-D at 10:16:22
+Created bill  ABC54011 for ASOKA TRADING -D-D at 10:16:22
+Starting bill for ASOKA TRADING -D-D at 10:16:22
+Created bill  ABC54012 for ASOKA TRADING -D-D at 10:16:23
+Starting bill for ASOKA TRADING -D-D at 10:16:23
+Created bill  ABC54013 for ASOKA TRADING -D-D at 10:16:23
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 10:16:23
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Order import process started 10:28:31
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Starting bill for MAIDEEN STORE-D-D-D-D at 10:28:33
+Created bill  ABC54014 for MAIDEEN STORE-D-D-D-D at 10:28:34
+Did not create bill for MP Market Shop at 10:28:34
+Did not create bill for RAJA STORE- ARIY-D-D at 10:28:34
+Starting bill for TAJ MEDICALS -D-D at 10:28:34
+Created bill  ABC54015 for TAJ MEDICALS -D-D at 10:28:35
+Did not create bill for GROMARTT-D at 10:28:35
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 10:28:35
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Order import process started 11:26:48
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Starting bill for KRISHNA ENTERPRISES-D at 11:26:50
+Created bill  ABC54017 for KRISHNA ENTERPRISES-D at 11:26:51
+Starting bill for KRISHNA ENTERPRISES-D at 11:26:51
+Created bill  ABC54018 for KRISHNA ENTERPRISES-D at 11:26:51
+Starting bill for NATURE SUPER MARKET-D at 11:26:51
+Created bill  ABC54019 for NATURE SUPER MARKET-D at 11:26:52
+Did not create bill for VIVEGETABLES MAR-D at 11:26:52
+Starting bill for PAARVATHI STORES - DURAISWAMY-D-D-D at 11:26:52
+Created bill  ABC54020 for PAARVATHI STORES - DURAISWAMY-D-D-D at 11:26:52
+Starting bill for RAVINDRAN  STORE-D-D-D-D at 11:26:52
+Created bill  ABC54021 for RAVINDRAN  STORE-D-D-D-D at 11:26:52
+Did not create bill for NEW VETRIVEL MEDCALS-D at 11:26:52
+Starting bill for VELANKANNAI STORE-D-D at 11:26:52
+Created bill  ABC54022 for VELANKANNAI STORE-D-D at 11:26:53
+Starting bill for SRI PPS MALIGAI-D at 11:26:53
+Created bill  ABC54023 for SRI PPS MALIGAI-D at 11:26:53
+Starting bill for THANGAPANDIAN MALIGAI-D at 11:26:53
+Created bill  ABC54024 for THANGAPANDIAN MALIGAI-D at 11:26:53
+Starting bill for ANNAI MALIGAI & GENARAL STORE-D at 11:26:53
+Created bill  ABC54025 for ANNAI MALIGAI & GENARAL STORE-D at 11:26:54
+Starting bill for SRI MEENATCHI  STREET-D-D at 11:26:54
+Created bill  ABC54026 for SRI MEENATCHI  STREET-D-D at 11:26:54
+Starting bill for THAI MALIGAI-D at 11:26:54
+Created bill  ABC54027 for THAI MALIGAI-D at 11:26:55
+Did not create bill for MP Market Shop at 11:26:55
+Did not create bill for RAJA STORE- ARIY-D-D at 11:26:55
+Starting bill for BROOS SUJATHA MEDICALS at 11:26:55
+Created bill  ABC54028 for BROOS SUJATHA MEDICALS at 11:26:55
+Starting bill for BABY MEDICAL-D-D at 11:26:55
+Created bill  ABC54029 for BABY MEDICAL-D-D at 11:26:55
+Starting bill for Guru Medicals-D at 11:26:56
+Created bill  ABC54030 for Guru Medicals-D at 11:26:56
+Did not create bill for GROMARTT-D at 11:26:56
+Starting bill for PRATHN MANTHRI BHARATIYA JAN AUSHADHI KENDRA-D at 11:26:56
+Created bill  ABC54031 for PRATHN MANTHRI BHARATIYA JAN AUSHADHI KENDRA-D at 11:26:56
+Starting bill for ANTHONY MALIGAI-D at 11:26:56
+Created bill  ABC54032 for ANTHONY MALIGAI-D at 11:26:56
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 11:26:57
+Load Process Started
+Load Process Completed
+Order import process started 11:30:30
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for HELLO  FASHION  WORLD-D-D at 11:30:34
+Did not create bill for VIVEGETABLES MAR-D at 11:30:34
+Starting bill for NEW VETRIVEL MEDCALS-D at 11:30:34
+Created bill  ABC54033 for NEW VETRIVEL MEDCALS-D at 11:30:34
+Starting bill for GOBAL  STORE-D-D-D-D at 11:30:34
+Created bill  ABC54034 for GOBAL  STORE-D-D-D-D at 11:30:35
+Starting bill for MP Market Shop at 11:30:35
+Created bill  ABC54035 for MP Market Shop at 11:30:36
+Did not create bill for RAJA STORE- ARIY-D-D at 11:30:36
+Did not create bill for GROMARTT-D at 11:30:36
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 11:30:37
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Order import process started 11:42:28
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for HELLO  FASHION  WORLD-D-D at 11:42:30
+Did not create bill for VIVEGETABLES MAR-D at 11:42:31
+Starting bill for NEELAMBIGAI MALIGAI-D at 11:42:31
+Created bill  ABC54036 for NEELAMBIGAI MALIGAI-D at 11:42:31
+Starting bill for AJANTHA MEDICAL HALL  TANJORE ROAD-D at 11:42:31
+CreditNote Adjustments 27.2 were done for PartyAJANTHA MEDICAL HALL  TANJORE ROAD-D
+Created bill  ABC54037 for AJANTHA MEDICAL HALL  TANJORE ROAD-D at 11:42:32
+Starting bill for INDIAN MALIGAI-D-D-D at 11:42:32
+Created bill  ABC54038 for INDIAN MALIGAI-D-D-D at 11:42:33
+Did not create bill for GROMARTT-D at 11:42:33
+Did not create bill for VINAYAKA MEDICALS at 11:42:33
+Starting bill for SANDIYA  STORE-D-D at 11:42:33
+Created bill  ABC54039 for SANDIYA  STORE-D-D at 11:42:34
+Starting bill for BHARAKATH MALIGAI-D-D-D at 11:42:34
+Created bill  ABC54040 for BHARAKATH MALIGAI-D-D-D at 11:42:35
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 11:42:35
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Order import process started 11:43:58
+Starting bill for ASOKA TRADING -D-D at 11:44:1
+Created bill  ABC54041 for ASOKA TRADING -D-D at 11:44:2
+Starting bill for ASOKA TRADING -D-D at 11:44:2
+Created bill  ABC54042 for ASOKA TRADING -D-D at 11:44:2
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 11:44:2
+Load Process Started
+Load Process Completed
+Order import process started 11:57:30
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for HELLO  FASHION  WORLD-D-D at 11:57:33
+Did not create bill for VIVEGETABLES MAR-D at 11:57:33
+Did not create bill for SELATHURAI MALIGAI-D at 11:57:33
+Starting bill for Kumaran Store-D at 11:57:33
+Created bill  ABC54043 for Kumaran Store-D at 11:57:34
+Starting bill for SELVA VINAIYAGAR MEDICILES-D at 11:57:34
+Created bill  ABC54044 for SELVA VINAIYAGAR MEDICILES-D at 11:57:34
+Did not create bill for GROMARTT-D at 11:57:34
+Starting bill for JAAS PHARMACY at 11:57:34
+Created bill  ABC54045 for JAAS PHARMACY at 11:57:35
+Did not create bill for SELATHURAI MALIGAI-D at 11:57:35
+Did not create bill for VINAYAKA MEDICALS at 11:57:35
+Starting bill for RAHUMAN STORE-D at 11:57:35
+Created bill  ABC54046 for RAHUMAN STORE-D at 11:57:35
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 11:57:36
+Load Process Started
+Load Process Completed
+Order import process started 0:12:31
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Starting bill for NEW SAKTHI SUPER MARKET-D at 0:12:38
+Created bill  ABC54047 for NEW SAKTHI SUPER MARKET-D at 0:12:38
+Did not create bill for HELLO  FASHION  WORLD-D-D at 0:12:38
+Starting bill for NAGARAJAN STORE(N)-D-D at 0:12:38
+Created bill  ABC54048 for NAGARAJAN STORE(N)-D-D at 0:12:39
+Did not create bill for VIVEGETABLES MAR-D at 0:12:39
+Did not create bill for SELATHURAI MALIGAI-D at 0:12:39
+Did not create bill for NEWPARVATHYSTORE-D-D-D-D-D at 0:12:39
+Starting bill for SOWDAMBIGA STORE-D-D-D at 0:12:39
+Created bill  ABC54049 for SOWDAMBIGA STORE-D-D-D at 0:12:39
+Starting bill for CITY MEDICAL-D-D at 0:12:39
+Created bill  ABC54050 for CITY MEDICAL-D-D at 0:12:40
+Did not create bill for GROMARTT-D at 0:12:40
+Did not create bill for MAKKAL MARUNTHAGAM-D at 0:12:40
+Did not create bill for SELATHURAI MALIGAI-D at 0:12:40
+Did not create bill for SANTHI PHARMACY-D-D at 0:12:40
+Did not create bill for VINAYAKA MEDICALS at 0:12:40
+Did not create bill for DHIVYA MEDICAL-D-D at 0:12:40
+Starting bill for VASANDHAM DEPT STORE-D at 0:12:40
+Created bill  ABC54051 for VASANDHAM DEPT STORE-D at 0:12:40
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 0:12:41
+Load Process Started
+Load Process Completed
+Order import process started 0:27:34
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for HELLO  FASHION  WORLD-D-D at 0:27:36
+Did not create bill for VIVEGETABLES MAR-D at 0:27:36
+Did not create bill for SELATHURAI MALIGAI-D at 0:27:36
+Did not create bill for NEWPARVATHYSTORE-D-D-D-D-D at 0:27:37
+Starting bill for KAA STORE-D at 0:27:37
+Created bill  ABC54052 for KAA STORE-D at 0:27:38
+Did not create bill for Velaven Medical at 0:27:38
+Did not create bill for MED GREEN PLUS PHARMACY-D at 0:27:38
+Did not create bill for GROMARTT-D at 0:27:38
+Did not create bill for MAKKAL MARUNTHAGAM-D at 0:27:38
+Starting bill for Velaven Medical at 0:27:38
+Created bill  ABC54053 for Velaven Medical at 0:27:38
+Did not create bill for SELATHURAI MALIGAI-D at 0:27:38
+Did not create bill for SHREE AKILA MEDICALS-D at 0:27:38
+Did not create bill for SANTHI PHARMACY-D-D at 0:27:38
+Did not create bill for VINAYAKA MEDICALS at 0:27:38
+Did not create bill for DHIVYA MEDICAL-D-D at 0:27:38
+Did not create bill for Lovely Super Market-D at 0:27:38
+Did not create bill for Harini Maligai-D at 0:27:38
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 0:27:39
+Load Process Started
+Load Process Completed
+Order import process started 0:40:33
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, ESHWAR MEDICALS
+Did not create bill for HELLO  FASHION  WORLD-D-D at 0:40:36
+Did not create bill for VIVEGETABLES MAR-D at 0:40:36
+Did not create bill for SELATHURAI MALIGAI-D at 0:40:36
+Starting bill for JANATH MALIGAI-D-D at 0:40:36
+CreditNote Adjustments 194.53 were done for PartyJANATH MALIGAI-D-D
+Created bill  ABC54054 for JANATH MALIGAI-D-D at 0:40:36
+Did not create bill for ARUNA MALGAI-D-D-D-D at 0:40:37
+Starting bill for Sri Balan Medicals at 0:40:37
+Created bill  ABC54055 for Sri Balan Medicals at 0:40:37
+Starting bill for NEW SAKTHI SUPER MARKET-D at 0:40:37
+Created bill  ABC54056 for NEW SAKTHI SUPER MARKET-D at 0:40:38
+Did not create bill for NEWPARVATHYSTORE-D-D-D-D-D at 0:40:38
+Did not create bill for ARUNA MALGAI-D-D-D-D at 0:40:38
+Starting bill for SAKTHIVEL MEDICAL-D at 0:40:38
+Created bill  ABC54057 for SAKTHIVEL MEDICAL-D at 0:40:38
+Did not create bill for Velaven Medical at 0:40:38
+Did not create bill for NEW R00PAM MEDICALS-D at 0:40:38
+Did not create bill for MED GREEN PLUS PHARMACY-D at 0:40:38
+Did not create bill for GROMARTT-D at 0:40:38
+Did not create bill for MAKKAL MARUNTHAGAM-D at 0:40:38
+Did not create bill for SELATHURAI MALIGAI-D at 0:40:38
+Did not create bill for SHREE AKILA MEDICALS-D at 0:40:38
+Did not create bill for SANTHI PHARMACY-D-D at 0:40:38
+Did not create bill for VINAYAKA MEDICALS at 0:40:38
+Did not create bill for DHIVYA MEDICAL-D-D at 0:40:38
+Did not create bill for Sri Balan Medicals at 0:40:38
+Did not create bill for JANATH MALIGAI-D-D at 0:40:38
+Did not create bill for JANATH MALIGAI-D-D at 0:40:38
+Did not create bill for KABIR MALIGAI--D-D at 0:40:39
+Did not create bill for Lovely Super Market-D at 0:40:39
+Did not create bill for Harini Maligai-D at 0:40:39
+Starting bill for SRU  SAKTHI  STORES-D-D-D-D at 0:40:39
+Created bill  ABC54058 for SRU  SAKTHI  STORES-D-D-D-D at 0:40:39
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 0:40:40
+Load Process Started
+Load Process Completed
+Order import process started 0:55:29
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, Sri Balan Medicals
+Party's Credit Exhausted, ESHWAR MEDICALS
+Starting bill for NISHA  PROVISION  STORE-D-D at 0:55:31
+Created bill  ABC54059 for NISHA  PROVISION  STORE-D-D at 0:55:32
+Did not create bill for HELLO  FASHION  WORLD-D-D at 0:55:32
+Did not create bill for VIVEGETABLES MAR-D at 0:55:32
+Did not create bill for SELATHURAI MALIGAI-D at 0:55:32
+Did not create bill for ARUNA MALGAI-D-D-D-D at 0:55:33
+Starting bill for SIVA SAKTHI STORE-D  SVS 1-D-D at 0:55:33
+Created bill  ABC54060 for SIVA SAKTHI STORE-D  SVS 1-D-D at 0:55:33
+Starting bill for NEWPARVATHYSTORE-D-D-D-D-D at 0:55:33
+Created bill  ABC54061 for NEWPARVATHYSTORE-D-D-D-D-D at 0:55:33
+Starting bill for NATURE SUPER MARKET-D at 0:55:33
+Created bill  ABC54062 for NATURE SUPER MARKET-D at 0:55:34
+Did not create bill for ARUNA MALGAI-D-D-D-D at 0:55:34
+Starting bill for MED GREEN PLUS PHARMACY-D at 0:55:34
+Created bill  ABC54063 for MED GREEN PLUS PHARMACY-D at 0:55:34
+Did not create bill for Velaven Medical at 0:55:34
+Did not create bill for NEW R00PAM MEDICALS-D at 0:55:34
+Did not create bill for MED GREEN PLUS PHARMACY-D at 0:55:34
+Did not create bill for GROMARTT-D at 0:55:34
+Did not create bill for MAKKAL MARUNTHAGAM-D at 0:55:34
+Did not create bill for SIVA SAKTHI STORE-D  SVS 1-D-D at 0:55:34
+Did not create bill for SELATHURAI MALIGAI-D at 0:55:34
+Did not create bill for SHREE AKILA MEDICALS-D at 0:55:34
+Did not create bill for SANTHI PHARMACY-D-D at 0:55:34
+Did not create bill for VINAYAKA MEDICALS at 0:55:34
+Did not create bill for DHIVYA MEDICAL-D-D at 0:55:35
+Did not create bill for Sri Balan Medicals at 0:55:35
+Did not create bill for JANATH MALIGAI-D-D at 0:55:35
+Did not create bill for JANATH MALIGAI-D-D at 0:55:35
+Did not create bill for KABIR MALIGAI--D-D at 0:55:35
+Did not create bill for SRI  RAM  MALIGAI-D-D-D-D at 0:55:35
+Did not create bill for Lovely Super Market-D at 0:55:35
+Did not create bill for Harini Maligai-D at 0:55:35
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 0:55:35
+Load Process Started
+Load Process Completed
+Order import process started 1:10:27
+Party's Credit Exhausted, NISHA  PROVISION  STORE-D-D
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, Sri Balan Medicals
+Party's Credit Exhausted, ESHWAR MEDICALS
+20SMN00012D-P23620231215 - NATURE SUPER MARKET-D : Order not allowed below Rs.100.0
+Did not create bill for HELLO  FASHION  WORLD-D-D at 1:10:30
+Did not create bill for VIVEGETABLES MAR-D at 1:10:30
+Did not create bill for SELATHURAI MALIGAI-D at 1:10:30
+Starting bill for ARUNA MALGAI-D-D-D-D at 1:10:30
+Created bill  ABC54064 for ARUNA MALGAI-D-D-D-D at 1:10:31
+Starting bill for SRI RANGARAJA MEDICALS-D at 1:10:31
+Created bill  ABC54065 for SRI RANGARAJA MEDICALS-D at 1:10:32
+Starting bill for SRI VIGNESH MEDICALS-D-D at 1:10:32
+Created bill  ABC54066 for SRI VIGNESH MEDICALS-D-D at 1:10:32
+Did not create bill for A.R.R MALIGAI-D 1-D-D at 1:10:32
+Starting bill for ARUNA MALGAI-D-D-D-D at 1:10:32
+Created bill  ABC54067 for ARUNA MALGAI-D-D-D-D at 1:10:32
+Did not create bill for AMMAN MALIGAI-D-D at 1:10:32
+Did not create bill for Velaven Medical at 1:10:32
+Did not create bill for ABIRAMI MEDICAL at 1:10:32
+Starting bill for THE PHARMACY-D at 1:10:32
+Created bill  ABC54068 for THE PHARMACY-D at 1:10:33
+Did not create bill for NEW R00PAM MEDICALS-D at 1:10:33
+Did not create bill for MED GREEN PLUS PHARMACY-D at 1:10:33
+Did not create bill for GROMARTT-D at 1:10:33
+Did not create bill for MAKKAL MARUNTHAGAM-D at 1:10:33
+Did not create bill for SIVA SAKTHI STORE-D  SVS 1-D-D at 1:10:33
+Did not create bill for SELATHURAI MALIGAI-D at 1:10:33
+Did not create bill for SHREE AKILA MEDICALS-D at 1:10:33
+Did not create bill for SRI RANGARAJA MEDICALS-D at 1:10:33
+Starting bill for SRI VIGNESH MEDICALS-D-D at 1:10:33
+Created bill  ABC54069 for SRI VIGNESH MEDICALS-D-D at 1:10:33
+Did not create bill for SANTHI PHARMACY-D-D at 1:10:33
+Did not create bill for VINAYAKA MEDICALS at 1:10:33
+Did not create bill for DHIVYA MEDICAL-D-D at 1:10:33
+Did not create bill for Sri Balan Medicals at 1:10:33
+Did not create bill for JANATH MALIGAI-D-D at 1:10:33
+Did not create bill for JANATH MALIGAI-D-D at 1:10:33
+Did not create bill for KABIR MALIGAI--D-D at 1:10:33
+Did not create bill for SRI  RAM  MALIGAI-D-D-D-D at 1:10:33
+Did not create bill for Lovely Super Market-D at 1:10:33
+Did not create bill for Harini Maligai-D at 1:10:33
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 1:10:34
+Load Process Started
+Load Process Completed
+Order import process started 1:25:33
+Party's Credit Exhausted, NISHA  PROVISION  STORE-D-D
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, Sri Balan Medicals
+Party's Credit Exhausted, ESHWAR MEDICALS
+20SMN00012D-P23620231215 - NATURE SUPER MARKET-D : Order not allowed below Rs.100.0
+Did not create bill for HELLO  FASHION  WORLD-D-D at 1:25:35
+Did not create bill for VIVEGETABLES MAR-D at 1:25:35
+Did not create bill for SELATHURAI MALIGAI-D at 1:25:35
+Starting bill for KUMARAN STORE-D-D at 1:25:35
+Created bill  ABC54073 for KUMARAN STORE-D-D at 1:25:35
+Did not create bill for A.R.R MALIGAI-D 1-D-D at 1:25:35
+Did not create bill for AMMAN MALIGAI-D-D at 1:25:36
+Did not create bill for HEALER MEDCAL-D at 1:25:36
+Did not create bill for Velaven Medical at 1:25:36
+Did not create bill for ABIRAMI MEDICAL at 1:25:36
+Did not create bill for NEW R00PAM MEDICALS-D at 1:25:36
+Did not create bill for MED GREEN PLUS PHARMACY-D at 1:25:36
+Did not create bill for GROMARTT-D at 1:25:36
+Did not create bill for MAKKAL MARUNTHAGAM-D at 1:25:36
+Did not create bill for SIVA SAKTHI STORE-D  SVS 1-D-D at 1:25:36
+Did not create bill for SELATHURAI MALIGAI-D at 1:25:36
+Did not create bill for SHREE AKILA MEDICALS-D at 1:25:36
+Did not create bill for SRI RANGARAJA MEDICALS-D at 1:25:36
+Did not create bill for Rajarajeswari Medical-D-D-D-Nuts at 1:25:36
+Did not create bill for SANTHI PHARMACY-D-D at 1:25:36
+Did not create bill for VINAYAKA MEDICALS at 1:25:36
+Did not create bill for DHIVYA MEDICAL-D-D at 1:25:36
+Did not create bill for Sri Balan Medicals at 1:25:36
+Did not create bill for JANATH MALIGAI-D-D at 1:25:36
+Did not create bill for JANATH MALIGAI-D-D at 1:25:36
+Did not create bill for KUMARAN STORE-D-D at 1:25:36
+Did not create bill for KABIR MALIGAI--D-D at 1:25:36
+Did not create bill for SRI  RAM  MALIGAI-D-D-D-D at 1:25:36
+Did not create bill for Lovely Super Market-D at 1:25:36
+Did not create bill for Harini Maligai-D at 1:25:36
+Starting bill for ALAGAPPAN MALAIGAI-D-D-D-D at 1:25:36
+Created bill  ABC54074 for ALAGAPPAN MALAIGAI-D-D-D-D at 1:25:37
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 1:25:38
+Load Process Started
+Load Process Completed
+Order import process started 2:44:5
+Party's Credit Exhausted, NISHA  PROVISION  STORE-D-D
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, Sri Balan Medicals
+Party's Credit Exhausted, ESHWAR MEDICALS
+20SMN00012D-P23620231215 - NATURE SUPER MARKET-D : Order not allowed below Rs.100.0
+Did not create bill for HELLO  FASHION  WORLD-D-D at 2:44:8
+Starting bill for THULASI MINI DEPARTMENT STORE-D at 2:44:8
+Created bill  ABC54079 for THULASI MINI DEPARTMENT STORE-D at 2:44:8
+Did not create bill for VIVEGETABLES MAR-D at 2:44:9
+Did not create bill for SELATHURAI MALIGAI-D at 2:44:9
+Starting bill for Selvi Stores Maligai And General Merchant at 2:44:9
+Created bill  ABC54080 for Selvi Stores Maligai And General Merchant at 2:44:9
+Starting bill for LALITHA MALIGAI-D at 2:44:9
+Created bill  ABC54081 for LALITHA MALIGAI-D at 2:44:9
+Starting bill for JAYAM STORE-D at 2:44:9
+Created bill  ABC54082 for JAYAM STORE-D at 2:44:9
+Starting bill for AMMAN STORE-D-D at 2:44:9
+Created bill  ABC54083 for AMMAN STORE-D-D at 2:44:10
+Starting bill for K.RAJALAKSHMI  STORE-D-D-D-D at 2:44:10
+Created bill  ABC54084 for K.RAJALAKSHMI  STORE-D-D-D-D at 2:44:10
+Starting bill for PON  MADASAMY  MALIGAI-D-D at 2:44:10
+Created bill  ABC54085 for PON  MADASAMY  MALIGAI-D-D at 2:44:10
+Starting bill for DHAYALAN STORE-D-D-D at 2:44:10
+Created bill  ABC54086 for DHAYALAN STORE-D-D-D at 2:44:10
+Starting bill for Shri Shanmuga Medical-D at 2:44:11
+Created bill  ABC54087 for Shri Shanmuga Medical-D at 2:44:11
+Did not create bill for K. M.R. Maligai-D at 2:44:11
+Starting bill for JEYAPRAKASH MALIGAI-D at 2:44:11
+Created bill  ABC54088 for JEYAPRAKASH MALIGAI-D at 2:44:12
+Did not create bill for NEW RAHIM STORE-D at 2:44:12
+Starting bill for ABIRAMI MEDICAL at 2:44:12
+Created bill  ABC54089 for ABIRAMI MEDICAL at 2:44:12
+Starting bill for SAKTHI MEDICALS-D-D-D-D at 2:44:12
+Created bill  ABC54090 for SAKTHI MEDICALS-D-D-D-D at 2:44:14
+Starting bill for ANADAVAR MALIGAID-D-D-D at 2:44:14
+Created bill  ABC54091 for ANADAVAR MALIGAID-D-D-D at 2:44:15
+Starting bill for RAJKUMARMAIGAI-D1-D-D at 2:44:15
+Created bill  ABC54092 for RAJKUMARMAIGAI-D1-D-D at 2:44:15
+Did not create bill for ANANDHA STORED-D at 2:44:15
+Did not create bill for SRI MURUGAN STORES-ALWAR THOPE-D-D at 2:44:15
+Did not create bill for J B Super Market-D at 2:44:15
+Did not create bill for Rasitha Maligai-D at 2:44:15
+Did not create bill for GROMARTT-D at 2:44:15
+Starting bill for A.R.R MALIGAI-D 1-D-D at 2:44:15
+Created bill  ABC54093 for A.R.R MALIGAI-D 1-D-D at 2:44:15
+Starting bill for NSA TRADERS at 2:44:15
+Created bill  ABC54094 for NSA TRADERS at 2:44:16
+Starting bill for NEW CHITRA STORE(SVS)-D-D-D at 2:44:16
+Created bill  ABC54095 for NEW CHITRA STORE(SVS)-D-D-D at 2:44:16
+Starting bill for MINISTORE-D-D-D-D at 2:44:16
+Created bill  ABC54096 for MINISTORE-D-D-D-D at 2:44:17
+Starting bill for GANAPATHI Agency-D at 2:44:17
+Created bill  ABC54097 for GANAPATHI Agency-D at 2:44:17
+Starting bill for KALAIMAGALSTORE-D-D at 2:44:17
+Created bill  ABC54098 for KALAIMAGALSTORE-D-D at 2:44:17
+Did not create bill for GROMARTT-D at 2:44:17
+Starting bill for VASANTHAM SUPER MARKET at 2:44:17
+Created bill  ABC54099 for VASANTHAM SUPER MARKET at 2:44:17
+Starting bill for BALAMURUGAN MALIGAI-D at 2:44:17
+Created bill  ABC54100 for BALAMURUGAN MALIGAI-D at 2:44:18
+Did not create bill for MAHA  LINGAM  STORE-D-D at 2:44:18
+Starting bill for TAMIL SUPER MARKET-D at 2:44:18
+Created bill  ABC54101 for TAMIL SUPER MARKET-D at 2:44:18
+Did not create bill for NEW VEERAMMAL STORE-D-D at 2:44:18
+Did not create bill for AMMAN MALIGAI-D-D at 2:44:18
+Did not create bill for Masha Allah-D at 2:44:19
+Starting bill for AKS Maligai-D at 2:44:19
+Created bill  ABC54102 for AKS Maligai-D at 2:44:19
+Did not create bill for MATHA  STORE-D-D at 2:44:19
+Did not create bill for VINAYAGA STATIONARY -D-D at 2:44:19
+Did not create bill for LIZA FANCY-D at 2:44:19
+Did not create bill for V S VISHAL RICE STORE-D-D at 2:44:19
+Did not create bill for MEHI FANCY CENTRE-D at 2:44:19
+Did not create bill for LAKSHMI STORE-D at 2:44:19
+Did not create bill for MURSHIDHA STORE-D at 2:44:19
+Did not create bill for GANI MALIGAI-D-D at 2:44:19
+Did not create bill for JEYAM STORE-D at 2:44:19
+Did not create bill for VELANKANNI  STORE-D-D at 2:44:19
+Did not create bill for JANANI MARKETING-D at 2:44:19
+Starting bill for ANGALAMMAN STORE-D at 2:44:19
+Created bill  ABC54103 for ANGALAMMAN STORE-D at 2:44:19
+Starting bill for ARUN STORE-D at 2:44:19
+Created bill  ABC54104 for ARUN STORE-D at 2:44:20
+Did not create bill for JP AROCKIA STORE-D at 2:44:20
+Did not create bill for TRICHY TRADERS-D at 2:44:20
+Did not create bill for ABIRAMI MEDICAL at 2:44:20
+Starting bill for THE PHARMACY-D at 2:44:20
+Created bill  ABC54105 for THE PHARMACY-D at 2:44:21
+Starting bill for HEALER MEDCAL-D at 2:44:21
+CreditNote Adjustments 142.6 were done for PartyHEALER MEDCAL-D
+Created bill  ABC54106 for HEALER MEDCAL-D at 2:44:21
+Starting bill for Guru Medicals-D at 2:44:21
+Created bill  ABC54107 for Guru Medicals-D at 2:44:21
+Did not create bill for PRADHAN MANTRI-D at 2:44:21
+Did not create bill for PRATHN MANTHRI BHARATIYA JAN AUSHADHI KENDRA-D at 2:44:21
+Did not create bill for Velaven Medical at 2:44:21
+Did not create bill for ABIRAMI MEDICAL at 2:44:21
+Starting bill for NEW R00PAM MEDICALS-D at 2:44:21
+Created bill  ABC54108 for NEW R00PAM MEDICALS-D at 2:44:22
+Did not create bill for MED GREEN PLUS PHARMACY-D at 2:44:22
+Did not create bill for GROMARTT-D at 2:44:22
+Starting bill for MAKKAL MARUNTHAGAM-D at 2:44:22
+Created bill  ABC54109 for MAKKAL MARUNTHAGAM-D at 2:44:22
+Did not create bill for SIVA SAKTHI STORE-D  SVS 1-D-D at 2:44:22
+Did not create bill for SELATHURAI MALIGAI-D at 2:44:22
+Did not create bill for SHREE AKILA MEDICALS-D at 2:44:22
+Did not create bill for KURINJI PHARMACY-D at 2:44:22
+Did not create bill for SRI RANGARAJA MEDICALS-D at 2:44:22
+Did not create bill for Rajarajeswari Medical-D-D-D-Nuts at 2:44:22
+Did not create bill for SANTHI PHARMACY-D-D at 2:44:22
+Did not create bill for VINAYAKA MEDICALS at 2:44:22
+Did not create bill for DHIVYA MEDICAL-D-D at 2:44:22
+Did not create bill for Sri Balan Medicals at 2:44:22
+Did not create bill for JANATH MALIGAI-D-D at 2:44:22
+Did not create bill for JANATH MALIGAI-D-D at 2:44:22
+Starting bill for KUMARAN STORE-D-D at 2:44:22
+Created bill  ABC54110 for KUMARAN STORE-D-D at 2:44:23
+Starting bill for KABIR MALIGAI--D-D at 2:44:23
+Created bill  ABC54111 for KABIR MALIGAI--D-D at 2:44:23
+Starting bill for NADAR  MALIGAI-D-D-D-D at 2:44:23
+Created bill  ABC54112 for NADAR  MALIGAI-D-D-D-D at 2:44:23
+Starting bill for SRI  RAM  MALIGAI-D-D-D-D at 2:44:23
+Created bill  ABC54113 for SRI  RAM  MALIGAI-D-D-D-D at 2:44:23
+Starting bill for Lovely Super Market-D at 2:44:23
+Created bill  ABC54114 for Lovely Super Market-D at 2:44:23
+Did not create bill for GROMARTT-D at 2:44:23
+Starting bill for Harini Maligai-D at 2:44:23
+Created bill  ABC54115 for Harini Maligai-D at 2:44:24
+Starting bill for S.K.  STORE-D-D-D-D at 2:44:24
+Created bill  ABC54116 for S.K.  STORE-D-D-D-D at 2:44:24
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 2:44:26
+Load Process Started
+Load Process Completed
+Order import process started 2:50:47
+Party's Credit Exhausted, NISHA  PROVISION  STORE-D-D
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, Sri Balan Medicals
+Party's Credit Exhausted, Shri Shanmuga Medical-D
+Party's Credit Exhausted, ABIRAMI MEDICAL
+Party's Credit Exhausted, ESHWAR MEDICALS
+Party's Credit Exhausted, MINISTORE-D-D-D-D
+20SMN00012D-P23620231215 - NATURE SUPER MARKET-D : Order not allowed below Rs.100.0
+Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
+Starting bill for NEWPARVATHYSTORE-D-D-D-D-D at 2:50:50
+Created bill  ABC54117 for NEWPARVATHYSTORE-D-D-D-D-D at 2:50:51
+Starting bill for HELLO  FASHION  WORLD-D-D at 2:50:51
+Created bill  ABC54118 for HELLO  FASHION  WORLD-D-D at 2:50:53
+Did not create bill for VIVEGETABLES MAR-D at 2:50:53
+Did not create bill for SELATHURAI MALIGAI-D at 2:50:53
+Did not create bill for AGIN MALIGAI-D-D at 2:50:53
+Starting bill for GNANARAJ  MALIGAI-D-D-D-D at 2:50:53
+Created bill  ABC54119 for GNANARAJ  MALIGAI-D-D-D-D at 2:50:53
+Starting bill for K. M.R. Maligai-D at 2:50:53
+Created bill  ABC54120 for K. M.R. Maligai-D at 2:50:53
+Starting bill for NEW RAHIM STORE-D at 2:50:53
+Created bill  ABC54121 for NEW RAHIM STORE-D at 2:50:54
+Starting bill for ANANDHA STORED-D at 2:50:54
+Created bill  ABC54122 for ANANDHA STORED-D at 2:50:54
+Starting bill for SRI MURUGAN STORES-ALWAR THOPE-D-D at 2:50:54
+Created bill  ABC54123 for SRI MURUGAN STORES-ALWAR THOPE-D-D at 2:50:55
+Starting bill for J B Super Market-D at 2:50:55
+Created bill  ABC54124 for J B Super Market-D at 2:50:56
+Starting bill for Rasitha Maligai-D at 2:50:56
+Created bill  ABC54125 for Rasitha Maligai-D at 2:50:57
+Starting bill for GROMARTT-D at 2:50:57
+Created bill  ABC54126 for GROMARTT-D at 2:50:58
+Did not create bill for SURIYA  TRADERS(SVS)-D-D-D-D at 2:50:58
+Did not create bill for GROMARTT-D at 2:50:58
+Starting bill for MAHA  LINGAM  STORE-D-D at 2:50:58
+Created bill  ABC54127 for MAHA  LINGAM  STORE-D-D at 2:50:58
+Starting bill for NEW VEERAMMAL STORE-D-D at 2:50:58
+Created bill  ABC54128 for NEW VEERAMMAL STORE-D-D at 2:50:59
+Did not create bill for AMMAN MALIGAI-D-D at 2:50:59
+Starting bill for Masha Allah-D at 2:50:59
+Created bill  ABC54129 for Masha Allah-D at 2:50:59
+Starting bill for MATHA  STORE-D-D at 2:50:59
+Created bill  ABC54130 for MATHA  STORE-D-D at 2:50:59
+Starting bill for VINAYAGA STATIONARY -D-D at 2:50:59
+CreditNote Adjustments 71.43 were done for PartyVINAYAGA STATIONARY -D-D
+Created bill  ABC54131 for VINAYAGA STATIONARY -D-D at 2:51:0
+Starting bill for LIZA FANCY-D at 2:51:0
+Created bill  ABC54132 for LIZA FANCY-D at 2:51:0
+Did not create bill for V S VISHAL RICE STORE-D-D at 2:51:0
+Starting bill for MEHI FANCY CENTRE-D at 2:51:0
+Created bill  ABC54133 for MEHI FANCY CENTRE-D at 2:51:0
+Starting bill for LAKSHMI STORE-D at 2:51:0
+Created bill  ABC54134 for LAKSHMI STORE-D at 2:51:0
+Starting bill for MURSHIDHA STORE-D at 2:51:0
+Created bill  ABC54135 for MURSHIDHA STORE-D at 2:51:1
+Starting bill for GANI MALIGAI-D-D at 2:51:1
+Created bill  ABC54136 for GANI MALIGAI-D-D at 2:51:1
+Starting bill for JEYAM STORE-D at 2:51:1
+Created bill  ABC54137 for JEYAM STORE-D at 2:51:1
+Starting bill for VELANKANNI  STORE-D-D at 2:51:1
+Created bill  ABC54138 for VELANKANNI  STORE-D-D at 2:51:1
+Starting bill for Mathan Cooldrinks-D at 2:51:1
+Created bill  ABC54139 for Mathan Cooldrinks-D at 2:51:2
+Did not create bill for JANANI MARKETING-D at 2:51:2
+Did not create bill for SMS STORE-D at 2:51:2
+Starting bill for JP AROCKIA STORE-D at 2:51:2
+Created bill  ABC54140 for JP AROCKIA STORE-D at 2:51:2
+Starting bill for TRICHY TRADERS-D at 2:51:2
+CreditNote Adjustments 137.52 were done for PartyTRICHY TRADERS-D
+Created bill  ABC54141 for TRICHY TRADERS-D at 2:51:2
+Did not create bill for THAAI VEG SHOP-D at 2:51:2
+Starting bill for ABIRAMI MEDICAL at 2:51:2
+Created bill  ABC54142 for ABIRAMI MEDICAL at 2:51:2
+Starting bill for PRADHAN MANTRI-D at 2:51:2
+Created bill  ABC54143 for PRADHAN MANTRI-D at 2:51:3
+Starting bill for PRATHN MANTHRI BHARATIYA JAN AUSHADHI KENDRA-D at 2:51:3
+Created bill  ABC54144 for PRATHN MANTHRI BHARATIYA JAN AUSHADHI KENDRA-D at 2:51:3
+Did not create bill for Velaven Medical at 2:51:3
+Did not create bill for ABIRAMI MEDICAL at 2:51:3
+Starting bill for MED GREEN PLUS PHARMACY-D at 2:51:3
+Created bill  ABC54145 for MED GREEN PLUS PHARMACY-D at 2:51:3
+Did not create bill for GROMARTT-D at 2:51:3
+Did not create bill for SIVA SAKTHI STORE-D  SVS 1-D-D at 2:51:3
+Did not create bill for SELATHURAI MALIGAI-D at 2:51:3
+Did not create bill for SHREE AKILA MEDICALS-D at 2:51:3
+Did not create bill for KURINJI PHARMACY-D at 2:51:3
+Did not create bill for SRI RANGARAJA MEDICALS-D at 2:51:3
+Did not create bill for Rajarajeswari Medical-D-D-D-Nuts at 2:51:4
+Did not create bill for SANTHI PHARMACY-D-D at 2:51:4
+Did not create bill for VINAYAKA MEDICALS at 2:51:4
+Did not create bill for DHIVYA MEDICAL-D-D at 2:51:4
+Did not create bill for Sri Balan Medicals at 2:51:4
+Did not create bill for JANATH MALIGAI-D-D at 2:51:4
+Did not create bill for JANATH MALIGAI-D-D at 2:51:4
+Did not create bill for GROMARTT-D at 2:51:4
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 2:51:5
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Order import process started 2:53:23
+Party's Credit Exhausted, NISHA  PROVISION  STORE-D-D
+Party's Credit Exhausted, HELLO  FASHION  WORLD-D-D
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, Sri Balan Medicals
+Party's Credit Exhausted, Shri Shanmuga Medical-D
+Party's Credit Exhausted, ABIRAMI MEDICAL
+Party's Credit Exhausted, ESHWAR MEDICALS
+Party's Credit Exhausted, MINISTORE-D-D-D-D
+20SMN00012D-P23620231215 - NATURE SUPER MARKET-D : Order not allowed below Rs.100.0
+Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
+Did not create bill for VIVEGETABLES MAR-D at 2:53:25
+Did not create bill for SELATHURAI MALIGAI-D at 2:53:25
+Did not create bill for AGIN MALIGAI-D-D at 2:53:25
+Starting bill for SURIYA  TRADERS(SVS)-D-D-D-D at 2:53:25
+Created bill  ABC54146 for SURIYA  TRADERS(SVS)-D-D-D-D at 2:53:25
+Did not create bill for GROMARTT-D at 2:53:25
+Did not create bill for AMMAN MALIGAI-D-D at 2:53:25
+Did not create bill for V S VISHAL RICE STORE-D-D at 2:53:25
+Did not create bill for JANANI MARKETING-D at 2:53:25
+Did not create bill for ABIRAMI MALIGAI-D at 2:53:25
+Did not create bill for SMS STORE-D at 2:53:25
+Did not create bill for THAAI VEG SHOP-D at 2:53:25
+Starting bill for S K Selva Store at 2:53:25
+Created bill  ABC54147 for S K Selva Store at 2:53:26
+Did not create bill for Velaven Medical at 2:53:26
+Did not create bill for ABIRAMI MEDICAL at 2:53:26
+Did not create bill for GROMARTT-D at 2:53:26
+Did not create bill for SIVA SAKTHI STORE-D  SVS 1-D-D at 2:53:26
+Did not create bill for SELATHURAI MALIGAI-D at 2:53:26
+Starting bill for SHREE AKILA MEDICALS-D at 2:53:26
+Created bill  ABC54148 for SHREE AKILA MEDICALS-D at 2:53:26
+Starting bill for KURINJI PHARMACY-D at 2:53:26
+CreditNote Adjustments 331.82 were done for PartyKURINJI PHARMACY-D
+Created bill  ABC54149 for KURINJI PHARMACY-D at 2:53:26
+Did not create bill for SRI RANGARAJA MEDICALS-D at 2:53:26
+Starting bill for Rajarajeswari Medical-D-D-D-Nuts at 2:53:26
+Created bill  ABC54150 for Rajarajeswari Medical-D-D-D-Nuts at 2:53:27
+Starting bill for SANTHI PHARMACY-D-D at 2:53:27
+Created bill  ABC54151 for SANTHI PHARMACY-D-D at 2:53:27
+Starting bill for VINAYAKA MEDICALS at 2:53:27
+Created bill  ABC54152 for VINAYAKA MEDICALS at 2:53:27
+Starting bill for DHIVYA MEDICAL-D-D at 2:53:27
+Created bill  ABC54153 for DHIVYA MEDICAL-D-D at 2:53:27
+Starting bill for Sri Balan Medicals at 2:53:28
+Created bill  ABC54154 for Sri Balan Medicals at 2:53:28
+Did not create bill for JANATH MALIGAI-D-D at 2:53:28
+Did not create bill for JANATH MALIGAI-D-D at 2:53:28
+Did not create bill for GROMARTT-D at 2:53:28
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 2:53:29
+Load Process Started
+Load Process Completed
+Order import process started 2:53:43
+Starting bill for ARVIND AGENCY at 2:53:43
+Created bill  ABC54155 for ARVIND AGENCY at 2:53:43
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 2:53:44
+Load Process Started
+Load Process Completed
+Order import process started 2:55:31
+Party's Credit Exhausted, NISHA  PROVISION  STORE-D-D
+Party's Credit Exhausted, HELLO  FASHION  WORLD-D-D
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, Sri Balan Medicals
+Party's Credit Exhausted, Shri Shanmuga Medical-D
+Party's Credit Exhausted, ABIRAMI MEDICAL
+Party's Credit Exhausted, ESHWAR MEDICALS
+Party's Credit Exhausted, MINISTORE-D-D-D-D
+20SMN00012D-P23620231215 - NATURE SUPER MARKET-D : Order not allowed below Rs.100.0
+Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
+Did not create bill for VIVEGETABLES MAR-D at 2:55:34
+Did not create bill for SELATHURAI MALIGAI-D at 2:55:34
+Starting bill for AGIN MALIGAI-D-D at 2:55:34
+Created bill  ABC54156 for AGIN MALIGAI-D-D at 2:55:34
+Starting bill for GROMARTT-D at 2:55:34
+Created bill  ABC54157 for GROMARTT-D at 2:55:34
+Did not create bill for AMMAN MALIGAI-D-D at 2:55:34
+Starting bill for V S VISHAL RICE STORE-D-D at 2:55:34
+Created bill  ABC54158 for V S VISHAL RICE STORE-D-D at 2:55:34
+Did not create bill for JANANI MARKETING-D at 2:55:34
+Starting bill for ABIRAMI MALIGAI-D at 2:55:34
+Created bill  ABC54159 for ABIRAMI MALIGAI-D at 2:55:35
+Starting bill for SMS STORE-D at 2:55:35
+Created bill  ABC54160 for SMS STORE-D at 2:55:35
+Did not create bill for THAAI VEG SHOP-D at 2:55:35
+Did not create bill for Velaven Medical at 2:55:35
+Starting bill for ABIRAMI MEDICAL at 2:55:35
+Created bill  ABC54161 for ABIRAMI MEDICAL at 2:55:35
+Did not create bill for GROMARTT-D at 2:55:35
+Did not create bill for SIVA SAKTHI STORE-D  SVS 1-D-D at 2:55:35
+Did not create bill for SELATHURAI MALIGAI-D at 2:55:35
+Starting bill for SRI RANGARAJA MEDICALS-D at 2:55:35
+Created bill  ABC54162 for SRI RANGARAJA MEDICALS-D at 2:55:35
+Starting bill for JANATH MALIGAI-D-D at 2:55:35
+Created bill  ABC54163 for JANATH MALIGAI-D-D at 2:55:36
+Did not create bill for JANATH MALIGAI-D-D at 2:55:36
+Did not create bill for GROMARTT-D at 2:55:36
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 2:55:37
+Load Process Started
+Load Process Completed
+Order import process started 2:58:49
+Party's Credit Exhausted, NISHA  PROVISION  STORE-D-D
+Party's Credit Exhausted, HELLO  FASHION  WORLD-D-D
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, Sri Balan Medicals
+Party's Credit Exhausted, Shri Shanmuga Medical-D
+Party's Credit Exhausted, ABIRAMI MEDICAL
+Party's Credit Exhausted, ESHWAR MEDICALS
+Party's Credit Exhausted, MINISTORE-D-D-D-D
+20SMN00012D-P23620231215 - NATURE SUPER MARKET-D : Order not allowed below Rs.100.0
+Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
+Did not create bill for VIVEGETABLES MAR-D at 2:58:51
+Did not create bill for SELATHURAI MALIGAI-D at 2:58:51
+Did not create bill for AMMAN MALIGAI-D-D at 2:58:51
+Did not create bill for JANANI MARKETING-D at 2:58:51
+Starting bill for ANDAVAR COMMUNICATION-D at 2:58:51
+Created bill  ABC54164 for ANDAVAR COMMUNICATION-D at 2:58:52
+Starting bill for Murugan at 2:58:52
+Created bill  ABC54165 for Murugan at 2:58:52
+Did not create bill for THAAI VEG SHOP-D at 2:58:52
+Did not create bill for Velaven Medical at 2:58:52
+Did not create bill for GROMARTT-D at 2:58:52
+Did not create bill for SIVA SAKTHI STORE-D  SVS 1-D-D at 2:58:52
+Did not create bill for SELATHURAI MALIGAI-D at 2:58:52
+Starting bill for JANATH MALIGAI-D-D at 2:58:52
+Created bill  ABC54166 for JANATH MALIGAI-D-D at 2:58:52
+Starting bill for GROMARTT-D at 2:58:52
+Created bill  ABC54167 for GROMARTT-D at 2:58:53
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 2:58:53
+Load Process Started
+Load Process Completed
+Order import process started 2:59:58
+Party's Credit Exhausted, NISHA  PROVISION  STORE-D-D
+Party's Credit Exhausted, HELLO  FASHION  WORLD-D-D
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, Sri Balan Medicals
+Party's Credit Exhausted, Shri Shanmuga Medical-D
+Party's Credit Exhausted, ABIRAMI MEDICAL
+Party's Credit Exhausted, ESHWAR MEDICALS
+Party's Credit Exhausted, MINISTORE-D-D-D-D
+20SMN00012D-P23620231215 - NATURE SUPER MARKET-D : Order not allowed below Rs.100.0
+Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
+Did not create bill for VIVEGETABLES MAR-D at 3:0:1
+Starting bill for SELATHURAI MALIGAI-D at 3:0:1
+Created bill  ABC54168 for SELATHURAI MALIGAI-D at 3:0:1
+Did not create bill for AMMAN MALIGAI-D-D at 3:0:1
+Starting bill for JANANI MARKETING-D at 3:0:1
+Created bill  ABC54169 for JANANI MARKETING-D at 3:0:1
+Starting bill for THAAI VEG SHOP-D at 3:0:1
+Created bill  ABC54170 for THAAI VEG SHOP-D at 3:0:2
+Did not create bill for Velaven Medical at 3:0:2
+Did not create bill for GROMARTT-D at 3:0:2
+Starting bill for SIVA SAKTHI STORE-D  SVS 1-D-D at 3:0:2
+Created bill  ABC54171 for SIVA SAKTHI STORE-D  SVS 1-D-D at 3:0:3
+Did not create bill for SELATHURAI MALIGAI-D at 3:0:3
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 3:0:4
+Load Process Started
+Load Process Completed
+Order import process started 3:0:25
+Party's Credit Exhausted, NISHA  PROVISION  STORE-D-D
+Party's Credit Exhausted, HELLO  FASHION  WORLD-D-D
+Party's Credit Exhausted, SELATHURAI MALIGAI-D
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, Sri Balan Medicals
+Party's Credit Exhausted, Shri Shanmuga Medical-D
+Party's Credit Exhausted, ABIRAMI MEDICAL
+Party's Credit Exhausted, ESHWAR MEDICALS
+Party's Credit Exhausted, MINISTORE-D-D-D-D
+20SMN00012D-P23620231215 - NATURE SUPER MARKET-D : Order not allowed below Rs.100.0
+Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
+Did not create bill for VIVEGETABLES MAR-D at 3:0:28
+Did not create bill for AMMAN MALIGAI-D-D at 3:0:28
+Did not create bill for Velaven Medical at 3:0:28
+Did not create bill for GROMARTT-D at 3:0:28
+Did not create bill for SELATHURAI MALIGAI-D at 3:0:28
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 3:0:29
+Load Process Started
+Load Process Completed
+Order import process started 3:0:55
+Party's Credit Exhausted, NISHA  PROVISION  STORE-D-D
+Party's Credit Exhausted, HELLO  FASHION  WORLD-D-D
+Party's Credit Exhausted, SELATHURAI MALIGAI-D
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, Sri Balan Medicals
+Party's Credit Exhausted, Shri Shanmuga Medical-D
+Party's Credit Exhausted, ABIRAMI MEDICAL
+Party's Credit Exhausted, ESHWAR MEDICALS
+Party's Credit Exhausted, MINISTORE-D-D-D-D
+20SMN00012D-P23620231215 - NATURE SUPER MARKET-D : Order not allowed below Rs.100.0
+Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
+Did not create bill for VIVEGETABLES MAR-D at 3:0:58
+Did not create bill for AMMAN MALIGAI-D-D at 3:0:58
+Did not create bill for Velaven Medical at 3:0:58
+Did not create bill for GROMARTT-D at 3:0:58
+Starting bill for SELATHURAI MALIGAI-D at 3:0:58
+Created bill  ABC54172 for SELATHURAI MALIGAI-D at 3:0:59
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 3:0:59
+Load Process Started
+Load Process Completed
+Order import process started 3:2:24
+Party's Credit Exhausted, NISHA  PROVISION  STORE-D-D
+Party's Credit Exhausted, HELLO  FASHION  WORLD-D-D
+Party's Credit Exhausted, SELATHURAI MALIGAI-D
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, Sri Balan Medicals
+Party's Credit Exhausted, Shri Shanmuga Medical-D
+Party's Credit Exhausted, ABIRAMI MEDICAL
+Party's Credit Exhausted, ESHWAR MEDICALS
+Party's Credit Exhausted, MINISTORE-D-D-D-D
+20SMN00012D-P23620231215 - NATURE SUPER MARKET-D : Order not allowed below Rs.100.0
+Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
+Did not create bill for VIVEGETABLES MAR-D at 3:2:26
+Did not create bill for AMMAN MALIGAI-D-D at 3:2:26
+Starting bill for Siva Sakthi Stores-D at 3:2:26
+Created bill  ABC54173 for Siva Sakthi Stores-D at 3:2:27
+Did not create bill for S.K .MALIGAI at 3:2:27
+Starting bill for Velaven Medical at 3:2:27
+Created bill  ABC54174 for Velaven Medical at 3:2:27
+Did not create bill for GROMARTT-D at 3:2:27
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 3:2:28
+Load Process Started
+Load Process Completed
+Order import process started 3:2:44
+Party's Credit Exhausted, NISHA  PROVISION  STORE-D-D
+Party's Credit Exhausted, HELLO  FASHION  WORLD-D-D
+Party's Credit Exhausted, SELATHURAI MALIGAI-D
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, Sri Balan Medicals
+Party's Credit Exhausted, Shri Shanmuga Medical-D
+Party's Credit Exhausted, ABIRAMI MEDICAL
+Party's Credit Exhausted, ESHWAR MEDICALS
+Party's Credit Exhausted, MINISTORE-D-D-D-D
+20SMN00012D-P23620231215 - NATURE SUPER MARKET-D : Order not allowed below Rs.100.0
+Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
+Did not create bill for VIVEGETABLES MAR-D at 3:2:46
+Did not create bill for AMMAN MALIGAI-D-D at 3:2:46
+Did not create bill for S.K .MALIGAI at 3:2:46
+Did not create bill for GROMARTT-D at 3:2:46
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 3:2:47
+Load Process Started
+Load Process Completed
+Order import process started 3:4:34
+Party's Credit Exhausted, NISHA  PROVISION  STORE-D-D
+Party's Credit Exhausted, HELLO  FASHION  WORLD-D-D
+Party's Credit Exhausted, SELATHURAI MALIGAI-D
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, Sri Balan Medicals
+Party's Credit Exhausted, Shri Shanmuga Medical-D
+Party's Credit Exhausted, ABIRAMI MEDICAL
+Party's Credit Exhausted, ESHWAR MEDICALS
+Party's Credit Exhausted, MINISTORE-D-D-D-D
+20SMN00012D-P23620231215 - NATURE SUPER MARKET-D : Order not allowed below Rs.100.0
+Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
+Did not create bill for VIVEGETABLES MAR-D at 3:4:36
+Did not create bill for AMMAN MALIGAI-D-D at 3:4:36
+Starting bill for S.K .MALIGAI at 3:4:36
+Created bill  ABC54175 for S.K .MALIGAI at 3:4:37
+Did not create bill for GROMARTT-D at 3:4:37
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 3:4:37
+Load Process Started
+Load Process Completed
+Order import process started 3:6:6
+Party's Credit Exhausted, NISHA  PROVISION  STORE-D-D
+Party's Credit Exhausted, HELLO  FASHION  WORLD-D-D
+Party's Credit Exhausted, SELATHURAI MALIGAI-D
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, Sri Balan Medicals
+Party's Credit Exhausted, Shri Shanmuga Medical-D
+Party's Credit Exhausted, ABIRAMI MEDICAL
+Party's Credit Exhausted, ESHWAR MEDICALS
+Party's Credit Exhausted, MINISTORE-D-D-D-D
+20SMN00012D-P23620231215 - NATURE SUPER MARKET-D : Order not allowed below Rs.100.0
+Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
+Did not create bill for VIVEGETABLES MAR-D at 3:6:9
+Did not create bill for AMMAN MALIGAI-D-D at 3:6:9
+Did not create bill for GROMARTT-D at 3:6:9
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 3:6:9

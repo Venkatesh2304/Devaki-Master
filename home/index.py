@@ -227,4 +227,4 @@ def CreditLock():
 
 webbrowser.open("http://localhost:5002/")
 if __name__ == '__main__':
-    app.run(debug=False,port=5002)
+    app.run(debug=False,port=5002,host="0.0.0.0")

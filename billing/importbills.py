@@ -71,7 +71,9 @@ class ikea(classes.ikea):
         #print( cr_lock_parties , valid_partys )
         creditlock = {}
         coll_report = self.collection_report( self.today )
+        # coll_report.to_excel("coll_report.xlsx",index=False)
         coll_report["party"] = coll_report["Party Name"].str.replace(" ","")
+        coll_report = coll_report[~coll_report.Status.isin(["PND","CAN"])]
         for party in cr_lock_parties :
             #if party in valid_partys.keys():
                 
