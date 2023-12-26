@@ -71,9 +71,11 @@ class ikea(classes.ikea):
         #print( cr_lock_parties , valid_partys )
         creditlock = {}
         coll_report = self.collection_report( self.today )
-        # coll_report.to_excel("coll_report.xlsx",index=False)
         coll_report["party"] = coll_report["Party Name"].str.replace(" ","")
+        coll_report["days"] = (coll_report["Collection Date"] - coll_report["Date"]).dt.days
         coll_report = coll_report[~coll_report.Status.isin(["PND","CAN"])]
+        coll_report.to_excel("coll_report.xlsx",index=False)
+        print( coll_report["days"] )
         for party in cr_lock_parties :
             #if party in valid_partys.keys():
                 
@@ -103,7 +105,7 @@ class ikea(classes.ikea):
                 party_data["creditlimit"] = lock_data["creditlimit"]
                 coll_data = coll_report[coll_report.party == party]
                 if len(coll_data.index)  :  
-                   coll_str = "/".join( f'{billno}*{ round(row["Coll. Amt"].sum()) }' for billno,row in coll_data.groupby("Bill No") ) 
+                   coll_str = "/".join( f'{round(row["days"].iloc[0])}*{ round(row["Coll. Amt"].sum()) }' for billno,row in coll_data.groupby("Bill No") ) 
                 else : 
                     coll_str = "No Collection"
                 party_data["coll_str"] = coll_str

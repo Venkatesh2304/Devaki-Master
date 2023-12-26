@@ -8,6 +8,7 @@ def interpret( all_df, df , days ):
    df["party"] = df["Party Name"]
    df['Salesperson']=df['Salesperson'].apply(lambda x: x.split('-')[int(sname_is_last)])
    unfiltered =df.copy()
+   print( df.columns )
    filtered =df[df['In Days'] > days ]
    
    pivot_filtered = pd.pivot_table(filtered,index=['Salesperson','Beat Name','party'],values=['O/S Amount','In Days'],aggfunc={'O/S Amount':np.sum,'In Days':np.max},margins=True)

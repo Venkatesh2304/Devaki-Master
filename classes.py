@@ -180,7 +180,7 @@ class ikea(Session) :
       def collection_report(self,date) -> pd.DataFrame : 
           res = self.post("/rsunify/app/reportsController/generatereport", 
                           data = self.ajax( "collection_report" , replaces={"date":date.strftime("%Y/%m/%d")} ))
-          if res.text.strip() == "" : return pd.DataFrame(columns=["Party Name","Coll. Amt","Bill No"]) 
+          if res.text.strip() == "" : return pd.DataFrame(columns=["Party Name","Coll. Amt","Bill No","Collection Date","Date"]) 
           return pd.read_excel(self.download(res.text))
        
       def outstanding(self, date=None , days = 20):
