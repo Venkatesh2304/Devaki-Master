@@ -1042,3 +1042,234 @@ Did not create bill for PAVIN STORE-D at 4:23:6
 Generating SOAO extract
 Generated SOAO extract successfully
 Order import process ended 4:23:7
+Load Process Started
+Did not create bill for KUMAR STOREwss-D-D as party is in Dummy Beat
+Load Process Completed
+Load Process Started
+Did not create bill for KUMAR STOREwss-D-D as party is in Dummy Beat
+Load Process Completed
+Load Process Started
+Load Process Completed
+Order import process started 5:9:10
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, Selvi Stores Maligai And General Merchant
+20SMN00010D-P1807320231226 - VINO  MEDICALS-D-D : Order not allowed below Rs.100.0
+Party's Credit Exhausted, RAJA  STORE -KATTUR2-D-D
+Party's Credit Exhausted, Taj Maligai
+Party's Credit Exhausted, Karthik Store-D
+Starting bill for Meenatchi Store-D at 5:9:12
+Created bill  ABC56339 for Meenatchi Store-D at 5:9:13
+Did not create bill for KANNAN STORE at 5:9:13
+Did not create bill for JAYAKUMAR  STORE-D-D-D-D at 5:9:13
+Did not create bill for THAAI MALIGAI at 5:9:13
+Starting bill for GANAPATHI Agency-D at 5:9:13
+Created bill  ABC56340 for GANAPATHI Agency-D at 5:9:13
+Starting bill for MURUGAN  MEDICAL STORE-D-D-D-D at 5:9:13
+Created bill  ABC56341 for MURUGAN  MEDICAL STORE-D-D-D-D at 5:9:13
+Starting bill for BROOS SUJATHA MEDICALS at 5:9:13
+Created bill  ABC56342 for BROOS SUJATHA MEDICALS at 5:9:13
+Starting bill for BALAJI MEDICALS - TR-D-D at 5:9:13
+Created bill  ABC56343 for BALAJI MEDICALS - TR-D-D at 5:9:14
+Starting bill for BALAJI MEDICALS - TR-D-D at 5:9:14
+Created bill  ABC56344 for BALAJI MEDICALS - TR-D-D at 5:9:14
+Starting bill for KAVERI MEDICAL-D-D at 5:9:14
+Created bill  ABC56345 for KAVERI MEDICAL-D-D at 5:9:14
+Starting bill for Guru Medicals-D at 5:9:14
+Created bill  ABC56346 for Guru Medicals-D at 5:9:14
+Did not create bill for ROJA MALIGAI&SHOP-D at 5:9:14
+Did not create bill for A M H MALIGAI-D at 5:9:14
+Did not create bill for Jayasakthi-D at 5:9:14
+Did not create bill for DEEN STORE-D at 5:9:14
+Did not create bill for BISMI STORE-D-D at 5:9:14
+Starting bill for MASS MALIGAI-D-D at 5:9:14
+Created bill  ABC56347 for MASS MALIGAI-D-D at 5:9:15
+Did not create bill for RANI STORE-D at 5:9:15
+Did not create bill for SANTHI MALLIGAI-D at 5:9:15
+Did not create bill for BALAJI MALIGAI-D at 5:9:15
+Did not create bill for NEW ADAIKALAM MALIGAI-D at 5:9:15
+Did not create bill for MURUGAN  STORE PON-D-D at 5:9:15
+Did not create bill for SHANMUGA  STORE-D-D-D-D at 5:9:15
+Did not create bill for YASMIN  STORE-D at 5:9:15
+Did not create bill for JEYASRI MALIGAI-D-D at 5:9:15
+Did not create bill for SIVAMALAIGAI-D-D at 5:9:15
+Starting bill for GANAPATHI STORE-D-D at 5:9:15
+Created bill  ABC56348 for GANAPATHI STORE-D-D at 5:9:15
+Did not create bill for JANANI MARKETING-D at 5:9:15
+Did not create bill for PAVIN STORE-D at 5:9:15
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 5:9:17
+Load Process Started
+Did not create bill for KUMAR STOREwss-D-D as party is in Dummy Beat
+Load Process Completed
+Load Process Started
+Load Process Completed
+Order import process started 5:9:58
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, Selvi Stores Maligai And General Merchant
+20SMN00010D-P1807320231226 - VINO  MEDICALS-D-D : Order not allowed below Rs.100.0
+Party's Credit Exhausted, RAJA  STORE -KATTUR2-D-D
+Party's Credit Exhausted, Taj Maligai
+Party's Credit Exhausted, Karthik Store-D
+Did not create bill for KANNAN STORE at 5:10:0
+Did not create bill for JAYAKUMAR  STORE-D-D-D-D at 5:10:0
+Did not create bill for THAAI MALIGAI at 5:10:0
+Did not create bill for ROJA MALIGAI&SHOP-D at 5:10:0
+Did not create bill for A M H MALIGAI-D at 5:10:0
+Did not create bill for Jayasakthi-D at 5:10:0
+Did not create bill for DEEN STORE-D at 5:10:0
+Did not create bill for BISMI STORE-D-D at 5:10:0
+Did not create bill for RANI STORE-D at 5:10:0
+Did not create bill for SANTHI MALLIGAI-D at 5:10:1
+Did not create bill for BALAJI MALIGAI-D at 5:10:1
+Did not create bill for NEW ADAIKALAM MALIGAI-D at 5:10:1
+Did not create bill for MURUGAN  STORE PON-D-D at 5:10:1
+Did not create bill for SHANMUGA  STORE-D-D-D-D at 5:10:1
+Did not create bill for YASMIN  STORE-D at 5:10:1
+Did not create bill for JEYASRI MALIGAI-D-D at 5:10:1
+Did not create bill for SIVAMALAIGAI-D-D at 5:10:1
+Did not create bill for JANANI MARKETING-D at 5:10:1
+Did not create bill for PAVIN STORE-D at 5:10:1
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 5:10:1
+Load Process Started
+Load Process Completed
+Order import process started 5:11:0
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, Selvi Stores Maligai And General Merchant
+20SMN00010D-P1807320231226 - VINO  MEDICALS-D-D : Order not allowed below Rs.100.0
+Party's Credit Exhausted, RAJA  STORE -KATTUR2-D-D
+Party's Credit Exhausted, Taj Maligai
+Party's Credit Exhausted, Karthik Store-D
+Did not create bill for KANNAN STORE at 5:11:2
+Did not create bill for JAYAKUMAR  STORE-D-D-D-D at 5:11:2
+Did not create bill for THAAI MALIGAI at 5:11:2
+Did not create bill for ROJA MALIGAI&SHOP-D at 5:11:2
+Did not create bill for A M H MALIGAI-D at 5:11:2
+Did not create bill for Jayasakthi-D at 5:11:2
+Did not create bill for DEEN STORE-D at 5:11:2
+Did not create bill for BISMI STORE-D-D at 5:11:2
+Did not create bill for RANI STORE-D at 5:11:2
+Did not create bill for SANTHI MALLIGAI-D at 5:11:2
+Did not create bill for BALAJI MALIGAI-D at 5:11:2
+Did not create bill for NEW ADAIKALAM MALIGAI-D at 5:11:2
+Did not create bill for MURUGAN  STORE PON-D-D at 5:11:2
+Did not create bill for SHANMUGA  STORE-D-D-D-D at 5:11:2
+Did not create bill for YASMIN  STORE-D at 5:11:2
+Did not create bill for JEYASRI MALIGAI-D-D at 5:11:3
+Did not create bill for SIVAMALAIGAI-D-D at 5:11:3
+Did not create bill for JANANI MARKETING-D at 5:11:3
+Did not create bill for PAVIN STORE-D at 5:11:3
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 5:11:3
+Load Process Started
+Load Process Completed
+Order import process started 5:14:49
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, Selvi Stores Maligai And General Merchant
+20SMN00010D-P1807320231226 - VINO  MEDICALS-D-D : Order not allowed below Rs.100.0
+Party's Credit Exhausted, RAJA  STORE -KATTUR2-D-D
+Party's Credit Exhausted, Taj Maligai
+Party's Credit Exhausted, Karthik Store-D
+Did not create bill for KANNAN STORE at 5:14:51
+Did not create bill for JAYAKUMAR  STORE-D-D-D-D at 5:14:51
+Did not create bill for THAAI MALIGAI at 5:14:51
+Did not create bill for ROJA MALIGAI&SHOP-D at 5:14:51
+Did not create bill for A M H MALIGAI-D at 5:14:51
+Did not create bill for Jayasakthi-D at 5:14:51
+Did not create bill for DEEN STORE-D at 5:14:51
+Did not create bill for BISMI STORE-D-D at 5:14:51
+Did not create bill for RANI STORE-D at 5:14:51
+Did not create bill for SANTHI MALLIGAI-D at 5:14:51
+Did not create bill for BALAJI MALIGAI-D at 5:14:51
+Did not create bill for NEW ADAIKALAM MALIGAI-D at 5:14:51
+Did not create bill for MURUGAN  STORE PON-D-D at 5:14:51
+Did not create bill for SHANMUGA  STORE-D-D-D-D at 5:14:51
+Did not create bill for YASMIN  STORE-D at 5:14:51
+Did not create bill for JEYASRI MALIGAI-D-D at 5:14:51
+Did not create bill for SIVAMALAIGAI-D-D at 5:14:51
+Did not create bill for JANANI MARKETING-D at 5:14:51
+Did not create bill for PAVIN STORE-D at 5:14:51
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 5:14:52
+Load Process Started
+Load Process Completed
+Order import process started 5:16:19
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, Selvi Stores Maligai And General Merchant
+20SMN00010D-P1807320231226 - VINO  MEDICALS-D-D : Order not allowed below Rs.100.0
+Party's Credit Exhausted, RAJA  STORE -KATTUR2-D-D
+Party's Credit Exhausted, Taj Maligai
+Party's Credit Exhausted, Karthik Store-D
+Did not create bill for KANNAN STORE at 5:16:21
+Did not create bill for JAYAKUMAR  STORE-D-D-D-D at 5:16:21
+Did not create bill for THAAI MALIGAI at 5:16:21
+Did not create bill for S.S.GENARAL STORE-D at 5:16:21
+Starting bill for SIVA SAKTHI STORE-D-D at 5:16:21
+Created bill  ABC56349 for SIVA SAKTHI STORE-D-D at 5:16:22
+Starting bill for RAMACHANDRAN Kalaimagal Store-D at 5:16:22
+Created bill  ABC56350 for RAMACHANDRAN Kalaimagal Store-D at 5:16:22
+Did not create bill for ROJA MALIGAI&SHOP-D at 5:16:22
+Did not create bill for A M H MALIGAI-D at 5:16:22
+Did not create bill for Jayasakthi-D at 5:16:22
+Did not create bill for DEEN STORE-D at 5:16:22
+Did not create bill for BISMI STORE-D-D at 5:16:22
+Did not create bill for RANI STORE-D at 5:16:22
+Did not create bill for SANTHI MALLIGAI-D at 5:16:22
+Did not create bill for BALAJI MALIGAI-D at 5:16:22
+Did not create bill for NEW ADAIKALAM MALIGAI-D at 5:16:22
+Did not create bill for MURUGAN  STORE PON-D-D at 5:16:22
+Did not create bill for SHANMUGA  STORE-D-D-D-D at 5:16:22
+Did not create bill for VIGNESH STORE-D at 5:16:22
+Did not create bill for YASMIN  STORE-D at 5:16:22
+Did not create bill for JEYASRI MALIGAI-D-D at 5:16:22
+Did not create bill for SIVAMALAIGAI-D-D at 5:16:22
+Did not create bill for Vanitha Maligai Store-D at 5:16:22
+Starting bill for ANNAPURANI  STORE-D-D-D-D at 5:16:22
+Created bill  ABC56351 for ANNAPURANI  STORE-D-D-D-D at 5:16:23
+Did not create bill for KRISHANTH SUPER MARKET-D at 5:16:23
+Did not create bill for JANANI MARKETING-D at 5:16:23
+Did not create bill for PAVIN STORE-D at 5:16:23
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 5:16:24
+Load Process Started
+Load Process Completed
+Order import process started 5:18:31
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, NSA TRADERS
+Party's Credit Exhausted, Selvi Stores Maligai And General Merchant
+20SMN00010D-P1807320231226 - VINO  MEDICALS-D-D : Order not allowed below Rs.100.0
+Party's Credit Exhausted, RAJA  STORE -KATTUR2-D-D
+Party's Credit Exhausted, Taj Maligai
+Party's Credit Exhausted, Karthik Store-D
+Did not create bill for KANNAN STORE at 5:18:33
+Did not create bill for JAYAKUMAR  STORE-D-D-D-D at 5:18:33
+Did not create bill for THAAI MALIGAI at 5:18:33
+Did not create bill for S.S.GENARAL STORE-D at 5:18:33
+Did not create bill for ROJA MALIGAI&SHOP-D at 5:18:33
+Did not create bill for A M H MALIGAI-D at 5:18:34
+Did not create bill for Jayasakthi-D at 5:18:34
+Did not create bill for DEEN STORE-D at 5:18:34
+Did not create bill for BISMI STORE-D-D at 5:18:34
+Did not create bill for RANI STORE-D at 5:18:34
+Did not create bill for SANTHI MALLIGAI-D at 5:18:34
+Did not create bill for BALAJI MALIGAI-D at 5:18:34
+Did not create bill for NEW ADAIKALAM MALIGAI-D at 5:18:34
+Did not create bill for MURUGAN  STORE PON-D-D at 5:18:34
+Did not create bill for SHANMUGA  STORE-D-D-D-D at 5:18:34
+Did not create bill for VIGNESH STORE-D at 5:18:34
+Did not create bill for YASMIN  STORE-D at 5:18:34
+Did not create bill for JEYASRI MALIGAI-D-D at 5:18:34
+Did not create bill for SIVAMALAIGAI-D-D at 5:18:34
+Did not create bill for Vanitha Maligai Store-D at 5:18:34
+Did not create bill for KRISHANTH SUPER MARKET-D at 5:18:34
+Did not create bill for JANANI MARKETING-D at 5:18:34
+Did not create bill for PAVIN STORE-D at 5:18:34
+Generating SOAO extract
+Generated SOAO extract successfully
+Order import process ended 5:18:35

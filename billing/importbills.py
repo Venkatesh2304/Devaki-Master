@@ -74,9 +74,10 @@ class ikea(classes.ikea):
         coll_report["party"] = coll_report["Party Name"].str.replace(" ","")
         coll_report = coll_report[~coll_report.Status.isin(["PND","CAN"])]
         coll_report = coll_report.dropna(subset="Collection Date")
+        coll_report["Collection Date"] = pd.to_datetime( coll_report["Collection Date"] , format="%d/%m/%Y" )
         coll_report["days"] = (coll_report["Collection Date"] - coll_report["Date"]).dt.days
         coll_report.to_excel("coll_report.xlsx",index=False)
-        print( coll_report["days"] )
+        # print( coll_report )
         for party in cr_lock_parties :
             #if party in valid_partys.keys():
                 
