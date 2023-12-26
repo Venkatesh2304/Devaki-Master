@@ -16,9 +16,9 @@
     "outstanding_download" : { 
         'jsonData': '[]' , 
         'jsonObjforheaders' : '[]' ,
-        'jsonObjfileInfi': '[{"title":"Outstanding Report-Salesman Wise ,Outstanding Report,Outstanding Summary","reportfilename":"Outstanding Report","viewpage":"report/outstanding","viewname":"OUT_STANDING_REPORT","querycount":"2"}]' ,
-        'jsonObjWhereClause' : '{":val1":"Beat Wise",":val2":"Party Level",":val3":"",":val4":"_beats_",":val5":"",":val6":"",":val7":"",":val8":"2018-04-01",":val9":"_date_",":val10":"2018-04-01",":val11":"_date_",":val12":"None",":val13":"Equals",":val14":"0.00",":val15":"Active",":val16":"Excel",":val17":""}',
-        'orderBy': '[Salesman],[Party Name], CONVERT(DATETIME,[Bill Date],103)'
+        'jsonObjfileInfi': '[{"title":"Outstanding Report-Beat Wise ,Outstanding Report,Outstanding Summary","reportfilename":"Outstanding Report","viewpage":"report/outstanding","viewname":"OUT_STANDING_REPORT","querycount":"2"}]' ,
+        'jsonObjWhereClause' : '{":val1":"Beat wise",":val2":"Party Level",":val3":"",":val4":"_beats_",":val5":"",":val6":"",":val7":"",":val8":"2018-04-01",":val9":"_date_",":val10":"2018-04-01",":val11":"_date_",":val12":"None",":val13":"Equals",":val14":"0.00",":val15":"Active",":val16":"Excel",":val17":""}',
+        'orderBy': '[Beat Name],[Party Name], CONVERT(DATETIME,[Bill Date],103)'
     } ,
     "partymaster_download" : { 
          'jsonData': "[]",

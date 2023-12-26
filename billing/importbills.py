@@ -72,8 +72,9 @@ class ikea(classes.ikea):
         creditlock = {}
         coll_report = self.collection_report( self.today )
         coll_report["party"] = coll_report["Party Name"].str.replace(" ","")
-        coll_report["days"] = (coll_report["Collection Date"] - coll_report["Date"]).dt.days
         coll_report = coll_report[~coll_report.Status.isin(["PND","CAN"])]
+        coll_report = coll_report.dropna(subset="Collection Date")
+        coll_report["days"] = (coll_report["Collection Date"] - coll_report["Date"]).dt.days
         coll_report.to_excel("coll_report.xlsx",index=False)
         print( coll_report["days"] )
         for party in cr_lock_parties :

@@ -196,6 +196,7 @@ class ikea(Session) :
                       data={"divisionId": 0, "salesmanId": int(id) }).json()
              
         beats_data = pd.DataFrame(beats_data)
+        beats_data.to_excel("beats.xlsx",index=False)
        
         filteredBeats = list(set(beats_data[beats_data[day] != '0']["beatId"]))       
         

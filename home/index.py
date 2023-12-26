@@ -54,7 +54,9 @@ app.config["JWT_COOKIE_CSRF_PROTECT"] = False
 
 # functions
 # date parser
-def dateParser(date): return datetime.strptime(date, "%Y-%m-%d")
+def dateParser(date): 
+    return datetime.strptime(date, "%Y-%m-%d")
+
 def SendExcel(df,download_name):
      output = BytesIO()
      with pd.ExcelWriter(output, engine='xlsxwriter') as writer : 
