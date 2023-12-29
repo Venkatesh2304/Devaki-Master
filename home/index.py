@@ -225,8 +225,14 @@ def Outstanding():
 def CreditLock():
     return ikea().creditlock()
 
+@app.route("/basepack", methods=["GET"])
+@jwt_required()
+def BasePack():
+    return ikea().basepack()
+
+
 
 
 webbrowser.open("http://localhost:5002/")
 if __name__ == '__main__':
-    app.run(debug=False,port=5002,host="0.0.0.0")
+    app.run(debug=True,port=5002,host="0.0.0.0")

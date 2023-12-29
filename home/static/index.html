@@ -45,6 +45,7 @@
                 <li class="nav-item mt-0 mb-0 h3"><a class="nav-link" href="#"> Eway </a></li>
                 <li class="nav-item mt-0 mb-0 h3"><a class="nav-link" href="#"> Outstanding </a></li>
                 <li class="nav-item mt-0 mb-0 h3"><a class="nav-link" href="#"> Credit Lock </a></li>
+                <li class="nav-item mt-0 mb-0 h3"><a class="nav-link" href="#"> BasePack </a></li>
                 <li class="nav-item mt-0 mb-0 h3"><a class="nav-link" href="/update"> Configuration </a></li>
             </ul>
         </div>
@@ -114,6 +115,10 @@
 
     <section class="d-none d-flex justify-content-center" id="CreditLock">
            <button  @click="generateCreditLock" class="btn btn-success btn-lg"> CreditLock </button>
+    </section>
+
+    <section class="d-none d-flex justify-content-center" id="BasePack">
+        <button  @click="generateBasePack" class="btn btn-success btn-lg"> BasePack </button>
     </section>
 
     <button type="button" id="ewayLoginToggle" data-toggle="modal" data-target="#ewayLogin" hidden> </button>
@@ -298,6 +303,13 @@
                            x = res ; 
                            var data   =  res.data ;   
                            alert( "Total Modified Shops :: " + data["count"].toString() )   
+                    })
+                } ,
+                generateBasePack() { 
+                    alert("The process is going , after finish u will recieve alert box")
+                    axios.get("/basepack").then( async (res) => { 
+                           var data   =  res.data ;   
+                           alert(" Activated :: " + data["ACTIVE"].toString() + "\n Inactivated :: " + data["INACTIVE"].toString() )   
                     })
                 }
             },
