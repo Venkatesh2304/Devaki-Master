@@ -2,11 +2,14 @@ from collections import defaultdict
 import hashlib
 from io import BytesIO, StringIO
 import json
+from openpyxl import load_workbook
 import logging
 from Session import *
 from datetime import datetime
 import pandas as pd 
 from flask import jsonify
+from styleframe import StyleFrame, utils
+
 from flask import send_file
 import openpyxl
 try :
@@ -251,6 +254,64 @@ class ikea(Session) :
         logging.debug(f"The file upload response for Invalid Excel Sheet is excel contains error but uploaded")
         logging.debug(f"HTML file response means the account is logged out")
         return  jsonify({ "count" : len(creditlock.index)  , "res" : res }) , 200   
+       
+      def basepack(self) :
+        durl = self.post("/rsunify/app/reportsController/generatereport" , data = self.ajax("current_stock",{"date" : datetime.now().strftime("%Y-%m-%d")})).text 
+        stock =  pd.read_excel( self.download( durl ) )["Basepack Code"].dropna().astype(int)
+        stock = set(stock)
+
+        durl = self.post("/rsunify/app/reportsController/generatereport" , data = self.ajax("basepack")).text         
+        wb = load_workbook(self.download( durl ) , data_only = True)
+        sh = wb['Basepack Information']
+        rows = sh.values
+        basepack = pd.DataFrame( columns=next(rows) , data = rows )
+
+        color_in_hex = [cell.fill.start_color.index for cell in sh['A:A']]
+        basepack["color"] = pd.Series( color_in_hex[1:])
+        basepack = basepack[ basepack["color"] != 52 ]
+        basepack["new_status"] = basepack["BasePack Code"].astype(int).isin(stock)
+        
+        basepack = basepack[ basepack["new_status"] != (basepack["Status"] == "ACTIVE") ]
+        basepack["Status"] = basepack["Status"].replace({ "ACTIVE" : "INACTIVE_x" , "INACTIVE" : "ACTIVE_x" })
+        basepack["Status"] = basepack["Status"].str.split("_").str[0] 
+        basepack = basepack[ list(basepack.columns)[5:11] ]
+        basepack = basepack.astype({"BasePack Code":str,"SeqNo":int,"MOQ":int})
+        
+
+        output = BytesIO()
+        writer = pd.ExcelWriter(output,engine='xlsxwriter')
+        basepack.to_excel(writer,index=False,sheet_name="Basepack Information")
+        writer.save()
+        output.seek(0)
+ 
+        files = { "file" : ("basepack.xlsx", output ,'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet')  }
+        res = self.post("/rsunify/app/basepackInformation/uploadFile", files = files ).text 
+        print( "Upload Response : "  , res )
+        return jsonify( { "ACTIVE":0,"INACTIVE":0 } | basepack["Status"].value_counts().to_dict() )
+  
+        
+
+
+
+        # BasePack Code 
+        print( basepack.iloc[0] ) 
+
+
+
+
+
+        config = configs.find_one({"username" : self.user})["creditlock"] 
+        default = config["OTHERS"]
+        del config["OTHERS"]
+        config = dict(sorted(config.items(), key=lambda item:  item[1] if item[1] != 0 else 10000 , reverse=True))
+        
+        partyMaster = pd.read_excel("party.xlsx" , skiprows = 9)
+        partyMaster["PAR CODE HLL"] = partyMaster["HUL Code"]
+
+        creditlock_binary = self.download(url)
+        creditlock = pd.read_excel(creditlock_binary)
+        
+
 
 class ESession(Session) : 
       def __init__(self,key,home,_user,_pwd,_salt,_captcha) :  
