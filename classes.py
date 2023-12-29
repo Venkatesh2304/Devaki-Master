@@ -276,7 +276,7 @@ class ikea(Session) :
         basepack["Status"] = basepack["Status"].str.split("_").str[0] 
         basepack = basepack[ list(basepack.columns)[5:11] ]
         basepack = basepack.astype({"BasePack Code":str,"SeqNo":int,"MOQ":int})
-        
+        basepack.to_excel("basepack.xlsx",index=False,sheet_name="Basepack Information")
 
         output = BytesIO()
         writer = pd.ExcelWriter(output,engine='xlsxwriter')
@@ -289,29 +289,6 @@ class ikea(Session) :
         print( "Upload Response : "  , res )
         return jsonify( { "ACTIVE":0,"INACTIVE":0 } | basepack["Status"].value_counts().to_dict() )
   
-        
-
-
-
-        # BasePack Code 
-        print( basepack.iloc[0] ) 
-
-
-
-
-
-        config = configs.find_one({"username" : self.user})["creditlock"] 
-        default = config["OTHERS"]
-        del config["OTHERS"]
-        config = dict(sorted(config.items(), key=lambda item:  item[1] if item[1] != 0 else 10000 , reverse=True))
-        
-        partyMaster = pd.read_excel("party.xlsx" , skiprows = 9)
-        partyMaster["PAR CODE HLL"] = partyMaster["HUL Code"]
-
-        creditlock_binary = self.download(url)
-        creditlock = pd.read_excel(creditlock_binary)
-        
-
 
 class ESession(Session) : 
       def __init__(self,key,home,_user,_pwd,_salt,_captcha) :  
