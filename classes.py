@@ -2,6 +2,7 @@ from collections import defaultdict
 import hashlib
 from io import BytesIO, StringIO
 import json
+import time
 from openpyxl import load_workbook
 import logging
 from Session import *
@@ -253,9 +254,40 @@ class ikea(Session) :
         logging.debug(f"The file upload response for Invalid Excel Sheet is excel contains error but uploaded")
         logging.debug(f"HTML file response means the account is logged out")
         return  jsonify({ "count" : len(creditlock.index)  , "res" : res }) , 200   
-       
+      
+      def beatExport(self,today_str) : 
+          ## Beat Export 
+          export_data = {"fromDate":today_str,"toDate":today_str}
+          self.post("/rsunify/app/quantumExport/checkBeatLink",
+                    data = {'exportData': json.dumps(export_data) })
+          self.post("/rsunify/app/sfmIkeaIntegration/callSfmIkeaIntegrationSync")
+          self.post("/rsunify/app/sfmIkeaIntegration/checkEmpStatus")
+
+          sm = self.post("/rsunify/app/quantumExport/getSalesmanData", 
+                    data={"exportData": json.dumps(export_data) }).json()
+          sm = ",".join( i[0]  for i in sm )
+          self.post("/rsunify/app/ikeaCommonUtilController/qocRepopulation")
+          export_num = self.post("/rsunify/app/quantumExport/startExport",
+                       data = {"exportData": json.dumps(export_data | {"salesManId": sm ,"beatId":"-1"}) } ).json()
+          while True : 
+                status = self.post("/rsunify/app/quantumExport/getExportStatus",{"processId": export_num}).json()
+                if status == ["0","0","1"] : 
+                  print("Beat Export Completed")
+                  return None 
+                time.sleep(10)
+                print("In Progress :: ", status )
+
+      def orderSync(self) : 
+          self.post("/rsunify/app/sfmIkeaIntegration/callSfmIkeaIntegrationSync")
+          self.post("/rsunify/app/api/callikeatocommoutletcreationallapimethods")
+          sync_status = self.post("/rsunify/app/fileUploadId/upload").text.split("$del")[0]
+          print( "Order Sync Status :: " , sync_status )
+
+
+
       def basepack(self) :
-        durl = self.post("/rsunify/app/reportsController/generatereport" , data = self.ajax("current_stock",{"date" : datetime.now().strftime("%Y-%m-%d")})).text 
+        today_str = datetime.now().strftime("%Y-%m-%d")
+        durl = self.post("/rsunify/app/reportsController/generatereport" , data = self.ajax("current_stock",{"date" : today_str })).text 
         stock =  pd.read_excel( self.download( durl ) )
         stock_original = stock.copy()
         stock = set(stock["Basepack Code"].dropna().astype(int))
@@ -295,9 +327,13 @@ class ikea(Session) :
            print( "Upload Response : "  , res[:250] )
         else : 
             print("nothing to upload basepack")
-        print( basepack["Status"].value_counts().to_dict() )
+
+        self.beatExport(today_str)
+        self.orderSync()
+
+        print( "Changed : " ,  basepack["Status"].value_counts().to_dict() )
         output.seek(0)
-        return send_file( output , as_attachment=True , download_name="Basepack.xlsx")
+        return send_file( output , as_attachment=True , download_name="Basepack.xlsx") 
         #return jsonify( { "ACTIVE":0,"INACTIVE":0 } | basepack["Status"].value_counts().to_dict() )
   
 
