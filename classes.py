@@ -256,37 +256,49 @@ class ikea(Session) :
        
       def basepack(self) :
         durl = self.post("/rsunify/app/reportsController/generatereport" , data = self.ajax("current_stock",{"date" : datetime.now().strftime("%Y-%m-%d")})).text 
-        stock =  pd.read_excel( self.download( durl ) )["Basepack Code"].dropna().astype(int)
-        stock = set(stock)
+        stock =  pd.read_excel( self.download( durl ) )
+        stock_original = stock.copy()
+        stock = set(stock["Basepack Code"].dropna().astype(int))
 
         durl = self.post("/rsunify/app/reportsController/generatereport" , data = self.ajax("basepack")).text         
         wb = load_workbook(self.download( durl ) , data_only = True)
         sh = wb['Basepack Information']
         rows = sh.values
         basepack = pd.DataFrame( columns=next(rows) , data = rows )
+        basepack_original = basepack.copy()
 
         color_in_hex = [cell.fill.start_color.index for cell in sh['A:A']]
         basepack["color"] = pd.Series( color_in_hex[1:])
         basepack = basepack[ basepack["color"] != 52 ]
         basepack["new_status"] = basepack["BasePack Code"].astype(int).isin(stock)
+        ##Dummy to change the status forcefully 
+        #basepack.loc[ basepack.index == 1 ,"new_status"] = ~basepack[ basepack.index == 1 ]["new_status"]
         
         basepack = basepack[ basepack["new_status"] != (basepack["Status"] == "ACTIVE") ]
+        basepack.to_excel("basepack.xlsx",index=False,sheet_name="Basepack Information")      
         basepack["Status"] = basepack["Status"].replace({ "ACTIVE" : "INACTIVE_x" , "INACTIVE" : "ACTIVE_x" })
         basepack["Status"] = basepack["Status"].str.split("_").str[0] 
         basepack = basepack[ list(basepack.columns)[5:11] ]
         basepack = basepack.astype({"BasePack Code":str,"SeqNo":int,"MOQ":int})
-        basepack.to_excel("basepack.xlsx",index=False,sheet_name="Basepack Information")
+        #basepack.to_excel("basepack.xlsx",index=False,sheet_name="Basepack Information")
 
         output = BytesIO()
         writer = pd.ExcelWriter(output,engine='xlsxwriter')
         basepack.to_excel(writer,index=False,sheet_name="Basepack Information")
+        basepack_original.to_excel(writer,index=False,sheet_name="basepack_original")
+        stock_original.to_excel(writer,index=False,sheet_name="currentstock")
         writer.save()
         output.seek(0)
- 
-        files = { "file" : ("basepack.xlsx", output ,'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet')  }
-        res = self.post("/rsunify/app/basepackInformation/uploadFile", files = files ).text 
-        print( "Upload Response : "  , res )
-        return jsonify( { "ACTIVE":0,"INACTIVE":0 } | basepack["Status"].value_counts().to_dict() )
+        if len(basepack.index) : 
+           files = { "file" : ("basepack.xlsx", output ,'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet')  }
+           res = self.post("/rsunify/app/basepackInformation/uploadFile", files = files ).text 
+           print( "Upload Response : "  , res[:250] )
+        else : 
+            print("nothing to upload basepack")
+        print( basepack["Status"].value_counts().to_dict() )
+        output.seek(0)
+        return send_file( output , as_attachment=True , download_name="Basepack.xlsx")
+        #return jsonify( { "ACTIVE":0,"INACTIVE":0 } | basepack["Status"].value_counts().to_dict() )
   
 
 class ESession(Session) : 

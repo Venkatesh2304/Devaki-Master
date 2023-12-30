@@ -306,10 +306,9 @@
                     })
                 } ,
                 generateBasePack() { 
-                    alert("The process is going , after finish u will recieve alert box")
-                    axios.get("/basepack").then( async (res) => { 
-                           var data   =  res.data ;   
-                           alert(" Activated :: " + data["ACTIVE"].toString() + "\n Inactivated :: " + data["INACTIVE"].toString() )   
+                    alert("To start process , click Ok")
+                    axios.get("/basepack" ,  { responseType: "blob"}).then((res) =>{ 
+                         download(res.data,"Basepack.xlsx")
                     })
                 }
             },
