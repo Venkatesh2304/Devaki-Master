@@ -11,12 +11,13 @@ from requests import Request
 from pymongo import MongoClient
 from pprint import pformat as _pformat 
 from flask_jwt_extended import get_jwt_identity
+import certifi
  
 #get_jwt_identity = lambda : "a"
 
 
 logging.debug("MongoDB Connecting ...")
-client = MongoClient("mongodb+srv://venkatesh2004:venkatesh2004@cluster0.9x1ccpv.mongodb.net/?retryWrites=true&w=majority")
+client = MongoClient("mongodb+srv://venkatesh2004:venkatesh2004@cluster0.9x1ccpv.mongodb.net/?retryWrites=true&w=majority" , tlsCAFile = certifi.where() )
 logging.debug("MongoDB Connected Successfully")
 
 ymd = lambda date : date.strftime("%Y%m%d")
