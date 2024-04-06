@@ -9,9 +9,19 @@
     "getcrlock" : '/rsunify/app/billing/partyplgdatas?partyCode=_partyCode_&parCodeRef=_parCodeRef_&parHllCode=_parHllCode_&plgFlag=true&salChnlCode=&showPLG=_showPLG_&isMigration=true' ,
     "setcrlock" : '/rsunify/app/billing/updatepartyinfo?partyCodeRef=_parCodeRef_&creditBills=_newlimit_&creditLimit=_creditLimit_&creditDays=0&panNumber=&servicingPlgValue=_showPLG_&plgPartyCredit=true&parHllCode=_parCodeHll_' ,
     "getshikhar" : {"uniqueId":0,"importDate":"_importDate_","sourceOfOrder":"'R'"} , 
-    "getdelivery" : { 
-        "parId":"","blhFromDt":"","blhToDt":"","localityId":"","beatName":"","salesmanNameList":[],"beatNameList":[],"locNameList":[],"shakthiBusiness":"N","blhSourceOfOrder":99,"optimusSelect":0,"vehId":"1"
-    } , 
+    "getdelivery" : {
+    'blhFromDt': '',
+    'blhToDt': '',
+    'localityId': '',
+    'beatName': '',
+    'salesmanNameList': [],
+    'beatNameList': [],
+    'locNameList': [],
+    'shakthiBusiness': 'N',
+    'blhSourceOfOrder': -1,
+    'optimusSelect': 0,
+    'vehId': 0,
+} , 
     "getmarketorder" : {
        "qtmBeatList":[],"qtmSalesList":[],"qtmPartyList":[],"orderDate":"_orderDate_","importDate":"_importDate_","futureData":False,"uniqueId":0,
        "qtmPONumberList":[],"qtmShikharList":[],"sourceOfOrder":"'R','N','B'","paymentType":"ALL","isRaPartialBilled":0

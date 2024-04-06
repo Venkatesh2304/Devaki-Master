@@ -168,6 +168,8 @@ class ikea(classes.ikea):
             "%d/%m/%Y")}, _set, upsert=True)
 
     def Sync(self):
+        # print( self.post("/rsunify/app/deliveryprocess/billsToBeDeliver", 
+                            #  json=self.ajax("getdelivery")).json() )
         return self.post('/rsunify/app/fileUploadId/download')
 
     def Prevbills(self):
@@ -275,7 +277,6 @@ class ikea(classes.ikea):
         return self.creditlock_data
 
     def Delivery(self):
-        
         delivery = self.post("/rsunify/app/deliveryprocess/billsToBeDeliver",
                              json=self.ajax("getdelivery")).json()["billHdBeanList"] #
         if delivery is None:
@@ -303,8 +304,10 @@ class ikea(classes.ikea):
             f.write(self.download(self.get(self.ajax("billpdf", {
                     'billfrom': self.billfrom, 'billto': self.billto})).text).getbuffer())
         with open("bill.txt", "wb+") as f:
-            f.write(self.download(self.get(self.ajax("billtxt", {
-                    'billfrom': self.billfrom, 'billto': self.billto})).text).getbuffer())
+            x = self.get(self.ajax("billtxt", {
+                    'billfrom': self.billfrom, 'billto': self.billto})).text
+            print("Download link :: " ,x)
+            f.write(self.download(x).getbuffer())
 
     def Printbill(self, print_type={"original": 0, "duplicate": 0}):
         if not self.bills:

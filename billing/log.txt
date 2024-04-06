@@ -1,1524 +1,371 @@
 Load Process Started
-Did not create bill for KUMAR STOREwss-D-D as party is in Dummy Beat
 Load Process Completed
-Load Process Started
-Did not create bill for KUMAR STOREwss-D-D as party is in Dummy Beat
-Load Process Completed
-Load Process Started
-Load Process Completed
-Load Process Started
-Load Process Completed
-Load Process Started
-Did not create bill for KUMAR STOREwss-D-D as party is in Dummy Beat
-Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 10:18:7
-Starting bill for ARVIND AGENCY at 10:18:9
-Created bill  ABC57057 for ARVIND AGENCY at 10:18:11
+Order import process started 10:15:52
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, SRI SANKAR STORE-D
+Starting bill for JAYA BHARATHI STORE-D-D at 10:15:55
+Created bill  A01249 for JAYA BHARATHI STORE-D-D at 10:15:57
+Did not create bill for TRICHY KALANGHIYAM SUPER MARKET at 10:15:57
+Starting bill for Murugan Store-D at 10:15:57
+Created bill  A01250 for Murugan Store-D at 10:15:58
+Starting bill for Madha Store-D at 10:15:58
+Created bill  A01251 for Madha Store-D at 10:16:1
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 10:18:11
-Load Process Started
-Did not create bill for KUMAR STOREwss-D-D as party is in Dummy Beat
-Load Process Completed
+Order import process ended 10:16:2
 Load Process Started
 Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 10:51:17
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Starting bill for Dr.Choice Medical at 10:51:20
-Created bill  ABC57058 for Dr.Choice Medical at 10:51:20
-Starting bill for MEERA STORE at 10:51:20
-Created bill  ABC57059 for MEERA STORE at 10:51:21
-Did not create bill for JAFFER  STORE-D-D-D-D at 10:51:21
-Starting bill for RASI  MALIGAI-D-D at 10:51:21
-Created bill  ABC57060 for RASI  MALIGAI-D-D at 10:51:21
-Starting bill for THANALIXMI STORE-D at 10:51:21
-Created bill  ABC57061 for THANALIXMI STORE-D at 10:51:21
-Starting bill for ANTHONY MALIGAI-D at 10:51:22
-Created bill  ABC57062 for ANTHONY MALIGAI-D at 10:51:22
-Starting bill for MEERA STORE at 10:51:22
-Created bill  ABC57063 for MEERA STORE at 10:51:23
-Did not create bill for MATHA  STORE KTR 1-D-D at 10:51:23
-Did not create bill for MATHA  STORE KTR 1-D-D at 10:51:23
-Did not create bill for SARIFA STORE-D at 10:51:23
-Did not create bill for BHARATH MEDICAL-D at 10:51:23
-Did not create bill for SELVAMMALIGAI-D-D-D-D at 10:51:23
-Starting bill for MEERA STORE at 10:51:23
-Created bill  ABC57064 for MEERA STORE at 10:51:24
+Order import process started 10:30:33
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, SRI SANKAR STORE-D
+Starting bill for MATHA TEA STALL- BHEL-D-D at 10:30:36
+Created bill  A01252 for MATHA TEA STALL- BHEL-D-D at 10:30:37
+Did not create bill for TRICHY KALANGHIYAM SUPER MARKET at 10:30:37
+Starting bill for MURALITHARAN MALIGAI-D at 10:30:37
+Created bill  A01253 for MURALITHARAN MALIGAI-D at 10:30:37
+Starting bill for SELVAGANAPATHY MEDICAL--D-D-D at 10:30:38
+Created bill  A01254 for SELVAGANAPATHY MEDICAL--D-D-D at 10:30:38
+Starting bill for S M MALIGAI-D at 10:30:38
+Created bill  A01255 for S M MALIGAI-D at 10:30:39
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 10:51:25
+Order import process ended 10:30:39
 Load Process Started
 Load Process Completed
-Order import process started 11:6:15
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Starting bill for BALAJI STORE-D-D-D-D at 11:6:18
-Created bill  ABC57065 for BALAJI STORE-D-D-D-D at 11:6:18
-Did not create bill for JAFFER  STORE-D-D-D-D at 11:6:18
-Starting bill for Anu Store-D at 11:6:18
-Created bill  ABC57066 for Anu Store-D at 11:6:18
-Did not create bill for MATHA  STORE KTR 1-D-D at 11:6:19
-Did not create bill for POONKODY STORE -AK-D-D at 11:6:19
-Did not create bill for MATHA  STORE KTR 1-D-D at 11:6:19
-Did not create bill for SARIFA STORE-D at 11:6:19
-Did not create bill for BHARATH MEDICAL-D at 11:6:19
-Did not create bill for SELVAMMALIGAI-D-D-D-D at 11:6:19
-Starting bill for THANGARAJSTORES-D-D-D-D at 11:6:19
-Created bill  ABC57067 for THANGARAJSTORES-D-D-D-D at 11:6:19
+Order import process started 10:45:36
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, SRI SANKAR STORE-D
+Did not create bill for TRICHY KALANGHIYAM SUPER MARKET at 10:45:39
+Did not create bill for NN Traders at 10:45:39
+Starting bill for KAVERI STORE-D-D-D at 10:45:39
+Created bill  A01256 for KAVERI STORE-D-D-D at 10:45:40
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 11:6:20
+Order import process ended 10:45:40
 Load Process Started
 Load Process Completed
-Order import process started 11:21:17
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Did not create bill for JAFFER  STORE-D-D-D-D at 11:21:19
-Did not create bill for MATHA  STORE KTR 1-D-D at 11:21:19
-Did not create bill for POONKODY STORE -AK-D-D at 11:21:19
-Did not create bill for Lakshmi Maligai-D at 11:21:19
-Starting bill for ABBAS MALIGAI-D-D at 11:21:19
-Created bill  ABC57068 for ABBAS MALIGAI-D-D at 11:21:19
-Did not create bill for MATHA  STORE KTR 1-D-D at 11:21:19
-Did not create bill for SARIFA STORE-D at 11:21:19
-Did not create bill for BHARATH MEDICAL-D at 11:21:19
-Did not create bill for SELVAMMALIGAI-D-D-D-D at 11:21:19
-Starting bill for VARSHIKA MALIGAI at 11:21:20
-Created bill  ABC57069 for VARSHIKA MALIGAI at 11:21:20
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Order import process started 10:52:4
+Starting bill for VIVEGETABLES MAR-D at 10:52:6
+Created bill  A01257 for VIVEGETABLES MAR-D at 10:52:6
+Starting bill for ANNANI PHARMACY at 10:52:6
+Created bill  A01258 for ANNANI PHARMACY at 10:52:7
+Starting bill for LINGAM STORE-MUTHALIYARCHATR-D-D at 10:52:7
+Created bill  A01259 for LINGAM STORE-MUTHALIYARCHATR-D-D at 10:52:7
+Starting bill for RAVINDRAN  STORE-D-D-D-D at 10:52:8
+Created bill  A01260 for RAVINDRAN  STORE-D-D-D-D at 10:52:8
+Starting bill for JAZZ  MALIGAI-D-D at 10:52:8
+Created bill  A01261 for JAZZ  MALIGAI-D-D at 10:52:9
+Starting bill for SP Maligai at 10:52:9
+Created bill  A01262 for SP Maligai at 10:52:10
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 11:21:21
+Order import process ended 10:52:11
 Load Process Started
 Load Process Completed
-Order import process started 11:31:57
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Starting bill for KUMARAN STORE-D-D at 11:32:0
-Created bill  ABC57070 for KUMARAN STORE-D-D at 11:32:1
-Did not create bill for JAFFER  STORE-D-D-D-D at 11:32:1
-Did not create bill for MATHA  STORE KTR 1-D-D at 11:32:1
-Starting bill for POONKODY STORE -AK-D-D at 11:32:1
-Created bill  ABC57071 for POONKODY STORE -AK-D-D at 11:32:1
-Did not create bill for SRI BALAMURUGAN MALIGAI STORES-D at 11:32:2
-Did not create bill for CHINNAYA  BEEDA STALL-D at 11:32:2
-Starting bill for Lakshmi Maligai-D at 11:32:2
-Created bill  ABC57072 for Lakshmi Maligai-D at 11:32:2
-Did not create bill for MATHA  STORE KTR 1-D-D at 11:32:2
-Starting bill for SARIFA STORE-D at 11:32:2
-Created bill  ABC57073 for SARIFA STORE-D at 11:32:2
-Starting bill for BHARATH MEDICAL-D at 11:32:2
-Created bill  ABC57074 for BHARATH MEDICAL-D at 11:32:2
-Starting bill for SELVAMMALIGAI-D-D-D-D at 11:32:2
-Created bill  ABC57075 for SELVAMMALIGAI-D-D-D-D at 11:32:3
+Order import process started 11:0:29
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, SRI SANKAR STORE-D
+Did not create bill for SARAVANA  BAVA  FANCY-D-D at 11:0:33
+Did not create bill for TRICHY KALANGHIYAM SUPER MARKET at 11:0:33
+Did not create bill for NN Traders at 11:0:33
+Did not create bill for RAJA STORE- ARIY-D-D at 11:0:33
+Starting bill for Kalaimathi-D at 11:0:33
+Created bill  A01263 for Kalaimathi-D at 11:0:34
+Starting bill for TAP STORE-D-D at 11:0:34
+Created bill  A01264 for TAP STORE-D-D at 11:0:34
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 11:32:3
+Order import process ended 11:0:35
 Load Process Started
 Load Process Completed
-Order import process started 11:46:58
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Starting bill for MODERN-D at 11:47:1
-Created bill  ABC57076 for MODERN-D at 11:47:3
-Starting bill for ANNAI VELANKANNI STORE-D at 11:47:3
-Created bill  ABC57077 for ANNAI VELANKANNI STORE-D at 11:47:3
-Starting bill for VIJAYA  STORE-D-D at 11:47:4
-Created bill  ABC57078 for VIJAYA  STORE-D-D at 11:47:5
-Did not create bill for JAFFER  STORE-D-D-D-D at 11:47:5
-Did not create bill for MATHA  STORE KTR 1-D-D at 11:47:5
-Starting bill for NEW  KAREEM  STORE-D-D-D-D at 11:47:5
-Created bill  ABC57079 for NEW  KAREEM  STORE-D-D-D-D at 11:47:6
-Did not create bill for SRI BALAMURUGAN MALIGAI STORES-D at 11:47:6
-Starting bill for SARAVANA STORE-D-D at 11:47:6
-Created bill  ABC57080 for SARAVANA STORE-D-D at 11:47:6
-Starting bill for ANANTHA GENTRAL STORE-D at 11:47:6
-Created bill  ABC57081 for ANANTHA GENTRAL STORE-D at 11:47:6
-Did not create bill for CHINNAYA  BEEDA STALL-D at 11:47:6
-Starting bill for THURUMURUGAN MALIGAI at 11:47:6
-Created bill  ABC57082 for THURUMURUGAN MALIGAI at 11:47:7
-Did not create bill for MATHA  STORE KTR 1-D-D at 11:47:7
-Starting bill for NEW VETRIVEL MEDCALS-D at 11:47:7
-Created bill  ABC57083 for NEW VETRIVEL MEDCALS-D at 11:47:7
+Order import process started 11:15:40
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, SRI SANKAR STORE-D
+Did not create bill for SARAVANA  BAVA  FANCY-D-D at 11:15:43
+Did not create bill for TRICHY KALANGHIYAM SUPER MARKET at 11:15:43
+Did not create bill for NN Traders at 11:15:44
+Did not create bill for RAJA STORE- ARIY-D-D at 11:15:44
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 11:47:9
+Order import process ended 11:15:44
 Load Process Started
 Load Process Completed
-Order import process started 0:2:4
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Starting bill for THULIR SUPER MARKET at 0:2:6
-Created bill  ABC57084 for THULIR SUPER MARKET at 0:2:7
-Starting bill for Ibrahim Store-D at 0:2:7
-Created bill  ABC57085 for Ibrahim Store-D at 0:2:7
-Did not create bill for JAFFER  STORE-D-D-D-D at 0:2:7
-Did not create bill for SRI  RAM  MALIGAI-D-D-D-D at 0:2:7
-Starting bill for DEENA MALIGAI-D at 0:2:7
-Created bill  ABC57086 for DEENA MALIGAI-D at 0:2:7
-Starting bill for A R S MALIGAI-D at 0:2:7
-Created bill  ABC57087 for A R S MALIGAI-D at 0:2:7
-Starting bill for ALAGAPPAN MALAIGAI-D-D-D-D at 0:2:7
-Created bill  ABC57088 for ALAGAPPAN MALAIGAI-D-D-D-D at 0:2:8
-Starting bill for NEW CHITRA STORE(SVS)-D-D-D at 0:2:8
-Created bill  ABC57089 for NEW CHITRA STORE(SVS)-D-D-D at 0:2:8
-Did not create bill for MATHA  STORE KTR 1-D-D at 0:2:8
-Did not create bill for SRI BALAMURUGAN MALIGAI STORES-D at 0:2:8
-Starting bill for ARUN STORE-D-D at 0:2:8
-Created bill  ABC57090 for ARUN STORE-D-D at 0:2:9
-Did not create bill for CHINNAYA  BEEDA STALL-D at 0:2:9
-Starting bill for Bunitha Maligai-D at 0:2:9
-Created bill  ABC57091 for Bunitha Maligai-D at 0:2:10
-Did not create bill for MATHA  STORE KTR 1-D-D at 0:2:10
-Starting bill for MED GREEN PLUS PHARMACY-D at 0:2:10
-Created bill  ABC57092 for MED GREEN PLUS PHARMACY-D at 0:2:10
-Did not create bill for SARAVANA STORE-D-D at 0:2:10
-Starting bill for ARUN STORE-D-D at 0:2:10
-Created bill  ABC57093 for ARUN STORE-D-D at 0:2:11
-Did not create bill for KARIM STORES-D-D-D at 0:2:11
+Order import process started 11:23:19
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, SRI SANKAR STORE-D
+Starting bill for KISHAN RATIONSHOP-D at 11:23:22
+Created bill  A01265 for KISHAN RATIONSHOP-D at 11:23:22
+Did not create bill for SARAVANA  BAVA  FANCY-D-D at 11:23:23
+Starting bill for AMMAN STORE-D-D at 11:23:23
+Created bill  A01266 for AMMAN STORE-D-D at 11:23:23
+Did not create bill for TRICHY KALANGHIYAM SUPER MARKET at 11:23:23
+Did not create bill for PADMA VIKASH at 11:23:23
+Did not create bill for NN Traders at 11:23:23
+Did not create bill for RAJA STORE- ARIY-D-D at 11:23:23
+Did not create bill for PRAKASHAM  MALIGAI-D-D at 11:23:23
+Starting bill for MILTA STORE-D-D-D at 11:23:23
+Created bill  A01267 for MILTA STORE-D-D-D at 11:23:24
+Starting bill for POORANI MEDICAL-D-D-D at 11:23:24
+Created bill  A01268 for POORANI MEDICAL-D-D-D at 11:23:25
+Starting bill for BALU STORE   - AN-D-D at 11:23:25
+Created bill  A01269 for BALU STORE   - AN-D-D at 11:23:26
+Starting bill for RAAMAIYA MALIGAI-D-D at 11:23:26
+Created bill  A01270 for RAAMAIYA MALIGAI-D-D at 11:23:26
+Starting bill for Manikavinayaar Store-D at 11:23:26
+Created bill  A01271 for Manikavinayaar Store-D at 11:23:27
+Starting bill for SREE KRISHNA IYENGARSBAKERY-D at 11:23:27
+Created bill  A01272 for SREE KRISHNA IYENGARSBAKERY-D at 11:23:27
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 0:2:12
+Order import process ended 11:23:27
 Load Process Started
 Load Process Completed
-Order import process started 0:17:0
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Starting bill for ISHWARIAM store-D at 0:17:2
-Created bill  ABC57094 for ISHWARIAM store-D at 0:17:2
-Did not create bill for J.M.J.  STORE-D-D at 0:17:2
-Did not create bill for JAFFER  STORE-D-D-D-D at 0:17:2
-Did not create bill for SRI  RAM  MALIGAI-D-D-D-D at 0:17:2
-Starting bill for AMMAN MALIGAI Store-D at 0:17:2
-Created bill  ABC57095 for AMMAN MALIGAI Store-D at 0:17:3
-Starting bill for MALAR PHARMACY-D at 0:17:3
-Following Locked Category Payout Adjustments were done in this bill QTMBILL for MALAR PHARMACY-D
-44444497, OUTLET_PAY, 100.0
-Created bill  ABC57096 for MALAR PHARMACY-D at 0:17:3
-Did not create bill for MATHA  STORE KTR 1-D-D at 0:17:3
-Did not create bill for NEW R00PAM MEDICALS-D at 0:17:3
-Did not create bill for SRI BALAMURUGAN MALIGAI STORES-D at 0:17:3
-Did not create bill for CHINNAYA  BEEDA STALL-D at 0:17:3
-Starting bill for DEVIKASTORE-D at 0:17:3
-Created bill  ABC57097 for DEVIKASTORE-D at 0:17:4
-Did not create bill for MATHA  STORE KTR 1-D-D at 0:17:4
-Did not create bill for SARAVANA STORE-D-D at 0:17:4
-Starting bill for SMS STORE-D at 0:17:4
-Created bill  ABC57098 for SMS STORE-D at 0:17:5
-Did not create bill for KARIM STORES-D-D-D at 0:17:5
+Order import process started 11:28:44
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, SRI SANKAR STORE-D
+Starting bill for SARAVANA  BAVA  FANCY-D-D at 11:28:46
+Created bill  A01273 for SARAVANA  BAVA  FANCY-D-D at 11:28:48
+Did not create bill for TRICHY KALANGHIYAM SUPER MARKET at 11:28:48
+Did not create bill for PADMA VIKASH at 11:28:48
+Starting bill for NN Traders at 11:28:48
+Created bill  A01274 for NN Traders at 11:28:49
+Starting bill for RAJA STORE- ARIY-D-D at 11:28:49
+Created bill  A01275 for RAJA STORE- ARIY-D-D at 11:28:50
+Starting bill for PRAKASHAM  MALIGAI-D-D at 11:28:50
+Created bill  A01276 for PRAKASHAM  MALIGAI-D-D at 11:28:50
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 0:17:6
+Order import process ended 11:28:50
 Load Process Started
 Load Process Completed
-Order import process started 0:27:46
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, SMS STORE-D
-Starting bill for 20 20 Mart-D at 0:27:48
-Created bill  ABC57099 for 20 20 Mart-D at 0:27:48
-Did not create bill for Selvi Stores Maligai And General Merchant at 0:27:48
-Did not create bill for J.M.J.  STORE-D-D at 0:27:48
-Did not create bill for JAFFER  STORE-D-D-D-D at 0:27:48
-Starting bill for R.K MINI SUPER MARKET-D at 0:27:48
-Created bill  ABC57100 for R.K MINI SUPER MARKET-D at 0:27:48
-Did not create bill for SRI  RAM  MALIGAI-D-D-D-D at 0:27:48
-Did not create bill for S.M.Maligai Stores-D at 0:27:48
-Did not create bill for MATHA  STORE KTR 1-D-D at 0:27:48
-Did not create bill for KASI STORE-D-D-D-D-D at 0:27:48
-Starting bill for NEW R00PAM MEDICALS-D at 0:27:49
-Created bill  ABC57101 for NEW R00PAM MEDICALS-D at 0:27:50
-Did not create bill for SRI BALAMURUGAN MALIGAI STORES-D at 0:27:50
-Starting bill for ABBAS MALIGAI-9894496865-D-D at 0:27:50
-Created bill  ABC57102 for ABBAS MALIGAI-9894496865-D-D at 0:27:51
-Did not create bill for CHINNAYA  BEEDA STALL-D at 0:27:51
-Did not create bill for MATHA  STORE KTR 1-D-D at 0:27:51
-Starting bill for SOWDAMBIGA STORE-D-D-D at 0:27:51
-Created bill  ABC57103 for SOWDAMBIGA STORE-D-D-D at 0:27:51
-Starting bill for SARAVANA STORE-D-D at 0:27:51
-Created bill  ABC57104 for SARAVANA STORE-D-D at 0:27:51
-Did not create bill for NEW S.V.S MALIGAI-D at 0:27:51
-Starting bill for KARIM STORES-D-D-D at 0:27:51
-Created bill  ABC57105 for KARIM STORES-D-D-D at 0:27:52
+Load Process Started
+Load Process Completed
+Order import process started 11:36:14
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, SRI SANKAR STORE-D
+Starting bill for ARVIND AGENCY at 11:36:16
+Created bill  A01277 for ARVIND AGENCY at 11:36:17
+Starting bill for ASOKA TRADING -D-D at 11:36:17
+Created bill  A01278 for ASOKA TRADING -D-D at 11:36:17
+Starting bill for RAJAPRABHU COOL DRINKS-D at 11:36:17
+Created bill  A01279 for RAJAPRABHU COOL DRINKS-D at 11:36:17
+Starting bill for ARVIND AGENCY at 11:36:17
+Created bill  A01280 for ARVIND AGENCY at 11:36:17
+Starting bill for ANANDHA GENERAL MERCHANT-D-D-D at 11:36:18
+Created bill  A01281 for ANANDHA GENERAL MERCHANT-D-D-D at 11:36:19
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 0:27:53
+Order import process ended 11:36:19
 Load Process Started
 Load Process Completed
-Order import process started 0:29:17
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, SMS STORE-D
-Did not create bill for Selvi Stores Maligai And General Merchant at 0:29:19
-Did not create bill for J.M.J.  STORE-D-D at 0:29:19
-Did not create bill for JAFFER  STORE-D-D-D-D at 0:29:19
-Did not create bill for SRI  RAM  MALIGAI-D-D-D-D at 0:29:19
-Did not create bill for S.M.Maligai Stores-D at 0:29:19
-Did not create bill for MATHA  STORE KTR 1-D-D at 0:29:19
-Starting bill for KASI STORE-D-D-D-D-D at 0:29:19
-Created bill  ABC57106 for KASI STORE-D-D-D-D-D at 0:29:20
-Did not create bill for SRI BALAMURUGAN MALIGAI STORES-D at 0:29:20
-Did not create bill for CHINNAYA  BEEDA STALL-D at 0:29:20
-Did not create bill for MATHA  STORE KTR 1-D-D at 0:29:20
-Starting bill for NEW S.V.S MALIGAI-D at 0:29:20
-Created bill  ABC57107 for NEW S.V.S MALIGAI-D at 0:29:20
+Order import process started 11:40:38
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, SRI SANKAR STORE-D
+Starting bill for Mappathi MALIGAI-D at 11:40:40
+Created bill  A01282 for Mappathi MALIGAI-D at 11:40:41
+Did not create bill for TRICHY KALANGHIYAM SUPER MARKET at 11:40:41
+Starting bill for NEW  KAREEM  STORE-D-D-D-D at 11:40:41
+Created bill  A01283 for NEW  KAREEM  STORE-D-D-D-D at 11:40:42
+Did not create bill for SRI BALAMURUGAN MALIGAI STORES-D at 11:40:42
+Starting bill for VELMURUGAN  STORE KT 1-D-D at 11:40:42
+Created bill  A01284 for VELMURUGAN  STORE KT 1-D-D at 11:40:42
+Starting bill for PADMA VIKASH at 11:40:42
+Created bill  A01285 for PADMA VIKASH at 11:40:43
+Starting bill for SHREE KAVI PHARMACY-D at 11:40:43
+Created bill  A01286 for SHREE KAVI PHARMACY-D at 11:40:44
+Starting bill for ALLAVDAINS STORES-D at 11:40:44
+Created bill  A01287 for ALLAVDAINS STORES-D at 11:40:45
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 0:29:21
+Order import process ended 11:40:46
 Load Process Started
 Load Process Completed
-Order import process started 0:41:2
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, SMS STORE-D
-Starting bill for M.G.M MALIGAI-D-D at 0:41:5
-Created bill  ABC57108 for M.G.M MALIGAI-D-D at 0:41:5
-Did not create bill for Selvi Stores Maligai And General Merchant at 0:41:5
-Starting bill for SANTHI PHARMACY-D-D at 0:41:5
-Created bill  ABC57109 for SANTHI PHARMACY-D-D at 0:41:6
-Did not create bill for J.M.J.  STORE-D-D at 0:41:6
-Did not create bill for JAFFER  STORE-D-D-D-D at 0:41:6
-Did not create bill for SRI  RAM  MALIGAI-D-D-D-D at 0:41:6
-Did not create bill for Lovely Super Market-D at 0:41:6
-Did not create bill for S.M.Maligai Stores-D at 0:41:6
-Did not create bill for MATHA  STORE KTR 1-D-D at 0:41:6
-Did not create bill for SRI BALAMURUGAN MALIGAI STORES-D at 0:41:6
-Starting bill for Bethel Maligai-D at 0:41:6
-Created bill  ABC57110 for Bethel Maligai-D at 0:41:7
-Did not create bill for CHINNAYA  BEEDA STALL-D at 0:41:7
-Starting bill for J A R MEDICALS-D-D-D-D at 0:41:7
-Created bill  ABC57111 for J A R MEDICALS-D-D-D-D at 0:41:8
-Did not create bill for MATHA  STORE KTR 1-D-D at 0:41:8
-Starting bill for ABBAS MALIGAI-9894496865-D-D at 0:41:8
-Created bill  ABC57112 for ABBAS MALIGAI-9894496865-D-D at 0:41:8
-Starting bill for Mani Beeda Stall-D at 0:41:8
-Created bill  ABC57113 for Mani Beeda Stall-D at 0:41:9
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Order import process started 11:48:14
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, SRI SANKAR STORE-D
+Did not create bill for TRICHY KALANGHIYAM SUPER MARKET at 11:48:14
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 0:41:10
+Order import process ended 11:48:15
 Load Process Started
 Load Process Completed
-Order import process started 0:42:55
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, SMS STORE-D
-Did not create bill for Selvi Stores Maligai And General Merchant at 0:42:57
-Did not create bill for J.M.J.  STORE-D-D at 0:42:57
-Did not create bill for JAFFER  STORE-D-D-D-D at 0:42:57
-Did not create bill for SRI  RAM  MALIGAI-D-D-D-D at 0:42:57
-Did not create bill for Lovely Super Market-D at 0:42:57
-Did not create bill for S.M.Maligai Stores-D at 0:42:57
-Starting bill for MATHA  STORE KTR 1-D-D at 0:42:57
-Created bill  ABC57114 for MATHA  STORE KTR 1-D-D at 0:42:58
-Did not create bill for SRI BALAMURUGAN MALIGAI STORES-D at 0:42:58
-Did not create bill for CHINNAYA  BEEDA STALL-D at 0:42:58
-Did not create bill for MATHA  STORE KTR 1-D-D at 0:42:58
+Load Process Started
+Load Process Completed
+Order import process started 0:3:22
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, SRI SANKAR STORE-D
+Did not create bill for ASIA MEDICAL-D at 0:3:24
+Did not create bill for TRICHY KALANGHIYAM SUPER MARKET at 0:3:24
+Did not create bill for SRI BALAMURUGAN SUPER MARKET-D-D at 0:3:24
+Did not create bill for SRI BALAMURUGAN MALIGAI STORES-D at 0:3:24
+Starting bill for RENUGA STORE  -KT-D-D-D-D at 0:3:24
+Created bill  A01288 for RENUGA STORE  -KT-D-D-D-D at 0:3:25
+Starting bill for THANGAPANDIAN MALIGAI-D at 0:3:25
+Created bill  A01289 for THANGAPANDIAN MALIGAI-D at 0:3:25
+Did not create bill for MEHI FANCY CENTRE-D at 0:3:25
+Starting bill for KITTU MALIGAI.-D at 0:3:25
+Created bill  A01290 for KITTU MALIGAI.-D at 0:3:26
+Starting bill for PADMA STORE-D-D at 0:3:26
+Created bill  A01291 for PADMA STORE-D-D at 0:3:27
+Starting bill for BARAKTH MALIGAI-D-D-D at 0:3:27
+Created bill  A01292 for BARAKTH MALIGAI-D-D-D at 0:3:27
+Starting bill for Rahmath Store-D at 0:3:27
+Created bill  A01293 for Rahmath Store-D at 0:3:28
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 0:42:58
+Order import process ended 0:3:29
 Load Process Started
 Load Process Completed
-Order import process started 0:43:57
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, SMS STORE-D
-Starting bill for Selvi Stores Maligai And General Merchant at 0:43:59
-Created bill  ABC57115 for Selvi Stores Maligai And General Merchant at 0:43:59
-Starting bill for J.M.J.  STORE-D-D at 0:43:59
-Created bill  ABC57116 for J.M.J.  STORE-D-D at 0:43:59
-Did not create bill for JAFFER  STORE-D-D-D-D at 0:43:59
-Did not create bill for SRI  RAM  MALIGAI-D-D-D-D at 0:43:59
-Starting bill for Lovely Super Market-D at 0:43:59
-Created bill  ABC57117 for Lovely Super Market-D at 0:44:0
-Did not create bill for S.M.Maligai Stores-D at 0:44:0
-Starting bill for SRI BALAMURUGAN MALIGAI STORES-D at 0:44:0
-Created bill  ABC57118 for SRI BALAMURUGAN MALIGAI STORES-D at 0:44:0
-Did not create bill for CHINNAYA  BEEDA STALL-D at 0:44:0
-Did not create bill for MATHA  STORE KTR 1-D-D at 0:44:0
+Load Process Started
+Load Process Completed
+Order import process started 0:4:50
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, SRI SANKAR STORE-D
+Party's Credit Exhausted, TRICHY KALANGHIYAM SUPER MARKET
+Starting bill for MANJU ENTERPRISES-D at 0:4:50
+CreditNote Adjustments 3745.97 were done for PartyMANJU ENTERPRISES-D
+Created bill  A01294 for MANJU ENTERPRISES-D at 0:4:51
+Starting bill for ARVIND AGENCY at 0:4:51
+Created bill  A01295 for ARVIND AGENCY at 0:4:51
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 0:44:1
-Load Process Started
-Did not create bill for KUMAR STOREwss-D-D as party is in Dummy Beat
-Load Process Completed
+Order import process ended 0:4:51
 Load Process Started
 Load Process Completed
-Order import process started 0:59:1
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, SMS STORE-D
-Starting bill for SIVA SAKTHI STORE-D  SVS 1-D-D at 0:59:3
-Created bill  ABC57119 for SIVA SAKTHI STORE-D  SVS 1-D-D at 0:59:4
-Did not create bill for JAFFER  STORE-D-D-D-D at 0:59:4
-Did not create bill for SRI  RAM  MALIGAI-D-D-D-D at 0:59:4
-Did not create bill for S.M.Maligai Stores-D at 0:59:4
-Starting bill for BHARAKATH MALIGAI-D-D-D at 0:59:4
-Created bill  ABC57120 for BHARAKATH MALIGAI-D-D-D at 0:59:5
-Starting bill for POONKODY STORE -AK-D-D at 0:59:5
-Created bill  ABC57121 for POONKODY STORE -AK-D-D at 0:59:5
-Did not create bill for JAMAL MYDEN  STORE-D-D-D-D-D at 0:59:5
-Starting bill for OOM SAKTHI MALIGAI-D at 0:59:5
-Created bill  ABC57122 for OOM SAKTHI MALIGAI-D at 0:59:6
-Did not create bill for CHINNAYA  BEEDA STALL-D at 0:59:6
-Did not create bill for MATHA  STORE KTR 1-D-D at 0:59:6
-Starting bill for OOM SAKTHI MALIGAI-D at 0:59:6
-Created bill  ABC57123 for OOM SAKTHI MALIGAI-D at 0:59:6
-Did not create bill for SUBALATHASTORES-D-D-D-D at 0:59:6
+Order import process started 0:18:28
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, SRI SANKAR STORE-D
+Starting bill for MODERN-D at 0:18:31
+Created bill  A01296 for MODERN-D at 0:18:32
+Did not create bill for SARASWATHI STORE (SVS) Katur-D-D at 0:18:32
+Did not create bill for VIJAYA  STORE-D-D at 0:18:32
+Did not create bill for ASIA MEDICAL-D at 0:18:32
+Starting bill for MURUGAN STORE-D at 0:18:33
+Created bill  A01297 for MURUGAN STORE-D at 0:18:33
+Did not create bill for TRICHY KALANGHIYAM SUPER MARKET at 0:18:33
+Did not create bill for SRI BALAMURUGAN SUPER MARKET-D-D at 0:18:33
+Did not create bill for SRI BALAMURUGAN MALIGAI STORES-D at 0:18:33
+Did not create bill for PONRAJ  STORE-D-D-D-D at 0:18:34
+Did not create bill for MEHI FANCY CENTRE-D at 0:18:34
+Starting bill for MURSHIDHA STORE-D at 0:18:34
+Created bill  A01298 for MURSHIDHA STORE-D at 0:18:34
+Starting bill for SRI MEENATCHI  STREET-D-D at 0:18:34
+Created bill  A01299 for SRI MEENATCHI  STREET-D-D at 0:18:34
+Starting bill for guna tea shop at 0:18:34
+Created bill  A01300 for guna tea shop at 0:18:35
+Did not create bill for RAJENDRA STORE-D at 0:18:35
+Starting bill for LAKSHMI STORE-D-D at 0:18:35
+Created bill  A01301 for LAKSHMI STORE-D-D at 0:18:35
+Starting bill for RAJA STORE-D-D at 0:18:35
+Created bill  A01302 for RAJA STORE-D-D at 0:18:36
+Starting bill for BISMI STOREi -D-D at 0:18:36
+Created bill  A01303 for BISMI STOREi -D-D at 0:18:37
+Starting bill for AR RAHMAN MALIGAI-D at 0:18:37
+Created bill  A01304 for AR RAHMAN MALIGAI-D at 0:18:37
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 0:59:7
+Order import process ended 0:18:38
 Load Process Started
 Load Process Completed
-Order import process started 1:14:4
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, SMS STORE-D
-Did not create bill for HYPERPANDA-D at 1:14:6
-Did not create bill for JAFFER  STORE-D-D-D-D at 1:14:6
-Did not create bill for SRI  RAM  MALIGAI-D-D-D-D at 1:14:6
-Did not create bill for S.M.Maligai Stores-D at 1:14:6
-Did not create bill for JAMAL MYDEN  STORE-D-D-D-D-D at 1:14:6
-Did not create bill for K MART-D at 1:14:6
-Did not create bill for CHINNAYA  BEEDA STALL-D at 1:14:6
-Did not create bill for MATHA  STORE KTR 1-D-D at 1:14:6
-Did not create bill for SUBALATHASTORES-D-D-D-D at 1:14:6
-Starting bill for ANANDHA STORED-D at 1:14:6
-Created bill  ABC57124 for ANANDHA STORED-D at 1:14:7
+Order import process started 0:24:51
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, SRI SANKAR STORE-D
+Party's Credit Exhausted, AR RAHMAN MALIGAI-D
+Starting bill for SARASWATHI STORE (SVS) Katur-D-D at 0:24:53
+CreditNote Adjustments 182.42 were done for PartySARASWATHI STORE (SVS) Katur-D-D
+Created bill  A01305 for SARASWATHI STORE (SVS) Katur-D-D at 0:24:54
+Starting bill for VIJAYA  STORE-D-D at 0:24:54
+Created bill  A01306 for VIJAYA  STORE-D-D at 0:24:57
+Starting bill for ASIA MEDICAL-D at 0:24:57
+Created bill  A01307 for ASIA MEDICAL-D at 0:24:57
+Did not create bill for TRICHY KALANGHIYAM SUPER MARKET at 0:24:57
+Starting bill for SRI BALAMURUGAN SUPER MARKET-D-D at 0:24:57
+Created bill  A01308 for SRI BALAMURUGAN SUPER MARKET-D-D at 0:24:57
+Starting bill for SRI BALAMURUGAN MALIGAI STORES-D at 0:24:57
+Created bill  A01309 for SRI BALAMURUGAN MALIGAI STORES-D at 0:24:57
+Starting bill for PONRAJ  STORE-D-D-D-D at 0:24:57
+Created bill  A01310 for PONRAJ  STORE-D-D-D-D at 0:24:58
+Starting bill for MEHI FANCY CENTRE-D at 0:24:58
+Created bill  A01311 for MEHI FANCY CENTRE-D at 0:24:58
+Did not create bill for RAJENDRA STORE-D at 0:24:58
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 1:14:8
+Order import process ended 0:24:59
 Load Process Started
 Load Process Completed
-Order import process started 1:29:3
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Did not create bill for HYPERPANDA-D at 1:29:6
-Did not create bill for JAFFER  STORE-D-D-D-D at 1:29:6
-Did not create bill for SRI  RAM  MALIGAI-D-D-D-D at 1:29:6
-Starting bill for SABIYULLA MALIGAI-D at 1:29:6
-Created bill  ABC57125 for SABIYULLA MALIGAI-D at 1:29:6
-Did not create bill for S.M.Maligai Stores-D at 1:29:6
-Starting bill for sir paychiyamman store-D at 1:29:6
-Created bill  ABC57126 for sir paychiyamman store-D at 1:29:7
-Did not create bill for JAMAL MYDEN  STORE-D-D-D-D-D at 1:29:7
-Did not create bill for K MART-D at 1:29:7
-Did not create bill for CHINNAYA  BEEDA STALL-D at 1:29:7
-Starting bill for SHRI VARI STORES-D at 1:29:7
-Created bill  ABC57127 for SHRI VARI STORES-D at 1:29:8
-Did not create bill for MATHA  STORE KTR 1-D-D at 1:29:8
-Did not create bill for SUBALATHASTORES-D-D-D-D at 1:29:8
+Load Process Started
+Load Process Completed
+Load Process Started
+Load Process Completed
+Order import process started 0:39:48
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, SRI SANKAR STORE-D
+Party's Credit Exhausted, AR RAHMAN MALIGAI-D
+Did not create bill for THULIR SUPER MARKET at 0:39:51
+Starting bill for JAMAL MYDEN  STORE-D-D-D-D-D at 0:39:51
+Created bill  A01312 for JAMAL MYDEN  STORE-D-D-D-D-D at 0:39:51
+Did not create bill for TRICHY KALANGHIYAM SUPER MARKET at 0:39:51
+Did not create bill for JAMAL MYDEN  STORE-D-D-D-D-D at 0:39:51
+Did not create bill for RAJENDRA STORE-D at 0:39:51
+Starting bill for SRI PADMAVATHI MULTI STORE-D at 0:39:52
+Created bill  A01313 for SRI PADMAVATHI MULTI STORE-D at 0:39:52
+Starting bill for SUBASH MALIGAI-D-D-D at 0:39:52
+Created bill  A01314 for SUBASH MALIGAI-D-D-D at 0:39:53
+Starting bill for Samu Vel Maligai-D at 0:39:53
+Created bill  A01315 for Samu Vel Maligai-D at 0:39:54
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 1:29:9
-Load Process Started
-Did not create bill for KUMAR STOREwss-D-D as party is in Dummy Beat
-Load Process Completed
+Order import process ended 0:39:54
 Load Process Started
 Load Process Completed
-Order import process started 1:41:31
-Starting bill for ARVIND AGENCY at 1:41:31
-Created bill  ABC57128 for ARVIND AGENCY at 1:41:31
-Starting bill for SANGAVI  MEGA MART-D at 1:41:31
-Created bill  ABC57129 for SANGAVI  MEGA MART-D at 1:41:31
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 1:41:32
-Load Process Started
-Load Process Completed
-Order import process started 1:44:5
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Did not create bill for NEW NATIONAL QUALITY MALIGI at 1:44:7
-Did not create bill for HYPERPANDA-D at 1:44:7
-Starting bill for SREE SWEETS-D at 1:44:7
-Created bill  ABC57130 for SREE SWEETS-D at 1:44:8
-Did not create bill for AGIN MALIGAI-D-D at 1:44:8
-Starting bill for RAISY STORE-D-D-D at 1:44:8
-Created bill  ABC57131 for RAISY STORE-D-D-D at 1:44:9
-Did not create bill for JAFFER  STORE-D-D-D-D at 1:44:9
-Did not create bill for SRI  RAM  MALIGAI-D-D-D-D at 1:44:9
-Starting bill for ARASU PACHIYAMMAN-D at 1:44:9
-Created bill  ABC57132 for ARASU PACHIYAMMAN-D at 1:44:9
-Did not create bill for S.M.Maligai Stores-D at 1:44:9
-Did not create bill for SRI BALAMURUGAN MALIGAI STORES-D at 1:44:9
-Did not create bill for JAMAL MYDEN  STORE-D-D-D-D-D at 1:44:9
-Did not create bill for K MART-D at 1:44:9
-Did not create bill for VEERAMMAL  STORE-D-D-D-D at 1:44:9
-Starting bill for SUBRAMANIAN STORE-D at 1:44:9
-Created bill  ABC57133 for SUBRAMANIAN STORE-D at 1:44:10
-Did not create bill for CHINNAYA  BEEDA STALL-D at 1:44:10
-Starting bill for Velaven Medical at 1:44:10
-Created bill  ABC57134 for Velaven Medical at 1:44:11
-Starting bill for K.V.S Store at 1:44:11
-Created bill  ABC57135 for K.V.S Store at 1:44:11
-Starting bill for THISHYA-D at 1:44:11
-Created bill  ABC57136 for THISHYA-D at 1:44:11
-Did not create bill for MATHA  STORE KTR 1-D-D at 1:44:11
-Starting bill for MAHA  LINGAM  STORE-D-D at 1:44:11
-Created bill  ABC57137 for MAHA  LINGAM  STORE-D-D at 1:44:11
-Starting bill for MATHINA STORE-D-D-D-D at 1:44:12
-Created bill  ABC57138 for MATHINA STORE-D-D-D-D at 1:44:12
-Starting bill for BALU STORE at 1:44:12
-Created bill  ABC57139 for BALU STORE at 1:44:12
-Did not create bill for SUBALATHASTORES-D-D-D-D at 1:44:12
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 1:44:14
-Load Process Started
-Load Process Completed
-Order import process started 1:59:1
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Did not create bill for NEW NATIONAL QUALITY MALIGI at 1:59:4
-Did not create bill for HYPERPANDA-D at 1:59:4
-Did not create bill for AGIN MALIGAI-D-D at 1:59:4
-Starting bill for STARMALIGAI-D-D at 1:59:4
-Created bill  ABC57140 for STARMALIGAI-D-D at 1:59:5
-Starting bill for Kasi Maligai -D-D-D at 1:59:5
-Created bill  ABC57141 for Kasi Maligai -D-D-D at 1:59:6
-Did not create bill for JAFFER  STORE-D-D-D-D at 1:59:6
-Did not create bill for SRI  RAM  MALIGAI-D-D-D-D at 1:59:6
-Did not create bill for S.M.Maligai Stores-D at 1:59:6
-Did not create bill for KASI STORE-D-D-D-D-D at 1:59:6
-Did not create bill for SRI BALAMURUGAN MALIGAI STORES-D at 1:59:6
-Did not create bill for BALAMURUGAN MALIGAI-D at 1:59:6
-Did not create bill for JAMAL MYDEN  STORE-D-D-D-D-D at 1:59:6
-Did not create bill for K MART-D at 1:59:6
-Did not create bill for VEERAMMAL  STORE-D-D-D-D at 1:59:7
-Starting bill for BALU STORE at 1:59:7
-Created bill  ABC57142 for BALU STORE at 1:59:7
-Did not create bill for CHINNAYA  BEEDA STALL-D at 1:59:7
-Starting bill for Annai Maligai at 1:59:7
-Created bill  ABC57143 for Annai Maligai at 1:59:7
-Starting bill for PONRAJ  STORE-D-D-D-D at 1:59:7
-Created bill  ABC57144 for PONRAJ  STORE-D-D-D-D at 1:59:8
-Did not create bill for MATHA  STORE KTR 1-D-D at 1:59:8
-Starting bill for NEW VEERAMMAL STORE-D-D at 1:59:8
-Created bill  ABC57145 for NEW VEERAMMAL STORE-D-D at 1:59:8
-Did not create bill for SUBALATHASTORES-D-D-D-D at 1:59:8
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 1:59:9
-Load Process Started
-Load Process Completed
-Order import process started 2:5:47
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Did not create bill for NEW NATIONAL QUALITY MALIGI at 2:5:49
-Starting bill for HYPERPANDA-D at 2:5:49
-Created bill  ABC57146 for HYPERPANDA-D at 2:5:49
-Starting bill for AGIN MALIGAI-D-D at 2:5:49
-Created bill  ABC57147 for AGIN MALIGAI-D-D at 2:5:50
-Did not create bill for JAFFER  STORE-D-D-D-D at 2:5:50
-Did not create bill for SRI  RAM  MALIGAI-D-D-D-D at 2:5:50
-Did not create bill for S.M.Maligai Stores-D at 2:5:50
-Starting bill for KASI STORE-D-D-D-D-D at 2:5:50
-Created bill  ABC57148 for KASI STORE-D-D-D-D-D at 2:5:50
-Starting bill for SRI BALAMURUGAN MALIGAI STORES-D at 2:5:50
-Created bill  ABC57149 for SRI BALAMURUGAN MALIGAI STORES-D at 2:5:51
-Starting bill for BALAMURUGAN MALIGAI-D at 2:5:51
-Created bill  ABC57150 for BALAMURUGAN MALIGAI-D at 2:5:52
-Starting bill for JAMAL MYDEN  STORE-D-D-D-D-D at 2:5:52
-Created bill  ABC57151 for JAMAL MYDEN  STORE-D-D-D-D-D at 2:5:52
-Starting bill for K MART-D at 2:5:52
-Created bill  ABC57152 for K MART-D at 2:5:55
-Did not create bill for VEERAMMAL  STORE-D-D-D-D at 2:5:55
-Did not create bill for CHINNAYA  BEEDA STALL-D at 2:5:55
-Did not create bill for MATHA  STORE KTR 1-D-D at 2:5:55
-Starting bill for RAJA MEDICAL-D at 2:5:55
-Created bill  ABC57153 for RAJA MEDICAL-D at 2:5:55
-Did not create bill for SUBALATHASTORES-D-D-D-D at 2:5:55
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 2:5:56
-Load Process Started
-Load Process Completed
-Order import process started 2:16:12
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
+Order import process started 0:47:3
+Party's Credit Exhausted, REVATHI RIBBON HOUSE-D
+Party's Credit Exhausted, MANJU ENTERPRISES-D
+Party's Credit Exhausted, SRI SANKAR STORE-D
 Party's Credit Exhausted, JAMAL MYDEN  STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, K MART-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Starting bill for KURINJI PHARMACY-D at 2:16:15
-Created bill  ABC57154 for KURINJI PHARMACY-D at 2:16:16
-Did not create bill for NEW NATIONAL QUALITY MALIGI at 2:16:16
-Did not create bill for RAMIYA STORE-D-D at 2:16:16
-Did not create bill for ANBU MALIGAI-D at 2:16:16
-Starting bill for NEW PARASAKTHI STORES-D-D at 2:16:16
-Created bill  ABC57155 for NEW PARASAKTHI STORES-D-D at 2:16:17
-Did not create bill for JAFFER  STORE-D-D-D-D at 2:16:17
-Starting bill for SRI  RAM  MALIGAI-D-D-D-D at 2:16:17
-Created bill  ABC57156 for SRI  RAM  MALIGAI-D-D-D-D at 2:16:18
-Starting bill for Harini Maligai-D at 2:16:18
-Created bill  ABC57157 for Harini Maligai-D at 2:16:18
-Starting bill for S.M.Maligai Stores-D at 2:16:18
-Created bill  ABC57158 for S.M.Maligai Stores-D at 2:16:18
-Starting bill for RAJAM STORE-D at 2:16:18
-Created bill  ABC57159 for RAJAM STORE-D at 2:16:18
-Starting bill for BHARTHI STORE-D-D at 2:16:18
-Created bill  ABC57160 for BHARTHI STORE-D-D at 2:16:19
-Did not create bill for SRU  SAKTHI  STORES-D-D-D-D at 2:16:19
-Starting bill for K MART-D at 2:16:19
-Created bill  ABC57161 for K MART-D at 2:16:19
-Did not create bill for KURINJI PHARMACY-D at 2:16:19
-Starting bill for VEERAMMAL  STORE-D-D-D-D at 2:16:19
-Created bill  ABC57162 for VEERAMMAL  STORE-D-D-D-D at 2:16:19
-Did not create bill for CHINNAYA  BEEDA STALL-D at 2:16:19
-Did not create bill for MATHA  STORE KTR 1-D-D at 2:16:20
-Starting bill for LAKSHMI STORE-D at 2:16:20
-Created bill  ABC57163 for LAKSHMI STORE-D at 2:16:20
-Starting bill for SUBALATHASTORES-D-D-D-D at 2:16:20
-Created bill  ABC57164 for SUBALATHASTORES-D-D-D-D at 2:16:20
-Did not create bill for AKALYAMALIGAI-D-D-D-D at 2:16:20
+Party's Credit Exhausted, AR RAHMAN MALIGAI-D
+Did not create bill for THULIR SUPER MARKET at 0:47:5
+Did not create bill for TRICHY KALANGHIYAM SUPER MARKET at 0:47:5
+Did not create bill for JAMAL MYDEN  STORE-D-D-D-D-D at 0:47:6
+Starting bill for AKS Maligai-D at 0:47:6
+Created bill  A01316 for AKS Maligai-D at 0:47:6
+Starting bill for Nithya-D at 0:47:6
+Created bill  A01317 for Nithya-D at 0:47:6
+Starting bill for SAHAYAM STORE-D at 0:47:6
+Created bill  A01318 for SAHAYAM STORE-D at 0:47:7
+Did not create bill for RAJENDRA STORE-D at 0:47:7
+Starting bill for Jayam Store-D at 0:47:7
+Created bill  A01319 for Jayam Store-D at 0:47:7
 Generating SOAO extract
 Generated SOAO extract successfully
-Order import process ended 2:16:22
-Load Process Started
-Load Process Completed
-Order import process started 2:20:5
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
-Party's Credit Exhausted, JAMAL MYDEN  STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, K MART-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Did not create bill for NEW NATIONAL QUALITY MALIGI at 2:20:7
-Starting bill for RAMIYA STORE-D-D at 2:20:7
-Created bill  ABC57165 for RAMIYA STORE-D-D at 2:20:7
-Starting bill for ANBU MALIGAI-D at 2:20:8
-Created bill  ABC57166 for ANBU MALIGAI-D at 2:20:9
-Did not create bill for JAFFER  STORE-D-D-D-D at 2:20:9
-Starting bill for SRU  SAKTHI  STORES-D-D-D-D at 2:20:9
-Created bill  ABC57167 for SRU  SAKTHI  STORES-D-D-D-D at 2:20:9
-Starting bill for KURINJI PHARMACY-D at 2:20:9
-Created bill  ABC57168 for KURINJI PHARMACY-D at 2:20:9
-Did not create bill for CHINNAYA  BEEDA STALL-D at 2:20:9
-Did not create bill for MATHA  STORE KTR 1-D-D at 2:20:9
-Starting bill for AKALYAMALIGAI-D-D-D-D at 2:20:9
-Created bill  ABC57169 for AKALYAMALIGAI-D-D-D-D at 2:20:10
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 2:20:10
-Load Process Started
-Load Process Completed
-Order import process started 2:35:6
-Party's Credit Exhausted, ANBU MALIGAI-D
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
-Party's Credit Exhausted, JAMAL MYDEN  STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, K MART-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Did not create bill for NEW NATIONAL QUALITY MALIGI at 2:35:8
-Starting bill for KAVITHA STORE-D-D at 2:35:8
-Created bill  ABC57170 for KAVITHA STORE-D-D at 2:35:8
-Did not create bill for S. SAFIULLA  STORE-D-D at 2:35:8
-Starting bill for AMANULLA BEEDA STALL-D at 2:35:8
-Created bill  ABC57171 for AMANULLA BEEDA STALL-D at 2:35:8
-Starting bill for KANNAN MALIGAI STORE at 2:35:8
-Created bill  ABC57172 for KANNAN MALIGAI STORE at 2:35:9
-Did not create bill for CHITHRA STORES-D at 2:35:9
-Starting bill for JAYAM STORE-D at 2:35:9
-Created bill  ABC57173 for JAYAM STORE-D at 2:35:9
-Did not create bill for AMMAN STORES - MUTHALIYAR CHATR-D-D at 2:35:9
-Did not create bill for NEW STORE-BEMANAGAR-D-D at 2:35:9
-Did not create bill for BHARAT MALIGAI-BEEMA NGR-D-D at 2:35:9
-Did not create bill for SENTHIL MALIGAI-D-D at 2:35:9
-Did not create bill for JAFFER  STORE-D-D-D-D at 2:35:9
-Starting bill for ABDUL  HAMEED  STORE-D-D-D-D at 2:35:9
-Created bill  ABC57174 for ABDUL  HAMEED  STORE-D-D-D-D at 2:35:9
-Did not create bill for TAMIL SUPER MARKET-D at 2:35:10
-Did not create bill for CHINNAYA  BEEDA STALL-D at 2:35:10
-Did not create bill for MATHA  STORE KTR 1-D-D at 2:35:10
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 2:35:11
-Load Process Started
-Load Process Completed
-Order import process started 2:50:11
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, ANBU MALIGAI-D
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
-Party's Credit Exhausted, JAMAL MYDEN  STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, K MART-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Did not create bill for NEW NATIONAL QUALITY MALIGI at 2:50:14
-Did not create bill for S. SAFIULLA  STORE-D-D at 2:50:14
-Did not create bill for CHITHRA STORES-D at 2:50:14
-Did not create bill for JANATH MALIGAI-D-D at 2:50:14
-Did not create bill for AMMAN STORES - MUTHALIYAR CHATR-D-D at 2:50:14
-Did not create bill for NEW STORE-BEMANAGAR-D-D at 2:50:14
-Did not create bill for BHARAT MALIGAI-BEEMA NGR-D-D at 2:50:14
-Did not create bill for SENTHIL MALIGAI-D-D at 2:50:14
-Did not create bill for JAFFER  STORE-D-D-D-D at 2:50:14
-Did not create bill for TAMIL SUPER MARKET-D at 2:50:14
-Did not create bill for CHINNAYA  BEEDA STALL-D at 2:50:14
-Did not create bill for MATHA  STORE KTR 1-D-D at 2:50:14
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 2:50:15
-Load Process Started
-Load Process Completed
-Order import process started 2:57:54
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, ANBU MALIGAI-D
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
-Party's Credit Exhausted, JAMAL MYDEN  STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, K MART-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Did not create bill for NEW NATIONAL QUALITY MALIGI at 2:57:57
-Starting bill for S. SAFIULLA  STORE-D-D at 2:57:57
-Created bill  ABC57175 for S. SAFIULLA  STORE-D-D at 2:57:57
-Starting bill for CHITHRA STORES-D at 2:57:57
-Created bill  ABC57176 for CHITHRA STORES-D at 2:57:57
-Did not create bill for JANATH MALIGAI-D-D at 2:57:57
-Starting bill for AMMAN STORES - MUTHALIYAR CHATR-D-D at 2:57:57
-Created bill  ABC57177 for AMMAN STORES - MUTHALIYAR CHATR-D-D at 2:57:57
-Did not create bill for YOGALAKSHMI STORE-D at 2:57:57
-Starting bill for MOHD RAFICK at 2:57:57
-Created bill  ABC57178 for MOHD RAFICK at 2:57:58
-Did not create bill for WHAHAB MALIGAI-D-D at 2:57:58
-Starting bill for NEW STORE-BEMANAGAR-D-D at 2:57:58
-Created bill  ABC57179 for NEW STORE-BEMANAGAR-D-D at 2:57:58
-Starting bill for BHARAT MALIGAI-BEEMA NGR-D-D at 2:57:58
-Created bill  ABC57180 for BHARAT MALIGAI-BEEMA NGR-D-D at 2:57:58
-Starting bill for SENTHIL MALIGAI-D-D at 2:57:58
-Created bill  ABC57181 for SENTHIL MALIGAI-D-D at 2:57:59
-Starting bill for AHAMADU MALIGAI-D-D at 2:57:59
-Created bill  ABC57182 for AHAMADU MALIGAI-D-D at 2:57:59
-Did not create bill for JAFFER  STORE-D-D-D-D at 2:57:59
-Did not create bill for TAMIL SUPER MARKET-D at 2:57:59
-Starting bill for M P GENERAL STORES-D at 2:57:59
-Created bill  ABC57183 for M P GENERAL STORES-D at 2:58:0
-Did not create bill for CHINNAYA  BEEDA STALL-D at 2:58:0
-Starting bill for PALANIAPPA MEDICALS-D at 2:58:0
-Created bill  ABC57184 for PALANIAPPA MEDICALS-D at 2:58:0
-Starting bill for MUTHU MALIGAI-D-D at 2:58:0
-Created bill  ABC57185 for MUTHU MALIGAI-D-D at 2:58:0
-Starting bill for MANIKANDAN MALIGAI-D-D at 2:58:0
-Created bill  ABC57186 for MANIKANDAN MALIGAI-D-D at 2:58:1
-Starting bill for APARNA MEDICALS-D-D-D-D at 2:58:1
-Created bill  ABC57187 for APARNA MEDICALS-D-D-D-D at 2:58:1
-Did not create bill for MATHA  STORE KTR 1-D-D at 2:58:1
-Starting bill for Irai Maligai-D at 2:58:1
-Created bill  ABC57188 for Irai Maligai-D at 2:58:1
-Starting bill for M P GENERAL STORES-D at 2:58:1
-Created bill  ABC57189 for M P GENERAL STORES-D at 2:58:1
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 2:58:2
-Load Process Started
-Load Process Completed
-Order import process started 2:59:50
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, ANBU MALIGAI-D
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, NEW STORE-BEMANAGAR-D-D
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
-Party's Credit Exhausted, JAMAL MYDEN  STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, K MART-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Did not create bill for NEW NATIONAL QUALITY MALIGI at 2:59:52
-Did not create bill for JANATH MALIGAI-D-D at 2:59:52
-Starting bill for YOGALAKSHMI STORE-D at 2:59:53
-Created bill  ABC57190 for YOGALAKSHMI STORE-D at 2:59:53
-Starting bill for WHAHAB MALIGAI-D-D at 2:59:53
-Created bill  ABC57191 for WHAHAB MALIGAI-D-D at 2:59:53
-Did not create bill for JAFFER  STORE-D-D-D-D at 2:59:53
-Did not create bill for TAMIL SUPER MARKET-D at 2:59:53
-Did not create bill for CHINNAYA  BEEDA STALL-D at 2:59:53
-Did not create bill for MATHA  STORE KTR 1-D-D at 2:59:53
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 2:59:54
-Load Process Started
-Did not create bill for KUMAR STOREwss-D-D as party is in Dummy Beat
-Load Process Completed
-Load Process Started
-Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 3:2:53
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, ANBU MALIGAI-D
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, NEW STORE-BEMANAGAR-D-D
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
-Party's Credit Exhausted, JAMAL MYDEN  STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, K MART-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Did not create bill for NEW NATIONAL QUALITY MALIGI at 3:2:55
-Starting bill for JANATH MALIGAI-D-D at 3:2:56
-Created bill  ABC57192 for JANATH MALIGAI-D-D at 3:2:56
-Starting bill for SRI PARASAKTHI STORES-BEEMANAGAR-D-D-D at 3:2:56
-Created bill  ABC57193 for SRI PARASAKTHI STORES-BEEMANAGAR-D-D-D at 3:2:57
-Did not create bill for PRIYA  MALIGAI-D-D at 3:2:57
-Did not create bill for JAFFER  STORE-D-D-D-D at 3:2:57
-Starting bill for AK Store at 3:2:57
-Created bill  ABC57194 for AK Store at 3:2:57
-Starting bill for TAMIL SUPER MARKET-D at 3:2:57
-Created bill  ABC57195 for TAMIL SUPER MARKET-D at 3:3:0
-Starting bill for Irai Maligai-D at 3:3:0
-Created bill  ABC57196 for Irai Maligai-D at 3:3:0
-Did not create bill for CHINNAYA  BEEDA STALL-D at 3:3:0
-Did not create bill for MATHA  STORE KTR 1-D-D at 3:3:0
-Starting bill for VELMURUGAN  STORE KT 1-D-D at 3:3:0
-Created bill  ABC57197 for VELMURUGAN  STORE KT 1-D-D at 3:3:0
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 3:3:1
-Load Process Started
-Load Process Completed
-Order import process started 3:3:41
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, ANBU MALIGAI-D
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, NEW STORE-BEMANAGAR-D-D
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
-Party's Credit Exhausted, JAMAL MYDEN  STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, TAMIL SUPER MARKET-D
-Party's Credit Exhausted, K MART-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Starting bill for NEW NATIONAL QUALITY MALIGI at 3:3:43
-Created bill  ABC57198 for NEW NATIONAL QUALITY MALIGI at 3:3:44
-Starting bill for PRIYA  MALIGAI-D-D at 3:3:44
-Created bill  ABC57199 for PRIYA  MALIGAI-D-D at 3:3:45
-Did not create bill for JAFFER  STORE-D-D-D-D at 3:3:45
-Did not create bill for CHINNAYA  BEEDA STALL-D at 3:3:45
-Did not create bill for MATHA  STORE KTR 1-D-D at 3:3:45
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 3:3:45
-Load Process Started
-Load Process Completed
-Order import process started 3:18:58
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, ANBU MALIGAI-D
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, NEW STORE-BEMANAGAR-D-D
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
-Party's Credit Exhausted, JAMAL MYDEN  STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, TAMIL SUPER MARKET-D
-Party's Credit Exhausted, K MART-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Starting bill for A.R.R MALIGAI-D 1-D-D at 3:19:0
-Created bill  ABC57200 for A.R.R MALIGAI-D 1-D-D at 3:19:1
-Did not create bill for NAMBIYARMALIGAI-D-D-D at 3:19:1
-Did not create bill for LINGAM STORES-D-D at 3:19:1
-Did not create bill for JAFFER  STORE-D-D-D-D at 3:19:1
-Starting bill for TAMIL SUPER MARKET-D at 3:19:1
-Created bill  ABC57201 for TAMIL SUPER MARKET-D at 3:19:1
-Did not create bill for CHINNAYA  BEEDA STALL-D at 3:19:1
-Did not create bill for MATHA  STORE KTR 1-D-D at 3:19:1
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 3:19:3
-Load Process Started
-Load Process Completed
-Order import process started 3:27:24
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, ANBU MALIGAI-D
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, NEW STORE-BEMANAGAR-D-D
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
-Party's Credit Exhausted, JAMAL MYDEN  STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, TAMIL SUPER MARKET-D
-Party's Credit Exhausted, K MART-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Did not create bill for ABU MALIGAI-D at 3:27:26
-Starting bill for NAMBIYARMALIGAI-D-D-D at 3:27:26
-Created bill  ABC57202 for NAMBIYARMALIGAI-D-D-D at 3:27:26
-Starting bill for LINGAM STORES-D-D at 3:27:26
-Created bill  ABC57203 for LINGAM STORES-D-D at 3:27:27
-Did not create bill for JAFFER  STORE-D-D-D-D at 3:27:27
-Starting bill for CHITHIRAVEL NADAR MALIGAI at 3:27:27
-Created bill  ABC57204 for CHITHIRAVEL NADAR MALIGAI at 3:27:27
-Did not create bill for BALAMURUGAN MALIGAI-D at 3:27:27
-Starting bill for NEW CHITRA STORE(SVS)-D-D-D at 3:27:28
-Created bill  ABC57205 for NEW CHITRA STORE(SVS)-D-D-D at 3:27:28
-Starting bill for MATHINA STORE-D-D-D-D at 3:27:28
-Created bill  ABC57206 for MATHINA STORE-D-D-D-D at 3:27:29
-Did not create bill for CHINNAYA  BEEDA STALL-D at 3:27:29
-Starting bill for Buvana Store-D at 3:27:29
-Created bill  ABC57207 for Buvana Store-D at 3:27:29
-Starting bill for GANESHA STORE-D-D at 3:27:29
-Created bill  ABC57208 for GANESHA STORE-D-D at 3:27:29
-Starting bill for ANBU  MALIGAI-D-D at 3:27:29
-Created bill  ABC57209 for ANBU  MALIGAI-D-D at 3:27:30
-Did not create bill for MATHA  STORE KTR 1-D-D at 3:27:30
-Starting bill for MSM  OIL  MALIGAI-D-D at 3:27:30
-Created bill  ABC57210 for MSM  OIL  MALIGAI-D-D at 3:27:30
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 3:27:31
-Load Process Started
-Load Process Completed
-Order import process started 3:28:13
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, ANBU MALIGAI-D
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, NEW STORE-BEMANAGAR-D-D
-Party's Credit Exhausted, LINGAM STORES-D-D
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-21SMN00012D-P103120231230 - NEW CHITRA STORE(SVS)-D-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
-Party's Credit Exhausted, JAMAL MYDEN  STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, TAMIL SUPER MARKET-D
-Party's Credit Exhausted, K MART-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Starting bill for ABU MALIGAI-D at 3:28:15
-Created bill  ABC57211 for ABU MALIGAI-D at 3:28:16
-Did not create bill for JAFFER  STORE-D-D-D-D at 3:28:16
-Starting bill for BALAMURUGAN MALIGAI-D at 3:28:16
-Created bill  ABC57212 for BALAMURUGAN MALIGAI-D at 3:28:16
-Did not create bill for CHINNAYA  BEEDA STALL-D at 3:28:16
-Did not create bill for MATHA  STORE KTR 1-D-D at 3:28:16
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 3:28:17
-Load Process Started
-Did not create bill for KUMAR STOREwss-D-D as party is in Dummy Beat
-Load Process Completed
-Load Process Started
-Did not create bill for KUMAR STOREwss-D-D as party is in Dummy Beat
-Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 3:32:20
-Starting bill for MANJU ENTERPRISES-D at 3:32:21
-Created bill  ABC57213 for MANJU ENTERPRISES-D at 3:32:21
-Starting bill for NSA TRADERS at 3:32:21
-Created bill  ABC57214 for NSA TRADERS at 3:32:21
-Starting bill for 5.STAR AGENCIES-D at 3:32:21
-Created bill  ABC57215 for 5.STAR AGENCIES-D at 3:32:22
-Starting bill for 5.STAR AGENCIES-D at 3:32:22
-Following QPS Payout Adjustments were done in this bill QTMBILL for 5.STAR AGENCIES-D 
-44369798, STPR, 125.0
-Created bill  ABC57216 for 5.STAR AGENCIES-D at 3:32:22
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 3:32:22
-Load Process Started
-Did not create bill for KUMAR STOREwss-D-D as party is in Dummy Beat
-Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 3:45:33
-20SMN00005D-P1751120231230 - MANJU ENTERPRISES-D : Invoice not allowed below Rs.100.0
-20SMN00005D-P1812520231230 - SRI SANKAR STORE-D : Invoice not allowed below Rs.100.0
-20SMN00005D-P1831020231230 - SRI LAKSHMI STATIONERS-D : Invoice not allowed below Rs.100.0
-20SMN00005D-P1938020231230 - VASANTHAM MALIGAI-D : Invoice not allowed below Rs.100.0
-20SMN00005D-P2510220231230 - ARVIND AGENCY : Invoice not allowed below Rs.100.0
-20SMN00005D-P992820231230 - ASOKA TRADING -D-D : Invoice not allowed below Rs.100.0
-20SMN00005D-P995820231230 - PAARAS ENTERPRISES-D : Invoice not allowed below Rs.100.0
-20SMN00005P1567720231230 - RAHMANIYA MALIGAI : Invoice not allowed below Rs.100.0
-Starting bill for GOPI KRISHNA MALIGAI-D at 3:45:37
-Created bill  ABC57217 for GOPI KRISHNA MALIGAI-D at 3:45:37
-Starting bill for GOPI KRISHNA MALIGAI-D at 3:45:37
-Created bill  ABC57218 for GOPI KRISHNA MALIGAI-D at 3:45:37
-Starting bill for GOPI KRISHNA MALIGAI-D at 3:45:37
-Created bill  ABC57219 for GOPI KRISHNA MALIGAI-D at 3:45:38
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 3:45:38
-Load Process Started
-Did not create bill for KUMAR STOREwss-D-D as party is in Dummy Beat
-Load Process Completed
-Load Process Started
-Load Process Completed
-Load Process Started
-Load Process Completed
-Load Process Started
-Did not create bill for KUMAR STOREwss-D-D as party is in Dummy Beat
-Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 5:17:28
-Party's Credit Exhausted, ANBU MALIGAI-D
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, NEW STORE-BEMANAGAR-D-D
-Party's Credit Exhausted, LINGAM STORES-D-D
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-21SMN00012D-P103120231230 - NEW CHITRA STORE(SVS)-D-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
-Party's Credit Exhausted, JAMAL MYDEN  STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, TAMIL SUPER MARKET-D
-Party's Credit Exhausted, K MART-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Starting bill for SHRI DHANVANDRI MEDICALS at 5:17:31
-Created bill  ABC57220 for SHRI DHANVANDRI MEDICALS at 5:17:32
-Did not create bill for SRI RAJALAKSHMI STORES-D at 5:17:32
-Starting bill for HARVEST FOODS at 5:17:32
-Created bill  ABC57221 for HARVEST FOODS at 5:17:32
-Starting bill for SRI KRISHNA MALIGAI at 5:17:32
-Created bill  ABC57222 for SRI KRISHNA MALIGAI at 5:17:32
-Did not create bill for OVEYA DEPTEMENT STORE-D-D-D-D at 5:17:32
-Did not create bill for JAFFER  STORE-D-D-D-D at 5:17:32
-Did not create bill for OVEYA DEPTEMENT STORE-D-D-D-D at 5:17:32
-Starting bill for SRI RAJALAKSHMI STORES-D at 5:17:32
-Created bill  ABC57223 for SRI RAJALAKSHMI STORES-D at 5:17:33
-Starting bill for KAJA STORE-D at 5:17:33
-Created bill  ABC57224 for KAJA STORE-D at 5:17:33
-Did not create bill for SOWDAMBIGA STORE-D-D-D at 5:17:33
-Did not create bill for NEW VEERAMMAL STORE-D-D at 5:17:33
-Starting bill for N N store-D at 5:17:33
-Created bill  ABC57225 for N N store-D at 5:17:34
-Starting bill for Sagayamatha Store-D at 5:17:34
-Created bill  ABC57226 for Sagayamatha Store-D at 5:17:35
-Starting bill for Meenakshi Stores at 5:17:35
-Created bill  ABC57227 for Meenakshi Stores at 5:17:35
-Starting bill for Rithi & Rishi-D at 5:17:35
-Created bill  ABC57228 for Rithi & Rishi-D at 5:17:35
-Did not create bill for CHINNAYA  BEEDA STALL-D at 5:17:36
-Starting bill for Andavar Milk-D at 5:17:36
-Created bill  ABC57229 for Andavar Milk-D at 5:17:36
-Starting bill for MANI STORE-D at 5:17:36
-Created bill  ABC57230 for MANI STORE-D at 5:17:37
-Starting bill for Courner Shop-D at 5:17:37
-Created bill  ABC57231 for Courner Shop-D at 5:17:37
-Starting bill for EMS Maligai-D at 5:17:37
-Created bill  ABC57232 for EMS Maligai-D at 5:17:38
-Starting bill for Ms, Beemtastrose-D at 5:17:38
-Created bill  ABC57233 for Ms, Beemtastrose-D at 5:17:38
-Starting bill for Italiyan Bakery-D at 5:17:38
-Created bill  ABC57234 for Italiyan Bakery-D at 5:17:38
-Did not create bill for Five Rose MALIGAI-D at 5:17:38
-Starting bill for Five Star Malligai-D at 5:17:39
-Created bill  ABC57235 for Five Star Malligai-D at 5:17:39
-Starting bill for Rufina Fancy Store-D at 5:17:39
-Created bill  ABC57236 for Rufina Fancy Store-D at 5:17:39
-Starting bill for ANANTHA STORES-BEEMA NGR-D-D-D at 5:17:39
-Created bill  ABC57237 for ANANTHA STORES-BEEMA NGR-D-D-D at 5:17:39
-Starting bill for KAMARAJ MALIGAI-D-D at 5:17:40
-Created bill  ABC57238 for KAMARAJ MALIGAI-D-D at 5:17:40
-Starting bill for MAHES WARI MALIGAI-D-D at 5:17:40
-Created bill  ABC57239 for MAHES WARI MALIGAI-D-D at 5:17:40
-Starting bill for PERUMAL MALIGAID-D-D at 5:17:40
-Created bill  ABC57240 for PERUMAL MALIGAID-D-D at 5:17:41
-Starting bill for PADMA VIKASH at 5:17:41
-Created bill  ABC57241 for PADMA VIKASH at 5:17:41
-Did not create bill for MANI MALIGAI-D-D at 5:17:41
-Starting bill for RENUGA STORE  -KT-D-D-D-D at 5:17:41
-Created bill  ABC57242 for RENUGA STORE  -KT-D-D-D-D at 5:17:42
-Starting bill for SELVAM  STORE KTR 1-D-D at 5:17:42
-Created bill  ABC57243 for SELVAM  STORE KTR 1-D-D at 5:17:42
-Starting bill for SEKAR STORE-D-D at 5:17:42
-Created bill  ABC57244 for SEKAR STORE-D-D at 5:17:42
-Starting bill for KARUPPANNAN  STORE-D-D at 5:17:42
-Created bill  ABC57245 for KARUPPANNAN  STORE-D-D at 5:17:42
-Starting bill for KUMAR  STORE-D-D at 5:17:43
-Created bill  ABC57246 for KUMAR  STORE-D-D at 5:17:43
-Did not create bill for MATHA  STORE KTR 1-D-D at 5:17:43
-Starting bill for KUTTYS MARKETING at 5:17:43
-Created bill  ABC57247 for KUTTYS MARKETING at 5:17:43
-Starting bill for Meenakshi Stores at 5:17:43
-Created bill  ABC57248 for Meenakshi Stores at 5:17:43
-Starting bill for M P GENERAL STORES-D at 5:17:43
-Created bill  ABC57249 for M P GENERAL STORES-D at 5:17:44
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 5:17:45
-Load Process Started
-Load Process Completed
-Order import process started 5:19:20
-Party's Credit Exhausted, ANBU MALIGAI-D
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, NEW STORE-BEMANAGAR-D-D
-Party's Credit Exhausted, LINGAM STORES-D-D
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-21SMN00012D-P103120231230 - NEW CHITRA STORE(SVS)-D-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
-Party's Credit Exhausted, JAMAL MYDEN  STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, TAMIL SUPER MARKET-D
-Party's Credit Exhausted, K MART-D
-Party's Credit Exhausted, Sagayamatha Store-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-Party's Credit Exhausted, EMS Maligai-D
-20SMN00017D-P275120231230 - KAMARAJ MALIGAI-D-D : Order not allowed below Rs.100.0
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Starting bill for SRI RAJALAKSHMI STORES-D at 5:19:22
-Created bill  ABC57250 for SRI RAJALAKSHMI STORES-D at 5:19:22
-Did not create bill for OVEYA DEPTEMENT STORE-D-D-D-D at 5:19:22
-Did not create bill for JAFFER  STORE-D-D-D-D at 5:19:22
-Did not create bill for OVEYA DEPTEMENT STORE-D-D-D-D at 5:19:22
-Starting bill for SOWDAMBIGA STORE-D-D-D at 5:19:22
-Created bill  ABC57251 for SOWDAMBIGA STORE-D-D-D at 5:19:23
-Starting bill for NEW VEERAMMAL STORE-D-D at 5:19:23
-Created bill  ABC57252 for NEW VEERAMMAL STORE-D-D at 5:19:23
-Did not create bill for CHINNAYA  BEEDA STALL-D at 5:19:23
-Starting bill for Five Rose MALIGAI-D at 5:19:23
-Created bill  ABC57253 for Five Rose MALIGAI-D at 5:19:23
-Starting bill for MANI MALIGAI-D-D at 5:19:23
-Created bill  ABC57254 for MANI MALIGAI-D-D at 5:19:24
-Did not create bill for MATHA  STORE KTR 1-D-D at 5:19:24
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 5:19:24
-Load Process Started
-Load Process Completed
-Order import process started 5:20:10
-Party's Credit Exhausted, ANBU MALIGAI-D
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, NEW STORE-BEMANAGAR-D-D
-Party's Credit Exhausted, LINGAM STORES-D-D
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-21SMN00012D-P103120231230 - NEW CHITRA STORE(SVS)-D-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
-Party's Credit Exhausted, JAMAL MYDEN  STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, TAMIL SUPER MARKET-D
-Party's Credit Exhausted, K MART-D
-Party's Credit Exhausted, Sagayamatha Store-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-Party's Credit Exhausted, EMS Maligai-D
-20SMN00017D-P275120231230 - KAMARAJ MALIGAI-D-D : Order not allowed below Rs.100.0
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Did not create bill for OVEYA DEPTEMENT STORE-D-D-D-D at 5:20:12
-Did not create bill for JAFFER  STORE-D-D-D-D at 5:20:12
-Starting bill for OVEYA DEPTEMENT STORE-D-D-D-D at 5:20:12
-Created bill  ABC57255 for OVEYA DEPTEMENT STORE-D-D-D-D at 5:20:12
-Did not create bill for CHINNAYA  BEEDA STALL-D at 5:20:12
-Did not create bill for MATHA  STORE KTR 1-D-D at 5:20:12
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 5:20:13
-Load Process Started
-Did not create bill for KUMAR STOREwss-D-D as party is in Dummy Beat
-Load Process Completed
-Load Process Started
-Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 5:24:4
-Starting bill for NEW STORES-D at 5:24:4
-Created bill  ABC57256 for NEW STORES-D at 5:24:4
-Starting bill for ASOKA TRADING -D-D at 5:24:4
-Created bill  ABC57257 for ASOKA TRADING -D-D at 5:24:4
-Starting bill for ASOKA TRADING -D-D at 5:24:4
-Created bill  ABC57258 for ASOKA TRADING -D-D at 5:24:4
-Starting bill for NEW STORES-D at 5:24:4
-Created bill  ABC57259 for NEW STORES-D at 5:24:5
-Starting bill for VASANTHAM MALIGAI-D at 5:24:5
-Created bill  ABC57260 for VASANTHAM MALIGAI-D at 5:24:5
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 5:24:5
-Load Process Started
-Did not create bill for KUMAR STOREwss-D-D as party is in Dummy Beat
-Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 5:35:11
-Party's Credit Exhausted, ANBU MALIGAI-D
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, NEW STORE-BEMANAGAR-D-D
-Party's Credit Exhausted, LINGAM STORES-D-D
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-21SMN00012D-P103120231230 - NEW CHITRA STORE(SVS)-D-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
-Party's Credit Exhausted, JAMAL MYDEN  STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, TAMIL SUPER MARKET-D
-Party's Credit Exhausted, K MART-D
-Party's Credit Exhausted, Sagayamatha Store-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-Party's Credit Exhausted, EMS Maligai-D
-20SMN00017D-P275120231230 - KAMARAJ MALIGAI-D-D : Order not allowed below Rs.100.0
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Did not create bill for OVEYA DEPTEMENT STORE-D-D-D-D at 5:35:13
-Did not create bill for JAFFER  STORE-D-D-D-D at 5:35:13
-Did not create bill for CHINNAYA  BEEDA STALL-D at 5:35:13
-Starting bill for NABIJAAN MEDICAL-D-D at 5:35:13
-Created bill  ABC57261 for NABIJAAN MEDICAL-D-D at 5:35:13
-Did not create bill for BASHA MALIGAI-D at 5:35:14
-Starting bill for ABIRAMI MALLIGAI-D at 5:35:14
-Created bill  ABC57262 for ABIRAMI MALLIGAI-D at 5:35:14
-Starting bill for Thaslim Beeta Stall-D at 5:35:14
-Created bill  ABC57263 for Thaslim Beeta Stall-D at 5:35:14
-Did not create bill for MURUGAN MALIGAI-D at 5:35:14
-Starting bill for MOHAMED ILYAS-D at 5:35:14
-Created bill  ABC57264 for MOHAMED ILYAS-D at 5:35:15
-Did not create bill for MATHA  STORE KTR 1-D-D at 5:35:15
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 5:35:15
-Load Process Started
-Load Process Completed
-Order import process started 5:50:15
-Party's Credit Exhausted, ANBU MALIGAI-D
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, NEW STORE-BEMANAGAR-D-D
-Party's Credit Exhausted, LINGAM STORES-D-D
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-21SMN00012D-P103120231230 - NEW CHITRA STORE(SVS)-D-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
-Party's Credit Exhausted, JAMAL MYDEN  STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, TAMIL SUPER MARKET-D
-Party's Credit Exhausted, K MART-D
-Party's Credit Exhausted, Sagayamatha Store-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-Party's Credit Exhausted, EMS Maligai-D
-20SMN00017D-P275120231230 - KAMARAJ MALIGAI-D-D : Order not allowed below Rs.100.0
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Did not create bill for J B Super Market-D at 5:50:17
-Did not create bill for KANAN MALIGAI-D-D-D at 5:50:17
-Did not create bill for RASI MALIGAI-D-D-D at 5:50:17
-Did not create bill for OVEYA DEPTEMENT STORE-D-D-D-D at 5:50:17
-Did not create bill for JAFFER  STORE-D-D-D-D at 5:50:17
-Did not create bill for CHINNAYA  BEEDA STALL-D at 5:50:17
-Starting bill for MAM-D at 5:50:17
-Created bill  ABC57267 for MAM-D at 5:50:18
-Did not create bill for BASHA MALIGAI-D at 5:50:18
-Starting bill for HAJERA MALIGAI-D at 5:50:18
-Created bill  ABC57268 for HAJERA MALIGAI-D at 5:50:18
-Starting bill for GALAXY FANCY-D at 5:50:18
-Created bill  ABC57269 for GALAXY FANCY-D at 5:50:19
-Starting bill for SRI JAVIRA AGENCY-D at 5:50:19
-Created bill  ABC57270 for SRI JAVIRA AGENCY-D at 5:50:19
-Starting bill for S M Store at 5:50:19
-Created bill  ABC57271 for S M Store at 5:50:19
-Starting bill for AMMA MALIGAI-D at 5:50:19
-Created bill  ABC57272 for AMMA MALIGAI-D at 5:50:20
-Starting bill for Bishmi Maligai-D at 5:50:20
-Created bill  ABC57273 for Bishmi Maligai-D at 5:50:20
-Did not create bill for MURUGAN MALIGAI-D at 5:50:20
-Starting bill for GOPI BEEDA STALL-D at 5:50:20
-Created bill  ABC57274 for GOPI BEEDA STALL-D at 5:50:21
-Starting bill for Shathi Store at 5:50:21
-Created bill  ABC57275 for Shathi Store at 5:50:21
-Starting bill for ACR BEEDA STAL-D-D-D at 5:50:21
-Created bill  ABC57276 for ACR BEEDA STAL-D-D-D at 5:50:22
-Starting bill for Bismi Daily Fresh at 5:50:22
-Created bill  ABC57277 for Bismi Daily Fresh at 5:50:22
-Starting bill for H MART at 5:50:22
-Created bill  ABC57278 for H MART at 5:50:22
-Did not create bill for MATHA  STORE KTR 1-D-D at 5:50:22
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 5:50:23
-Load Process Started
-Did not create bill for KUMAR STOREwss-D-D as party is in Dummy Beat
-Load Process Completed
-Load Process Started
-Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 5:53:53
-Starting bill for REVATHI RIBBON HOUSE-D at 5:53:55
-Created bill  ABC57279 for REVATHI RIBBON HOUSE-D at 5:53:55
-Starting bill for MANJU ENTERPRISES-D at 5:53:55
-Created bill  ABC57280 for MANJU ENTERPRISES-D at 5:53:56
-Starting bill for SRI SANKAR STORE-D at 5:53:56
-Created bill  ABC57281 for SRI SANKAR STORE-D at 5:53:56
-Starting bill for SRI LAKSHMI STATIONERS-D at 5:53:56
-Created bill  ABC57282 for SRI LAKSHMI STATIONERS-D at 5:53:56
-Starting bill for RAJAPRABHU COOL DRINKS-D at 5:53:56
-Created bill  ABC57283 for RAJAPRABHU COOL DRINKS-D at 5:53:56
-Starting bill for VASANTHAM MALIGAI-D at 5:53:56
-Created bill  ABC57284 for VASANTHAM MALIGAI-D at 5:53:57
-Starting bill for ARVIND AGENCY at 5:53:57
-Created bill  ABC57285 for ARVIND AGENCY at 5:53:57
-Starting bill for ASOKA TRADING -D-D at 5:53:57
-Created bill  ABC57286 for ASOKA TRADING -D-D at 5:53:57
-Starting bill for PAARAS ENTERPRISES-D at 5:53:57
-Created bill  ABC57287 for PAARAS ENTERPRISES-D at 5:53:57
-Starting bill for RAHMANIYA MALIGAI at 5:53:57
-Created bill  ABC57288 for RAHMANIYA MALIGAI at 5:53:57
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 5:53:58
-Load Process Started
-Load Process Completed
-Order import process started 6:5:11
-Party's Credit Exhausted, ANBU MALIGAI-D
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, NEW STORE-BEMANAGAR-D-D
-Party's Credit Exhausted, LINGAM STORES-D-D
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-21SMN00012D-P103120231230 - NEW CHITRA STORE(SVS)-D-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
-Party's Credit Exhausted, JAMAL MYDEN  STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, TAMIL SUPER MARKET-D
-Party's Credit Exhausted, K MART-D
-Party's Credit Exhausted, Sagayamatha Store-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-Party's Credit Exhausted, EMS Maligai-D
-20SMN00017D-P275120231230 - KAMARAJ MALIGAI-D-D : Order not allowed below Rs.100.0
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Did not create bill for J B Super Market-D at 6:5:13
-Did not create bill for KANAN MALIGAI-D-D-D at 6:5:13
-Did not create bill for RASI MALIGAI-D-D-D at 6:5:13
-Did not create bill for OVEYA DEPTEMENT STORE-D-D-D-D at 6:5:13
-Did not create bill for JAFFER  STORE-D-D-D-D at 6:5:13
-Did not create bill for CHINNAYA  BEEDA STALL-D at 6:5:13
-Did not create bill for Danalichmi Store-D at 6:5:13
-Starting bill for ANDAVAR MILK-D at 6:5:13
-Created bill  ABC57289 for ANDAVAR MILK-D at 6:5:14
-Did not create bill for BASHA MALIGAI-D at 6:5:14
-Did not create bill for MURUGAN MALIGAI-D at 6:5:14
-Did not create bill for MATHA  STORE KTR 1-D-D at 6:5:14
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 6:5:15
-Load Process Started
-Load Process Completed
-Order import process started 6:6:30
-Party's Credit Exhausted, ANBU MALIGAI-D
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, NEW STORE-BEMANAGAR-D-D
-Party's Credit Exhausted, LINGAM STORES-D-D
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-21SMN00012D-P103120231230 - NEW CHITRA STORE(SVS)-D-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
-Party's Credit Exhausted, JAMAL MYDEN  STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-Party's Credit Exhausted, TAMIL SUPER MARKET-D
-Party's Credit Exhausted, K MART-D
-Party's Credit Exhausted, Sagayamatha Store-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-Party's Credit Exhausted, EMS Maligai-D
-20SMN00017D-P275120231230 - KAMARAJ MALIGAI-D-D : Order not allowed below Rs.100.0
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Starting bill for J B Super Market-D at 6:6:32
-Following Locked Category Payout Adjustments were done in this bill QTMBILL for J B Super Market-D
-44447374, OUTLET_PAY, 209.343994140625
-Created bill  ABC57290 for J B Super Market-D at 6:6:32
-Starting bill for KANAN MALIGAI-D-D-D at 6:6:32
-Created bill  ABC57291 for KANAN MALIGAI-D-D-D at 6:6:33
-Starting bill for RASI MALIGAI-D-D-D at 6:6:33
-Created bill  ABC57292 for RASI MALIGAI-D-D-D at 6:6:33
-Did not create bill for OVEYA DEPTEMENT STORE-D-D-D-D at 6:6:33
-Did not create bill for JAFFER  STORE-D-D-D-D at 6:6:33
-Did not create bill for CHINNAYA  BEEDA STALL-D at 6:6:33
-Starting bill for Danalichmi Store-D at 6:6:33
-Created bill  ABC57293 for Danalichmi Store-D at 6:6:33
-Starting bill for BASHA MALIGAI-D at 6:6:33
-Created bill  ABC57294 for BASHA MALIGAI-D at 6:6:39
-Starting bill for MURUGAN MALIGAI-D at 6:6:39
-Created bill  ABC57295 for MURUGAN MALIGAI-D at 6:6:40
-Did not create bill for MATHA  STORE KTR 1-D-D at 6:6:40
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 6:6:41
-Load Process Started
-Did not create bill for KUMAR STOREwss-D-D as party is in Dummy Beat
-Load Process Completed
-Load Process Started
-Load Process Completed
-Order import process started 6:15:47
-Starting bill for ASOKA TRADING -D-D at 6:15:49
-Created bill  ABC57296 for ASOKA TRADING -D-D at 6:15:50
-Starting bill for ASOKA TRADING -D-D at 6:15:50
-Created bill  ABC57297 for ASOKA TRADING -D-D at 6:15:50
-Starting bill for ASOKA TRADING -D-D at 6:15:50
-Created bill  ABC57298 for ASOKA TRADING -D-D at 6:15:50
-Starting bill for ASOKA TRADING -D-D at 6:15:50
-Created bill  ABC57299 for ASOKA TRADING -D-D at 6:15:51
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 6:15:51
-Load Process Started
-Load Process Completed
-Order import process started 6:21:28
-Party's Credit Exhausted, ANBU MALIGAI-D
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, NEW STORE-BEMANAGAR-D-D
-Party's Credit Exhausted, LINGAM STORES-D-D
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-21SMN00012D-P103120231230 - NEW CHITRA STORE(SVS)-D-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
-Party's Credit Exhausted, JAMAL MYDEN  STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-20SMN00012D-P1688520231230 - TAMIL SUPER MARKET-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, K MART-D
-Party's Credit Exhausted, Sagayamatha Store-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-Party's Credit Exhausted, EMS Maligai-D
-20SMN00017D-P275120231230 - KAMARAJ MALIGAI-D-D : Order not allowed below Rs.100.0
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Did not create bill for OVEYA DEPTEMENT STORE-D-D-D-D at 6:21:31
-Did not create bill for JAFFER  STORE-D-D-D-D at 6:21:31
-Starting bill for SRI BALAMURUGAN SUPER MARKET-D-D at 6:21:31
-Created bill  ABC57300 for SRI BALAMURUGAN SUPER MARKET-D-D at 6:21:31
-Did not create bill for CHINNAYA  BEEDA STALL-D at 6:21:31
-Did not create bill for MATHA  STORE KTR 1-D-D at 6:21:31
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 6:21:32
-Load Process Started
-Load Process Completed
-Order import process started 6:36:29
-Party's Credit Exhausted, ANBU MALIGAI-D
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, NEW STORE-BEMANAGAR-D-D
-Party's Credit Exhausted, LINGAM STORES-D-D
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-21SMN00012D-P103120231230 - NEW CHITRA STORE(SVS)-D-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
-Party's Credit Exhausted, JAMAL MYDEN  STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-20SMN00012D-P1688520231230 - TAMIL SUPER MARKET-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, K MART-D
-Party's Credit Exhausted, Sagayamatha Store-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-Party's Credit Exhausted, EMS Maligai-D
-20SMN00017D-P275120231230 - KAMARAJ MALIGAI-D-D : Order not allowed below Rs.100.0
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Did not create bill for OVEYA DEPTEMENT STORE-D-D-D-D at 6:36:31
-Did not create bill for JAFFER  STORE-D-D-D-D at 6:36:31
-Did not create bill for CHINNAYA  BEEDA STALL-D at 6:36:31
-Did not create bill for MATHA  STORE KTR 1-D-D at 6:36:31
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 6:36:32
-Load Process Started
-Load Process Completed
-Order import process started 11:19:12
-Party's Credit Exhausted, ANBU MALIGAI-D
-Party's Credit Exhausted, 5.STAR AGENCIES-D
-Party's Credit Exhausted, NEW STORE-BEMANAGAR-D-D
-Party's Credit Exhausted, LINGAM STORES-D-D
-Party's Credit Exhausted, ROYAL STORE-D-D-D-D
-21SMN00012D-P103120231230 - NEW CHITRA STORE(SVS)-D-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, KASI STORE-D-D-D-D-D
-Party's Credit Exhausted, BALAMURUGAN MALIGAI-D
-Party's Credit Exhausted, JAMAL MYDEN  STORE-D-D-D-D-D
-Party's Credit Exhausted, NEW  KAREEM  STORE-D-D-D-D
-20SMN00012D-P1688520231230 - TAMIL SUPER MARKET-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, K MART-D
-Party's Credit Exhausted, Sagayamatha Store-D
-Party's Credit Exhausted, SUBRAMANIAN STORE-D
-Party's Credit Exhausted, EMS Maligai-D
-20SMN00017D-P275120231230 - KAMARAJ MALIGAI-D-D : Order not allowed below Rs.100.0
-20SMN00019D-P171120231230 - NEW VEERAMMAL STORE-D-D : Order not allowed below Rs.100.0
-Party's Credit Exhausted, SMS STORE-D
-Party's Credit Exhausted, ANANDHA STORED-D
-Did not create bill for OVEYA DEPTEMENT STORE-D-D-D-D at 11:19:14
-Did not create bill for JAFFER  STORE-D-D-D-D at 11:19:14
-Did not create bill for JAMAL MYDEN  STORE-D-D-D-D-D at 11:19:14
-Starting bill for KAVERI MEDICAL-D-D at 11:19:14
-Created bill  ABC57301 for KAVERI MEDICAL-D-D at 11:19:15
-Did not create bill for KAMATCHI STORE-D at 11:19:15
-Did not create bill for CHINNAYA  BEEDA STALL-D at 11:19:15
-Starting bill for V2  Queens Mart at 11:19:15
-Created bill  ABC57302 for V2  Queens Mart at 11:19:17
-Starting bill for Jai Sai Enterprises at 11:19:17
-Created bill  ABC57303 for Jai Sai Enterprises at 11:19:17
-Did not create bill for MATHA  STORE KTR 1-D-D at 11:19:17
-Did not create bill for RASI  MALIGAI-D-D at 11:19:17
-Generating SOAO extract
-Generated SOAO extract successfully
-Order import process ended 11:19:18
+Order import process ended 0:47:8
