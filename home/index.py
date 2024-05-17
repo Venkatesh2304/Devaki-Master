@@ -160,7 +160,7 @@ def postUpdate():
     data = dict(request.form)
     #a_b to { a : { b : value }}
     login_data = { i  : {} for i in [ i.split("_")[0] for i in data ]  }
-    for i,j in data.items() :  login_data[i.split("_")[0]][i.split("_")[1]] = j 
+    for i,j in data.items() :  login_data[i.split("_")[0]][ "_".join(i.split("_")[1:]) ] = j 
     users.update_one({"username" : user }, { "$set" : login_data }, upsert = True ) 
     for  fname , file in dict(request.files).items() : 
         if file : 
